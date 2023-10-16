@@ -9,6 +9,6 @@ CREATE TABLE petrol_stations (
   address TEXT NOT NULL,
   suburb TEXT NOT NULL,
   state TEXT NOT NULL,
-  lat NUMBER NOT NULL,
-  lng NUMBER NOT NULL,
+  lat FLOAT NOT NULL,
+  lng FLOAT NOT NULL
 );
