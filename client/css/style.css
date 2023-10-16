@@ -18,6 +18,13 @@ section {
 main {
   border-left: 2px solid black;
   border-right: 2px solid black;
+  height: 100vh;
+}
+ul {
+  list-style-type: none;
+}
+#map {
+  height: 100%;
 }
 .container {
   display: grid;
@@ -26,6 +33,7 @@ main {
 
 @media (max-width: 768px) {
   main {
+    height: 70vh;
     order: 1;
   }
   .container {

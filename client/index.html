@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>RefillRouter</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <link rel="stylesheet" href="/css/style.css" />
   </head>
   <body>
@@ -14,7 +15,15 @@
         <section>Map Location</section>
         <section>Nearest</section>
       </aside>
-      <main class="col-middle">column 2</main>
+
+      <main class="col-middle">
+        <div id="map"></div>
+        ​
+        <!-- prettier-ignore -->
+        <script>(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await (a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})
+        ({key: "", v: "weekly"});</script>
+      </main>
+
       <aside class="col-right">
         <section>Stats</section>
         <section>Latest Prices</section>
@@ -22,14 +31,39 @@
           <h2>About</h2>
           <h3>Team Name: GeoDevs</h3>
           <ul>
-            <li>Samuel https://github.com/samuelurom/</li>
-            <li>Harley https://github.com/harleybrackley/</li>
-            <li>Justin https://github.com/JustinOngy/</li>
-            <li>Maureen https://github.com/MauzzaH/</li>
-            <li>Chris https://github.com/ChrisW91</li>
+            <li>
+              Samuel
+              <a href="https://github.com/samuelurom/" target="_blank"
+                >https://github.com/samuelurom/</a
+              >
+            </li>
+            <li>
+              Harley
+              <a href="https://github.com/harleybrackley/" target="_blank"
+                >https://github.com/harleybrackley/</a
+              >
+            </li>
+            <li>
+              Justin
+              <a href="https://github.com/JustinOngy/" target="_blank"
+                >https://github.com/JustinOngy/</a
+              >
+            </li>
+            <li>
+              Maureen
+              <a href="https://github.com/MauzzaH/" target="_blank"
+                >https://github.com/MauzzaH/</a
+              >
+            </li>
+            <li>
+              Chris
+              <a href="https://github.com/ChrisW91" target="_blank"
+                >https://github.com/ChrisW91</a
+              >
+            </li>
           </ul>
+          <p>&copy; 2023 RefillRouter</p>
         </section>
-        <section>something else</section>
       </aside>
     </div>
     <script src="/client.js"></script>
