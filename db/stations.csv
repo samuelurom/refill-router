@@ -3827,3 +3827,1419 @@ ID,NAME,OWNER,ADDRESS,SUBURB,STATE,LATITUDE,LONGITUDE
 3826,Coles Express Glenvern,Shell,357 Glenferrie Road,Malvern,Victoria,-37.851842,145.029713
 3827,Pars Garage,Shell,1204 Mountain Highway,The Basin,Victoria,-37.850376,145.306817
 3828,Coles Express Burwood,Shell,Burwood Highway and Central Avenue,Burwood,Victoria,-37.8502789999999,145.098013
+3829,Coles Express Tarneit,Shell,380-382 Sayers Road,Tarneit,Victoria,-37.849951,144.705673
+3830,Coles Express Forest Hill,Shell,393 Springvale Road,Forest Hill,Victoria,-37.840837,145.171999
+3831,Coles Express Mountain Highway,Shell,758-760 Mountain Highway,Bayswater,Victoria,-37.8404219999999,145.267901
+3832,Coles Express South Yarra,Shell,325 Toorak Road,South Yarra,Victoria,-37.8395149999999,144.997886
+3833,Coles Express Vermont,Shell,385-389 Canterbury Road,Ringwood,Victoria,-37.8320479999999,145.214764
+3834,Coles Express Altona North,Shell,71-75 Dohertys Road,Altona North,Victoria,-37.831666,144.824757
+3835,Coles Express Westgate South,Shell,2 West Gate Freeway,Port Melbourne,Victoria,-37.831133,144.918573
+3836,Coles Express Auburndale,Shell,187 Riversdale Road,Hawthorn,Victoria,-37.8293889999999,145.042233
+3837,Coles Express Westgate North,Shell,1 West Gate Freeway,Port Melbourne,Victoria,-37.8290739999999,144.919131
+3838,Coles Express Spotswood,Shell,642 Melbourne Road,Spotswood,Victoria,-37.8276329999999,144.881443
+3839,Kmart Tyre & Auto Altona,Caltex,122-134 Millers Road,Altona North,Victoria,-37.8272299999999,144.848572
+3840,Coles Express Richmond,Shell,399-411 Punt Road,Cremorne,Victoria,-37.826521,144.988849
+3841,Princi Motors,Shell,273 Monbulk Road,Silvan,Victoria,-37.8254929999999,145.421873
+3842,Coles Express Bayswater,Shell,148-150 Canterbury Road,Bayswater North,Victoria,-37.8252429999999,145.28827
+3843,Coles Express Surrey Hills,Shell,260 Canterbury Road,Surrey Hills,Victoria,-37.82508,145.087673
+3844,Coles Express Camberwell,Shell,800-802 Burke Road,Camberwell,Victoria,-37.823887,145.058415
+3845,Laverton North,Shell,2 Little Boundary Road,Laverton North,Victoria,-37.8230819999999,144.824277
+3846,Coles Express Blackburn,Shell,Maroondah Highway and Middleborough Road,Blackburn,Victoria,-37.819205,145.139177
+3847,Coles Express Nunawading,Shell,340 Whitehorse Road,Nunawading,Victoria,-37.818906,145.175475
+3848,Coles Express Kew,Shell,1107-1113 Burke Road,Kew,Victoria,-37.817012,145.059083
+3849,Coles Express East Melbourne,Shell,1181 Hoddle Street,East Melbourne,Victoria,-37.813073,144.990526
+3850,Coles Express Balwyn,Shell,449 Whitehorse Road,Balwyn,Victoria,-37.8129539999999,145.085996
+3851,Coles Express Ringwood,Shell,9 Mount Dandenong Road,Ringwood East,Victoria,-37.810869,145.239389
+3852,Coles Express Cotham Road,Shell,245 Cotham Road,Kew,Victoria,-37.808938,145.051446
+3853,Kmart Tyre & Auto Blackburn,Shell,Springfield Road and Middleborough Road,Blackburn,Victoria,-37.8088729999999,145.14096
+3854,Coles Express Croydon,Shell,168 Mount Dandenong Road,Croydon,Victoria,-37.7997389999999,145.278633
+3855,Coles Express Abbotsford,Shell,266 Hoddle Street,Abbotsford,Victoria,-37.798232,144.99368
+3856,Coles Express Ringwood East,Shell,521 Maroondah Highway,Ringwood,Victoria,-37.797872,145.253364
+3857,Coles Express Carlton,Shell,406 Lygon Street,Carlton,Victoria,-37.797449,144.96781
+3858,Coles Express Ardeer,Shell,1 The Avenue,Sunshine West,Victoria,-37.796034,144.790355
+3859,Coles Express Collingwood,Shell,11 Alexandra Parade,Collingwood,Victoria,-37.794411,144.986323
+3860,Coles Express Fitzroy,Shell,75 Alexandra Parade,Fitzroy North,Victoria,-37.7928649999999,144.978735
+3861,Coles Express Flemington,Shell,291-309 Smithfield Road,Kensington,Victoria,-37.7921479999999,144.918735
+3862,Coles Express Doncaster,Shell,551 Doncaster Road,Doncaster,Victoria,-37.787844,145.119615
+3863,Coles Express Fairfield,Shell,377 Heidelberg Road,Fairfield,Victoria,-37.783359,145.015669
+3864,Coles Express Sunshine,Shell,392-394 Ballarat Road,Sunshine North,Victoria,-37.778314,144.843743
+3865,Pace Motors Seville,Shell,567 Warburton Highway,Seville,Victoria,-37.777482,145.459017
+3866,Coles Express Koonung,Shell,187 High Street,Templestowe Lower,Victoria,-37.773992,145.113505
+3867,Coles Express Brunswick,Shell,Lygon Street and Glenlyon Road,Brunswick East,Victoria,-37.772095,144.971364
+3868,Coles Express Bulleen,Shell,Manningham Road and Grant Olsen Avenue,Bulleen,Victoria,-37.766926,145.093067
+3869,Coles Express Doncaster East,Shell,484 Blackburn Road,Doncaster East,Victoria,-37.7640489999999,145.166959
+3870,Coles Express Warrandyte South,Shell,482-484 Ringwood-Warrandyte Road,Warrandyte,Victoria,-37.7602439999999,145.233722
+3871,Shell Warburton,Shell,3458 Warburton Highway,Warburton,Victoria,-37.753463,145.69614
+3872,Coles Express Lilydale,Shell,467-469 Maroondah Highway,Lilydale,Victoria,-37.7530619999999,145.364812
+3873,Coles Express Templestowe,Shell,87-91 Porter Street,Templestowe,Victoria,-37.7520039999999,145.134469
+3874,Coles Express Preston,Shell,485 Bell Street,Preston,Victoria,-37.744546,144.994013
+3875,Coles Express St Albans,Shell,265-267 Main Road West,St Albans,Victoria,-37.742352,144.779854
+3876,Coles Express Rosanna,Shell,152 Lower Plenty Road,Rosanna,Victoria,-37.742182,145.066955
+3877,Coles Express East Preston,Shell,1-5 Murray Road,Preston,Victoria,-37.741323,145.030362
+3878,Coles Express Essendon,Shell,249 Keilor Road,Essendon,Victoria,-37.739495,144.897475
+3879,Coles Express Coburg,Shell,346 Bell Street,Pascoe Vale South,Victoria,-37.7392629999999,144.949019
+3880,Coles Express Eltham,Shell,660 Main Road,Eltham,Victoria,-37.727068,145.147312
+3881,Coles Express Keilor,Shell,666-668 Old Calder Highway,Keilor,Victoria,-37.7202159999999,144.837259
+3882,Coles Express Macleod,Shell,230 Greensborough Road,Yallambie,Victoria,-37.7198,145.081474
+3883,Coles Express Reservoir,Shell,192-202 Broadway,Reservoir,Victoria,-37.7169989999999,145.012488
+3884,Airport West ,Shell,10 Louis Street,Airport West,Victoria,-37.71457,144.888759
+3885,Coles Express Fawkner,Shell,1182 Sydney Road,Fawkner,Victoria,-37.70879,144.961622
+3886,Coles Express Melton South,Shell,1-9 Station Road,Melton South,Victoria,-37.7026949999999,144.574738
+3887,Coles Express Greensborough,Shell,144-146 Main Street,Greensborough,Victoria,-37.701804,145.107065
+3888,Coles Express Taylors Lakes,Shell,410 Melton Highway,Taylors Lakes,Victoria,-37.696908,144.782166
+3889,Coles Express Jacana,Shell,945-957 Pascoe Vale Road,Broadmeadows,Victoria,-37.692775,144.915011
+3890,Coles Express Bundoora,Shell,127-132 Plenty Road,Bundoora,Victoria,-37.692016,145.06228
+3891,Coles Express Tullamarine,Shell,175-183 Mickleham Road,Westmeadows,Victoria,-37.6876369999999,144.881781
+3892,Coles Express Gladstone Park,Shell,210 Mickleham Road,Gladstone Park,Victoria,-37.686792,144.883015
+3893,Coles Express Dalton Road,Shell,27 Spencer Street,Thomastown,Victoria,-37.684945,145.028554
+3894,Coles Express Thoroughbred,Shell,414-416 High Street,Melton,Victoria,-37.683124,144.57764
+3895,Coles Express Thomastown,Shell,240 High Street,Thomastown,Victoria,-37.678885,145.014274
+3896,Raymonds ,Shell,36 Fawkner Street,Westmeadows,Victoria,-37.677005,144.887255
+3897,Diamond Creek ,Shell,52 Chute Street,Diamond Creek,Victoria,-37.673423,145.151818
+3898,Coles Express Epping,Caltex,511 High Street,Epping,Victoria,-37.65921,145.018829
+3899,Coles Express Mill Park,Shell,398 Plenty Road,Mill Park,Victoria,-37.658894,145.076289
+3900,Coles Express Healesville,Shell,123 Maroondah Highway,Healesville,Victoria,-37.6570639999999,145.510491
+3901,Epping North,7-Eleven Pty Ltd,705 High Steet,Epping,Victoria,-37.6514071,145.0236211
+3902,Coles Express South Morang,Shell,350 McDonalds Road,South Morang,Victoria,-37.649648,145.07585
+3903,Coles Express Mernda,Shell,1444 Plenty Road,Mernda,Victoria,-37.6001259999999,145.096596
+3904,Coles Express Craigieburn,Shell,42 Craigieburn Road,Craigieburn,Victoria,-37.598295,144.938394
+3905,Coles Express Sunbury,Shell,1-5 Horne Street,Sunbury,Victoria,-37.5763279999999,144.729098
+3906,Coles Express Bunker Hill,Shell,15 Donnybrook Road,Mickleham,Victoria,-37.5406149999999,144.944824
+3907,Kinglake,Shell,3 Whittlesea Kinglake Road,Kinglake,Victoria,-37.5323079999999,145.34013
+3908,Lancefield Motors,Shell,74 Main Road,Lancefield,Victoria,-37.277229,144.73728
+3909,Coles Express Deborah Reef,Shell,198 High Street,Bendigo,Victoria,-36.7656459999999,144.267603
+3910,Coles Express Woolpak,Shell,McIvor Road and Kennedy Street,Bendigo,Victoria,-36.7569369999999,144.292162
+3911,Shell Byrneside,Shell,5389 Midland Highway,Byrneside,Victoria,-36.4204099999999,145.174493
+3912,Coles Express Shepparton,Shell,543 Goulburn Valley Highway,Shepparton,Victoria,-36.3911859999999,145.396789
+3913,Coles Express Mooroopna,Shell,109 Echuca Road,Mooroopna,Victoria,-36.3841419999999,145.353675
+3914,Coles Express Tuggeranong,Shell,149 Soward Way,Greenway,Australian Capital Territory,-35.4184359999999,149.069132
+3915,Coles Express Wanniassa,Shell,49-51 Rylah Crescent,Wanniassa,Australian Capital Territory,-35.3902479999999,149.08532
+3916,Bill Lilley Mitsubishi,Shell,169 Crawford Street,Queanbeyan,New South Wales,-35.351378,149.232574
+3917,Coles Express Phillip,Shell,172 Melrose Drive,Phillip,Australian Capital Territory,-35.349958,149.084896
+3918,Coles Express Fyshwick Wiluna,Shell,2 Wiluna Street,Fyshwick,Australian Capital Territory,-35.328687798,149.163624429
+3919,Coles Express Fyshwick Capital,Shell,98-106 Newcastle Street,Fyshwick,Australian Capital Territory,-35.32791,149.177843
+3920,Coles Express Curtin,Shell,17 Strangways Street,Curtin,Australian Capital Territory,-35.3248389999999,149.081457
+3921,Coles Express Manuka,Shell,11 Franklin Street,Griffith,Australian Capital Territory,-35.3200229999999,149.134182
+3922,Coles Express Deakin,Shell,29 Hopetoun Circuit,Deakin,Australian Capital Territory,-35.314043,149.107768
+3923,Coles Express Braddon,Shell,54 Mort Street,Braddon,Australian Capital Territory,-35.270769,149.132056
+3924,Coles Express Dickson,Shell,71-81 Badham Street,Dickson,Australian Capital Territory,-35.249051,149.137332
+3925,Coles Express Hawker,Shell,20 Springvale Drive,Hawker,Australian Capital Territory,-35.244273,149.044373
+3926,Coles Express Belconnen,Shell,19 Lathlain Street,Belconnen,Australian Capital Territory,-35.242627,149.064012
+3927,Coles Express Belconnen Town Centre,Shell,27 Cohen Street,Belconnen,Australian Capital Territory,-35.239568,149.06128
+3928,Coles Express McLaren Vale,Shell,207 Main Road,McLaren Vale,South Australia,-35.2136879999999,138.535143
+3929,Coles Express Charnwood,Shell,1 Charnwood Place,Charnwood,Australian Capital Territory,-35.205594,149.033374
+3930,Coles Express Gungahlin,Shell,1 Ginn Street,Gungahlin,Australian Capital Territory,-35.183612,149.126377
+3931,Coles Express Noarlunga,Shell,Beach Road and Hannah Road,Noarlunga Centre,South Australia,-35.1384449999999,138.497519
+3932,Coles Express Reynella,Shell,87-91 Main South Road,Reynella,South Australia,-35.099413,138.532223
+3933,Coles Express Hallett Cove,Shell,2 Ramrod Avenue,Hallett Cove,South Australia,-35.0775439999999,138.51803
+3934,Coles Express Darlington,Shell,1483 Main South Road,Darlington,South Australia,-35.0245669999999,138.562059
+3935,Coles Express Blackwood,Shell,371 Shepherds Hill Road,Blackwood,South Australia,-35.021002,138.615468
+3936,Coles Express Stirling,Shell,65 Mount Barker Road,Stirling,South Australia,-35.006158,138.718336
+3937,Coles Express Hawthorn,Shell,150 Belair Road,Hawthorn,South Australia,-34.972482,138.60882
+3938,Coles Express Rose Park,Shell,149 Fullarton Road,Rose Park,South Australia,-34.930776,138.624193
+3939,Coles Express West Terrace,Shell,111 West Terrace,Adelaide,South Australia,-34.929765,138.588345
+3940,Coles Express Norwood,Shell,208 Magill Road,Norwood,South Australia,-34.9151659999999,138.640112
+3941,Coles Express Thebarton,Shell,53-57 Port Road,Thebarton,South Australia,-34.9150549999999,138.577612
+3942,Coles Express Findon,Shell,245 Findon Road,Findon,South Australia,-34.905073,138.532965
+3943,Coles Express Hectorville,Shell,150 Montacute Road,Hectorville,South Australia,-34.888976,138.673835
+3944,Coles Express Klemzig,Shell,46 O G Road,Klemzig,South Australia,-34.8787599999999,138.635374
+3945,Coles Express West Lakes,Shell,111 West Lakes Boulevard,West Lakes,South Australia,-34.8771429999999,138.492751
+3946,Coles Express Nowra,Shell,51A-55 Kinghorne Street,Nowra,New South Wales,-34.876344,150.602354
+3947,Coles Express Queenstown,Shell,79-83 Port Road,Queenstown,South Australia,-34.8637899999999,138.51467
+3948,Coles Express Windsor Gardens,Shell,515 North East Road,Gilles Plains,South Australia,-34.8578009999999,138.655237
+3949,Coles Express Mansfield Park,Shell,446-450 Grand Junction Road,Mansfield Park,South Australia,-34.8505089999999,138.554671
+3950,Coles Express Hope Valley,Shell,1230 Grand Junction Road,Hope Valley,South Australia,-34.8435509999999,138.701084
+3951,Shell Gillman Truck Port,Shell,202-212 Eastern Parade,Gillman,South Australia,-34.837173,138.520335
+3952,Coles Express Valley View Wright Road,Shell,267 Wright Road,Valley View,South Australia,-34.8356439999999,138.653305
+3953,Coles Express Modbury North,Shell,432 Montague Road,Modbury North,South Australia,-34.8287539999999,138.671849
+3954,Coles Express Largs Bay,Shell,207-211 Victoria Road,Largs Bay,South Australia,-34.8255399999999,138.499703
+3955,Coles Express Fairview Park,Shell,323 Hancock Road,Fairview Park,South Australia,-34.8032229999999,138.717782
+3956,Coles Express Salisbury East,Shell,1461 Main North Road,Salisbury East,South Australia,-34.791775,138.647718
+3957,Coles Express Golden Grove,Shell,Lot 203 The Grove Way,Golden Grove,South Australia,-34.789387,138.697648
+3958,Coles Express Parafield Gardens,Shell,443 Salisbury Highway,Parafield Gardens,South Australia,-34.788149,138.617898
+3959,Berry ,Shell,75-79 Queen Street,Berry,New South Wales,-34.774964,150.695088
+3960,Coles Express Elizabeth City,Shell,Elizabeth Way and Yorktown Road,Elizabeth,South Australia,-34.720882,138.668287
+3961,Coles Express Elizabeth Park,Shell,110 Yorktown Road,Elizabeth Park,South Australia,-34.7094089999999,138.684813
+3962,Coles Express Gawler,Shell,12 Murray Street,Gawler,South Australia,-34.603259,138.749031
+3963,Coles Express Albion Park,Shell,252 Princes Highway,Albion Park Rail,New South Wales,-34.5679049999999,150.802266
+3964,Coles Express Oak Flats,Shell,148 Lake Entrance Road,Oak Flats,New South Wales,-34.5631319999999,150.831385
+3965,Coles Express Dapto,Shell,152-158 Princes Highway,Dapto,New South Wales,-34.49617,150.792324
+3966,Coles Express Warrawong,Shell,26 King Street,Warrawong,New South Wales,-34.4827519999999,150.886937
+3967,Coles Express Wollongong,Shell,142 Corrimal Street,Wollongong,New South Wales,-34.428735,150.898917
+3968,Coles Express Wollongong West,Shell,436 Crown Street,West Wollongong,New South Wales,-34.425091,150.873541
+3969,Golden Grill,Shell,40-42 Moorundie Street,Truro,South Australia,-34.4086819999999,139.127453
+3970,Coles Express Corrimal,Shell,267-269 Princes Highway,Corrimal,New South Wales,-34.374457,150.896321
+3971,Coles Express Bulli,Shell,281-285 Princes Highway,Bulli,New South Wales,-34.3365479999999,150.912232
+3972,Bargo ,Shell,2897 Remembrance Driveway,Bargo,New South Wales,-34.255017,150.573906
+3973,Wilton Petroleum,Shell,1109A Argyle Street,Wilton,New South Wales,-34.2404769999999,150.699117
+3974,Helensburgh ,Shell,149 Parkes Street,Helensburgh,New South Wales,-34.192347,150.977678
+3975,Coles Express Port Wakefield,Shell,Catherine Street and Port Wakefield-Balaklava Road,Port Wakefield,South Australia,-34.183211,138.15401
+3976,Coles Express Picton,Shell,93-97 Argyle Street,Picton,New South Wales,-34.168438,150.611473
+3977,Coles Express St Helens Park,Shell,Lot 201 Appin Road,St Helens Park,New South Wales,-34.11195,150.798658
+3978,Coles Express Heathcote,Shell,1355-1383 Princes Highway,Heathcote,New South Wales,-34.087802,151.006997
+3979,Coles Express Camden,Shell,273 Old Hume Highway,Camden South,New South Wales,-34.0864579999999,150.694613
+3980,Bundeena ,Shell,27 Thompson Street,Bundeena,New South Wales,-34.083841,151.14531
+3981,Coles Express Campbelltown,Shell,31 Queen Street,Campbelltown,New South Wales,-34.0605459999999,150.819379
+3982,Coles Express Mount Annan,Shell,241 Waterworth Drive,Mount Annan,New South Wales,-34.0494239999999,150.760161
+3983,Coles Express Kirrawee,Shell,470 Princes Highway,Gymea,New South Wales,-34.0273549999999,151.084505
+3984,Coles Express Taren Point,Shell,99 Parraweena Road,Miranda,New South Wales,-34.0262989999999,151.12009
+3985,Coles Express Minto,Shell,73-75 Pembroke Road,Minto,New South Wales,-34.0231689999999,150.85031
+3986,Coles Express Captain Cook Bridge,Shell,102 Taren Point Road,Taren Point,New South Wales,-34.020137,151.122147
+3987,Coles Express Oyster Bay,Shell,20 Carvers Road,Oyster Bay,New South Wales,-34.0092959999999,151.075822
+3988,Coles Express Ramsgate,Shell,274-276 The Grand Parade,Ramsgate Beach,New South Wales,-33.98538,151.147126
+3989,Coles Express South Hurstville,Shell,831-837 King Georges Road,South Hurstville,New South Wales,-33.978665,151.105485
+3990,Coles Express Carlton,Shell,277-283 Princes Highway,Carlton,New South Wales,-33.974904,151.127243
+3991,Coles Express Leppington,Shell,1443-1449 Camden Valley Way,Leppington,New South Wales,-33.966149,150.81545
+3992,Coles Express Hurstville,Shell,396 Forest Road,Hurstville,New South Wales,-33.964839,151.099057
+3993,Coles Express Brighton-Le-Sands,Shell,2-6 General Holmes Drive,Brighton-le-sands,New South Wales,-33.95784,151.157544
+3994,Coles Express Maroubra,Shell,959-961 Anzac Parade,Maroubra,New South Wales,-33.949942,151.240757
+3995,Coles Express Padstow,Shell,19 Davies Road,Padstow,New South Wales,-33.948473,151.037751
+3996,Coles Express Bexley,Shell,306-312 Forest Road,Bexley,New South Wales,-33.946175,151.128217
+3997,Coles Express Pagewood,Shell,293-299 Bunnerong Road,Maroubra,New South Wales,-33.9407189999999,151.228507
+3998,Coles Express Kingsgrove,Shell,137-139 Kingsgrove Road,Kingsgrove,New South Wales,-33.932805,151.09894
+3999,Coles Express Liverpool,Shell,338-340 Hume Highway,Liverpool,New South Wales,-33.9315589999999,150.917733
+4000,Coles Express Kingsford,Shell,52-58 Gardeners Road,Kingsford,New South Wales,-33.924998,151.225761
+4001,Coles Express Mascot,Shell,750 Botany Road,Mascot,New South Wales,-33.9234729999999,151.195639
+4002,Coles Express Randwick Frenchmans,Shell,43-47 Frenchmans Road,Randwick,New South Wales,-33.90822,151.247167
+4003,Coles Express Randwick Alison Road,Shell,54-76 Alison Road,Randwick,New South Wales,-33.907957,151.234083
+4004,Coles Express Waterloo,Shell,869-873 South Dowling Street,Waterloo,New South Wales,-33.901762,151.214359
+4005,Coles Express Green Valley,Shell,323 Cowpasture Road,Green Valley,New South Wales,-33.899638,150.856278
+4006,Coles Express Bass Hill,Shell,864 Hume Highway,Bass Hill,New South Wales,-33.899574,150.997488
+4007,Coles Express Yagoona,Shell,112 Rookwood Road,Yagoona,New South Wales,-33.898521,151.03704
+4008,Coles Express Bondi Junction,Shell,120 Birrell Street,Bondi Junction,New South Wales,-33.8955839999999,151.248557
+4009,Coles Express Roberts Road East,Shell,9 Roberts Road,Greenacre,New South Wales,-33.8944549999999,151.066727
+4010,Coles Express Cabramatta West,Shell,218 John Street,Cabramatta West,New South Wales,-33.893469,150.921928
+4011,Coles Express Lansvale,Shell,65 Liverpool Road,Canley Vale,New South Wales,-33.892952,150.960605
+4012,Coles Express Roberts Road West,Shell,78 Roberts Road,Greenacre,New South Wales,-33.8925159999999,151.066322
+4013,Coles Express Stanmore,Shell,268-310 Parramatta Road,Stanmore,New South Wales,-33.888479,151.164367
+4014,Coles Express Enfield,Shell,2-4 Braidwood Street,Strathfield South,New South Wales,-33.886813,151.071008
+4015,C & M Cambareri Pty Ltd,Shell,2130 The Northern Road,Luddenham,New South Wales,-33.883594,150.693535
+4016,Coles Express Darlinghurst,Shell,47 Flinders Street,Surry Hills,New South Wales,-33.8822939999999,151.217035
+4017,Coles Express Ultimo,Shell,387-429 Wattle Street,Ultimo,New South Wales,-33.881387,151.196677
+4018,Coles Express Annandale,Shell,124 Johnston Street,Annandale,New South Wales,-33.880873,151.170476
+4019,Coles Express Strathfield,Shell,1-3 Raw Square,Strathfield,New South Wales,-33.870845,151.092321
+4020,Coles Express Rose Bay,Shell,777 New South Head Road,Rose Bay,New South Wales,-33.870643,151.26877
+4021,Coles Express Five Dock,Shell,211 Parramatta Road,Croydon,New South Wales,-33.869988,151.114629
+4022,Coles Express Woolloomooloo,Shell,61 Cowper Wharf Road,Woolloomooloo,New South Wales,-33.86959,151.221198
+4023,Coles Express Fairfield,Shell,436 The Horsley Drive,Fairfield,New South Wales,-33.863772,150.953739
+4024,Coles Express Wetherill Park Polding,Shell,561-583 Polding Street,Prairiewood,New South Wales,-33.856936,150.899152
+4025,Coles Express Drummoyne South,Shell,35-51 Victoria Road,Drummoyne,New South Wales,-33.8560699999999,151.158888
+4026,Coles Express Drummoyne North,Shell,36-46 Victoria Road,Drummoyne,New South Wales,-33.8557049999999,151.159422
+4027,Coles Express Lidcombe,Shell,18 Parramatta Road,Lidcombe,New South Wales,-33.854074,151.05923
+4028,Coles Express Wetherill Park Elizabeth,Shell,413 Victoria Street,Wetherill Park,New South Wales,-33.845876,150.899452
+4029,Coles Express Merrylands,Shell,Lot A Merrylands Road,Merrylands,New South Wales,-33.834328,150.977565
+4030,Coles Express Hunters Hill,Shell,4 Ryde Road,Hunters Hill,New South Wales,-33.8317719999999,151.141665
+4031,Coles Express Cremorne,Shell,225-227 Military Road,Cremorne,New South Wales,-33.830654,151.226217
+4032,Coles Express Greystanes,Shell,661-663 Merrylands Road,Greystanes,New South Wales,-33.829379,150.952674
+4033,Coles Express Neutral Bay,Shell,200-204 Ben Boyd Road,Neutral Bay,New South Wales,-33.8291589999999,151.219433
+4034,Coles Express Cammeray,Shell,475-483 Miller Street,Cammeray,New South Wales,-33.8213929999999,151.210864
+4035,Dahtone Petroleum,Shell,127 Alfred Street,Parramatta,New South Wales,-33.817899,151.017533
+4036,Coles Express Burns Bay Lane Cove,Shell,254 Burns Bay Road,Lane Cove,New South Wales,-33.817191,151.151874
+4037,Coles Express Lane Cove,Shell,374-378 Pacific Highway,Lane Cove,New South Wales,-33.8140529999999,151.176773
+4038,Coles Express Parramatta,Shell,88 Victoria Road,North Parramatta,New South Wales,-33.8086949999999,151.01278
+4039,Coles Express West Ryde,Shell,1026 Victoria Road,West Ryde,New South Wales,-33.8073939999999,151.085063
+4040,Coles Express Ryde,Shell,45 Lane Cove Road,Ryde,New South Wales,-33.807222,151.109967
+4041,Coles Express Willoughby,Shell,616-626 Willoughby Road,Willoughby,New South Wales,-33.805936,151.198855
+4042,Coles Express Lane Cove North,Shell,150 Epping Road,Lane Cove West,New South Wales,-33.804987,151.146681
+4043,Coles Express Dundas,Shell,199 Kissing Point Road,Dundas,New South Wales,-33.7995779999999,151.045149
+4044,Coles Express Northmead Briens,Shell,100A Briens Road,Northmead,New South Wales,-33.796259,150.989042
+4045,Coles Express North Ryde Wicks,Shell,96-100 Wicks Road,North Ryde,New South Wales,-33.794117,151.126811
+4046,Coles Express Eastern Creek,Shell,611 Great Western Highway,Eastern Creek,New South Wales,-33.792748,150.870623
+4047,Coles Express Chatswood,Shell,877-897 Pacific Highway,Chatswood,New South Wales,-33.79187,151.180471
+4048,Coles Express St Clair,Shell,247 Banks Drive,St Clair,New South Wales,-33.7882499999999,150.771472
+4049,Coles Express Carlingford West,Shell,288 Pennant Hills Road,Carlingford,New South Wales,-33.7850819999999,151.043526
+4050,Coles Express North Ryde,Shell,275 Lane Cove Road,Macquarie Park,New South Wales,-33.784973,151.129086
+4051,Coles Express Carlingford,Shell,790 Pennant Hills Road,Carlingford,New South Wales,-33.778429,151.051707
+4052,Coles Express Northmead,Shell,197 Windsor Road,Northmead,New South Wales,-33.77742,151.000211
+4053,Coles Express Colyton,Shell,88-90 Great Western Highway,Colyton,New South Wales,-33.7755289999999,150.795314
+4054,Coles Express Marsfield,Shell,Hadenfeld Avenue,Macquarie Park,New South Wales,-33.775208,151.10537
+4055,Coles Express Doonside,Shell,427 Bungarribee Road,Doonside,New South Wales,-33.772938,150.876352
+4056,Coles Express Jamisontown,Shell,289 Mulgoa Road,Jamisontown,New South Wales,-33.7701519999999,150.673966
+4057,Coles Express Brookvale,Shell,5 Winbourne Road,Brookvale,New South Wales,-33.763326,151.279405
+4058,Coles Express Forestville,Shell,665-667 Warringah Road,Forestville,New South Wales,-33.760436,151.218527
+4059,Coles Express Baulkham Hills,Shell,363 Windsor Road,Baulkham Hills,New South Wales,-33.760184,150.99162
+4060,Coles Express Pymble,Shell,21 Ryde Road,Pymble,New South Wales,-33.75192,151.143779
+4061,Coles Express Blaxland,Shell,126A Great Western Highway,Blaxland,New South Wales,-33.7450909999999,150.610915
+4062,Coles Express Pennant Hills West,Shell,386 Pennant Hills Road,Pennant Hills,New South Wales,-33.7392829999999,151.067981
+4063,Coles Express Pennant Hills East,Shell,365-371 Pennant Hills Road,Pennant Hills,New South Wales,-33.738799,151.07369
+4064,Coles Express Norwest Marketown,Shell,100 Norwest Boulevard,Crestwood,New South Wales,-33.733532,150.963564
+4065,Coles Express St Ives,Shell,179-181 Mona Vale Road,St Ives,New South Wales,-33.7312219999999,151.157555
+4066,Coles Express Parklea,Shell,490 Sunnyholt Road,Parklea,New South Wales,-33.729319,150.92177
+4067,Coles Express Pennant Hills West,Shell,188-190 Pennant Hills Road,Thornleigh,New South Wales,-33.7248079999999,151.085258
+4068,Coles Express Wahroonga,Shell,1601 Pacific Highway,Wahroonga,New South Wales,-33.7195629999999,151.116351
+4069,Coles Express Hornsby,Shell,194-200 Pacific Highway,Hornsby,New South Wales,-33.7072229999999,151.099162
+4070,Coles Express Narrabeen,Shell,1420-1428 Pittwater Road,North Narrabeen,New South Wales,-33.7002229999999,151.300254
+4071,Coles Express Dural,Shell,592-596 Old Northern Road,Dural,New South Wales,-33.694289,151.031266
+4072,Coles Express Faulconbridge,Shell,575-581 Great Western Highway,Faulconbridge,New South Wales,-33.6941419999999,150.537385
+4073,Coles Express Rouse Hill,Shell,43 Panmure Street,Rouse Hill,New South Wales,-33.682813,150.916431
+4074,Coles Express Berkshire Park,Shell,746 Richmond Road,Berkshire Park,New South Wales,-33.664818,150.799442
+4075,Coles Express Avalon,Shell,2 Avalon Parade,Avalon,New South Wales,-33.636406,151.330227
+4076,Coles Express Berowra,Shell,955 Pacific Highway,Berowra,New South Wales,-33.628186,151.147577
+4077,Coles Express Clarendon,Shell,244 Richmond Road,Clarendon,New South Wales,-33.6083419999999,150.789102
+4078,Coles Express Umina,Shell,437-439 Ocean Beach Road,Umina Beach,New South Wales,-33.5210569999999,151.316411
+4079,Coles Express Woy Woy,Shell,85 Rawson Road,Woy Woy,New South Wales,-33.4939219999999,151.32085
+4080,Coles Express Bathurst West,Shell,280 Stewart Street,Bathurst,New South Wales,-33.4191779999999,149.567726
+4081,Coles Express Bathurst,Shell,59 Durham Street,Bathurst,New South Wales,-33.4164249999999,149.584302
+4082,Pymont Bros,Shell,34 Sherriff Street,Forbes,New South Wales,-33.386742,148.00962
+4083,Toyo ,Shell,43 Wandearah Road,Port Pirie,South Australia,-33.194668,138.010562
+4084,Coles Express Port Augusta Meteor Roadhouse,Shell,Lot 1 Eyre Highway,Port Augusta,South Australia,-32.5105849999999,137.797683
+4085,Coles Express Port Augusta West,Shell,34 Eyre Highway,Port Augusta West,South Australia,-32.4808669999999,137.755626
+4086,Coles Express Bulahdelah,Shell,22 Booloombayt Street,Bulahdelah,New South Wales,-32.4094039999999,152.211349
+4087,Norseman Shell,Shell,77-79 Roberts Street,Norseman,Western Australia,-32.1974089999999,121.779899
+4088,Coles Express Ceduna,Shell,30 McKenzie Street,Ceduna,South Australia,-32.125957,133.677617
+4089,Eastern Creek Perform,Shell,158-162 Gregory Street,South West Rocks,New South Wales,-30.89973,153.041249
+4090,Coles Express Armidale,Shell,93 Marsh Street,Armidale,New South Wales,-30.5129689999999,151.669795
+4091,NRMA Urunga,Shell,63-65 Pacific Highway,Urunga,New South Wales,-30.5020539999999,153.012482
+4092,Coles Express Coffs Harbour,Shell,163-165 Woolgoolga Road,Coffs Harbour,New South Wales,-30.2904149999999,153.121248
+4093,Shell Currumbin,Shell,59-61 Currumbin Creek Road,Currumbin Waters,Queensland,-28.144759,153.471631
+4094,Coles Express Tugun,Shell,11 Toolona Street,Tugun,Queensland,-28.1436429999999,153.49326
+4095,Coles Express Elanora,Shell,Guineas Creek Road and Coolgardie Street,Elanora,Queensland,-28.1366179999999,153.467622
+4096,Coles Express Burleigh Waters,Shell,Lot 401 Bermuda Street,Varsity Lakes,Queensland,-28.084358,153.424734
+4097,Coles Express Mudgeeraba,Shell,196-206 Highfield Drive,Mudgeeraba,Queensland,-28.069396,153.363516
+4098,Coles Express Miami,Shell,2156 Gold Coast Highway,Miami,Queensland,-28.063938,153.43743
+4099,Coles Express Surfers Paradise,Shell,2824 Gold Coast Highway,Surfers Paradise,Queensland,-28.017038,153.428951
+4100,Coles Express Benowa,Shell,186 Ashmore Road,Benowa,Queensland,-28.010439,153.392647
+4101,Coles Express Bundall,Shell,16 Crombie Avenue,Surfers Paradise,Queensland,-28.0037599999999,153.413925
+4102,North Tamborine,Shell,5 Main Western Road,Mount Tamborine,Queensland,-27.8803589999999,153.129531
+4103,Shell Tamborine Village,Shell,2785 Waterford-Tamborine Road,Tamborine,Queensland,-27.8802939999999,153.129475
+4104,Coles Express Jimboomba,Shell,2-4 Tamborine Street,Jimboomba,Queensland,-27.8210159999999,153.030598
+4105,Coles Express Yatala,Shell,Lot 1 Henry Hester Drive,Stapylton,Queensland,-27.7290649999999,153.224379
+4106,Coles Express Beenleigh,Shell,1 George Street,Beenleigh,Queensland,-27.714506,153.193573
+4107,Coles Express Marsden,Shell,604-614 Browns Plains Road,Marsden,Queensland,-27.6806349999999,153.09238
+4108,Coles Express Marsden Park,Shell,36-44 Chambers Flat Road,Marsden,Queensland,-27.6793089999999,153.118127
+4109,Coles Express Loganholme,Shell,61-65 Bryants Road,Loganholme,Queensland,-27.663354,153.17749
+4110,Coles Express Loganlea,Shell,Cnr Loganlea Road and University Drive,Loganlea,Queensland,-27.6629619999999,153.14082
+4111,Coles Express Daisy Hill,Shell,21 Daisy Hill Road,Daisy Hill,Queensland,-27.644692,153.153588
+4112,Coles Express Springwood,Shell,3495-3497 Pacific Highway,Slacks Creek,Queensland,-27.633614,153.131253
+4113,Coles Express Chatswood Road,Shell,38-48 Chatswood Road,Slacks Creek,Queensland,-27.633562,153.139667
+4114,Coles Express Calamvale,Shell,2654 Beaudesert Road,Calamvale,Queensland,-27.632895,153.047012
+4115,Coles Express Woodridge,Shell,188-192 Kingston Road,Logan City,Queensland,-27.624354,153.116934
+4116,Coles Express Runcorn,Shell,501 Compton Road,Runcorn,Queensland,-27.6109999999999,153.068044
+4117,Coles Express Goodna,Shell,2 Railway Terrace,Goodna,Queensland,-27.600518,152.883978
+4118,Coles Express Victoria Point,Shell,130 Benfer Road,Victoria Point,Queensland,-27.5960249999999,153.286024
+4119,Coles Express Durack,Shell,Inala Avenue and Blunder Road,Durack,Queensland,-27.595923,152.987658
+4120,Coles Express Rochedale,Shell,Underwood Road and Rochedale Road,Rochedale,Queensland,-27.595747,153.121522
+4121,Coles Express Sunnybank,Shell,254 Mains Road,Sunnybank,Queensland,-27.576001,153.062867
+4122,Coles Express Eight Mile Plains,Shell,52 Padstow Road,Eight Mile Plains,Queensland,-27.5736649999999,153.078412
+4123,Coles Express Karalee,Shell,259-277 Mount Crosby Road,Karalee,Queensland,-27.5723139999999,152.791945
+4124,Coles Express Kessels Road,Shell,651 Kessels Road,Upper Mount Gravatt,Queensland,-27.561027,153.078802
+4125,Gatton Motors,Shell,91 Railway Street,Gatton,Queensland,-27.560979,152.275156
+4126,Coles Express Rocklea,Shell,1728 Ipswich Road,Rocklea,Queensland,-27.560216,153.001056
+4127,Coles Express Granard Road,Shell,Cnr Granard Road and Beatty Road,Rocklea,Queensland,-27.558214,153.016004
+4128,Coles Express Mount Gravatt,Shell,1582 Logan Road,Mount Gravatt,Queensland,-27.542294,153.081973
+4129,Coles Express Cleveland,Shell,230 Bloomfield Street,Cleveland,Queensland,-27.5348519999999,153.266998
+4130,Coles Express Sherwood,Shell,Cnr Sherwood and Oxley Road,Sherwood,Queensland,-27.532837,152.983232
+4131,Coles Express Logan Road,Shell,1201 Logan Road,Mount Gravatt,Queensland,-27.530025,153.071657
+4132,Coles Express Holland Park,Shell,Cnr Bapaume Road and Kuringai Street,Holland Park,Queensland,-27.5267729999999,153.055789
+4133,Coles Express Alexandra Hills,Shell,96 Finucane Road,Alexandra Hills,Queensland,-27.521016,153.212067
+4134,Coles Express Chapel Hill,Shell,611 Moggill Road,Chapel Hill,Queensland,-27.5049299999999,152.960449
+4135,Coles Express Belmont,Shell,11 London Road,Belmont,Queensland,-27.498959,153.126755
+4136,Coles Express Coorparoo,Shell,213 Old Cleveland Road,Coorparoo,Queensland,-27.4969179999999,153.055373
+4137,Coles Express Camp Hill,Shell,720 Old Cleveland Road,Camp Hill,Queensland,-27.4927729999999,153.082489
+4138,Coles Express Taringa,Shell,29 Gailey Road,St Lucia,Queensland,-27.4914719999999,152.994033
+4139,Coles Express Tingalpa,Shell,1469-1471 Wynnum Road,Tingalpa,Queensland,-27.4748319999999,153.120988
+4140,Coles Express Milton,Shell,319 Coronation Drive,Milton,Queensland,-27.474102,153.003639
+4141,Coles Express Cannon Hill,Shell,1874 Creek Road,Cannon Hill,Queensland,-27.471487,153.095528
+4142,City Cab Centre,Shell,11 Eagle Terrace,Brisbane City,Queensland,-27.466833,153.014259
+4143,Barry Parade Cab Centre,GoGas,44 Barry Parade,Fortitude Valley ,Queensland,-27.4607379999999,153.030646
+4144,Coles Express Balmoral,Shell,211 Oxford Street,Bulimba,Queensland,-27.4520419999999,153.06205
+4145,Coles Express Breakfast Creek,Shell,94 Breakfast Creek Road,Newstead,Queensland,-27.446475,153.042142
+4146,Kelvin Grove Cab Centre,Shell,305 Kelvin Grove  Road,Kelvin Grove,Queensland,-27.445394,153.008504
+4147,Coles Express Wynnum,Shell,2231 Wynnum Road,Wynnum,Queensland,-27.443659,153.158126
+4148,Coles Express Windsor,Shell,158-162 Lutwyche Road,Windsor,Queensland,-27.439495,153.030477
+4149,Coles Express Brisbane Airport,Shell,Airport Drive,Eagle Farm,Queensland,-27.4076729999999,153.108546
+4150,Coles Express Arana Hills,Shell,17 Patricks Road,Arana Hills,Queensland,-27.397709,152.958878
+4151,Coles Express Stafford Heights,Shell,280 Appleby Road,Stafford Heights,Queensland,-27.3917,153.011672
+4152,Coles Express Nudgee,Shell,1097 Nudgee Road,Banyo,Queensland,-27.37749,153.094025
+4153,Coles Express Geebung,Shell,361 Ellison Road,Geebung,Queensland,-27.373951,153.035769
+4154,Coles Express Virginia,Shell,1890 Sandgate Road,Virginia,Queensland,-27.3699619999999,153.061615
+4155,Coles Express Aspley,Shell,1412 Gympie Road,Aspley,Queensland,-27.359859,153.016296
+4156,Coles Express Albany Creek,Shell,171 Old Northern Road,Albany Creek,Queensland,-27.3459609999999,152.964622
+4157,Coles Express Deagon,Shell,90 Depot Road,Deagon,Queensland,-27.330612,153.047638
+4158,Coles Express Lawnton,Shell,706 Gympie Road,Lawnton,Queensland,-27.2901259999999,152.984252
+4159,Coles Express Kallangur,Shell,1507-1511 Anzac Avenue,Kallangur,Queensland,-27.249477,153.001069
+4160,Esk,Independent Fuel Supplies,250 Ipswich Street,Esk,Queensland,-27.240045,152.422026
+4161,Coles Express Morayfield,Shell,135 Morayfield Road,Caboolture South,Queensland,-27.098534,152.949463
+4162,Coles Express Gladstone,Shell,78 Toolooa Street,South Gladstone,Queensland,-23.853248,151.267731
+4163,Shell Gladstone Cvro,Shell,Cnr Hanson Road and Kingston Street,Gladstone,Queensland,-23.840272,151.246003
+4164,Coles Express Rockhampton Gladstone Road,Shell,146 Gladstone Road,Allenstown,Queensland,-23.3952639999999,150.505384
+4165,Coles Express Rockhampton Fitzroy Street,Shell,82-86 Fitzroy Street,Rockhampton,Queensland,-23.379944,150.506234
+4166,Coles Express Rockhampton North,Shell,240 Musgrave Street,Rockhampton North,Queensland,-23.358531,150.523837
+4167,Coles Express Ingham,Shell,115 Cartwright Street,Ingham,Queensland,-18.6465229999999,146.162105
+4168,Coles Express Tully,Shell,59442 Bruce Highway,Tully,Queensland,-17.9319399999999,145.933934
+4169,Coles Express Cairns South,Shell,540 Bruce Highway,Woree,Queensland,-16.9473589999999,145.738876
+4170,Coles Express Reservoir,Shell,58 Pease Street,Manoora,Queensland,-16.9189949999999,145.740891
+4171,Coles Express Cairns Sheridan St,Shell,291 Sheridan Street,Cairns North,Queensland,-16.908294,145.760345
+4172,Coles Express Smithfield,Shell,Lot 1 Captain Cook Highway,Smithfield,Queensland,-16.842688,145.695032
+4173,Mobil Moorooduc,7-Eleven Pty Ltd,1051 Moorooduc Highway,Moorooduc,Victoria,-38.258499,145.077553
+4174,United Mornington,United,211 Mornington-Tyabb Road,Mornington,Victoria,-38.238325,145.065561
+4175,Mobil Warragul,7-Eleven Pty Ltd,80 Alfred Street,Warragul,Victoria,-38.1687219999999,145.939819
+4176,United Warragul,United,143 Queen Street,Warragul,Victoria,-38.1648499999999,145.936283
+4177,Mobil Langwarrin,7-Eleven Pty Ltd,1-5 Cranbourne Road,Langwarrin,Victoria,-38.15595,145.171275
+4178,Karingal,7-Eleven Pty Ltd,330 Frankston-Cranbourne Road,Frankston,Victoria,-38.154097,145.163502
+4179,United Patterson Lakes,United,1 Thompson Road,Patterson Lakes,Victoria,-38.0690309999999,145.141027
+4180,Officer East,7-Eleven Pty Ltd,470-472 Princes Highway,Officer,Victoria,-38.062237,145.416701
+4181,Officer,7-Eleven Pty Ltd,397-401 Princes Highway,Officer,Victoria,-38.0592091,145.4066051
+4182,BP Lynbrook,BP,345 South Gippsland Highway,Lynbrook,Victoria,-38.044113,145.252346
+4183,United Hampton Park,United,15 Enterprise Avenue,Hampton Park,Victoria,-38.0349919999999,145.266898
+4184,Caltex Dandenong South,Caltex,393 South Gippsland Highway,Dandenong South,Victoria,-38.031107735,145.24479636
+4185,Caltex Braeside,Caltex,122-132 Boundary Road,Braeside,Victoria,-38.0012189999999,145.105834
+4186,BP Dingley Village,BP,357 Lower Dandenong Road,Dingley Village,Victoria,-37.986037,145.108661
+4187,Unknown,7-Eleven Pty Ltd,158-164 Stud Road,Dandenong,Victoria,-37.971648,145.223671
+4188,Unknown,Independent Fuel Supplies,1532 Heatherton Road,Dandenong,Victoria,-37.971436,145.224079
+4189,Unknown,BP,165 Stud Road,Dandenong,Victoria,-37.970654,145.223095
+4190,BP Cheltenham,BP,292 Warrigal Road,Cheltenham,Victoria,-37.967476,145.074474
+4191,BP Oakleigh,BP,1400 Dandenong Road,Oakleigh,Victoria,-37.893559,145.089864
+4192,East Werribee,7-Eleven Pty Ltd,125 Ballan Road,Werribee,Victoria,-37.8930410999999,144.6303001
+4193,Hoppers Crossing,7-Eleven Pty Ltd,1-15 Heaths Road,Hoppers Crossing,Victoria,-37.880051,144.704154
+4194,Caltex Hoppers Crossing,Caltex,289-293 Derrimut Road,Hoppers Crossing,Victoria,-37.863367,144.684652
+4195,Shell Hoppers Crossing,Shell,260 Derrimut Road,Hoppers Crossing,Victoria,-37.862501,144.686095
+4196,7 Eleven Hoppers Crossing,7-Eleven Pty Ltd,380 Morris Road,Hoppers Crossing,Victoria,-37.850904,144.706837
+4197,North Melbourne,7-Eleven Pty Ltd,163-173 Boundary Road,North Melbourne,Victoria,-37.78948,144.939695
+4198,North Melbourne,7-Eleven Pty Ltd,415-429 Flemington Road,North Melbourne,Victoria,-37.789056,144.941102
+4199,Caltex Templestowe Lower,Caltex,323 Manningham Road,Templestowe Lower,Victoria,-37.773174,145.112546
+4200,Maribyrnong,7-Eleven Pty Ltd,32 Raleigh Road,Maribyrnong,Victoria,-37.7693149999999,144.897451
+4201,BP Lilydale,BP,473 Maroondah Highway,Lilydale,Victoria,-37.7526099999999,145.365831
+4202,7 Eleven Kings Park,7-Eleven Pty Ltd,1 Kings Road,Kings Park,Victoria,-37.7416299999999,144.779007
+4203,Mobil Essendon,7-Eleven Pty Ltd,294-296 Keilor Road,Essendon,Victoria,-37.738052,144.895082
+4204,Taylors Lakes,7-Eleven Pty Ltd,557-561 Sunshine Avenue,Taylors Lakes,Victoria,-37.7027481,144.8012681
+4205,Mobil Taylors Lakes,7-Eleven Pty Ltd,379 Melton Highway,Taylors Lakes,Victoria,-37.6977229999999,144.780471
+4206,Mobil Taylors Lakes,7-Eleven Pty Ltd,379 Melton Highway,Taylors Lakes,Victoria,-37.6977229999999,144.780474
+4207,Shell Westmeadows,Shell,175-183 Mickleham Road,Westmeadows,Victoria,-37.6876359999999,144.881781
+4208,Shell Gladstone Park,Shell,210-212 Mickleham Road,Gladstone Park,Victoria,-37.6868009999999,144.883176
+4209,Shell Gladstone Park,Shell,210-212 Mickleham Road,Gladstone Park,Victoria,-37.6868009999999,144.883173
+4210,United Somerton,United,132-136 Somerton Road,Somerton,Victoria,-37.641422,144.938545
+4211,Independent Kalkallo,Independent Fuel Supplies,1330 Hume Freeway,Kalkallo,Victoria,-37.526358,144.948313
+4212,Caltex Kalkallo,Caltex,1340 Hume Freeway,Kalkallo,Victoria,-37.525297,144.948949
+4213,United Wallan,United,19 High Street,Wallan,Victoria,-37.417298,144.978408
+4214,Mobil Romsey,7-Eleven Pty Ltd,2 Main Street,Romsey,Victoria,-37.357164,144.743081
+4215,Independent Romsey,Independent Fuel Supplies,86 Main Street,Romsey,Victoria,-37.3509319999999,144.743569
+4216,Independent Murchison,Independent Fuel Supplies,27 Stevenson Street,Murchison,Victoria,-36.6170349999999,145.217671
+4217,Mobil Kingscote,7-Eleven Pty Ltd,33 Wheelton Street,Kingscote,South Australia,-35.652074,137.634718
+4218,Erindale,7-Eleven Pty Ltd,Ashley Drive,Wanniassa,Australian Capital Territory,-35.405587,149.101451
+4219,Mawson,7-Eleven Pty Ltd,1 Mawson Place,Mawson,Australian Capital Territory,-35.365203,149.093654652
+4220,Independent Crestwood,Independent Fuel Supplies,26 Kendall Avenue North,Crestwood,New South Wales,-35.3462699999999,149.208029
+4221,Mobil Queanbeyan East,7-Eleven Pty Ltd,52-54 Yass Road,Queanbeyan East,New South Wales,-35.341203,149.244488
+4222,United Fyshwick,United,2 Yallourn Street,Fyshwick,Australian Capital Territory,-35.3339924049999,149.169760614
+4223,Independent Bungendore,Independent Fuel Supplies,2 Gibraltar Street,Bungendore,New South Wales,-35.253316,149.438653
+4224,Caltex Belconnen,Caltex,4 Luxton Street,Belconnen,Australian Capital Territory,-35.236307,149.059062
+4225,Mobil On The Run Seaford,Peregrine Corporation,112 Commercial Road,Seaford,South Australia,-35.1884499999999,138.477924
+4226,Mobil On The Run Morphett Vale,Peregrine Corporation,140 Main South Road,Morphett Vale,South Australia,-35.123822,138.523851
+4227,Mobil Darlington,7-Eleven Pty Ltd,1485 Main South Road,Darlington,South Australia,-35.0249669999999,138.561593
+4228,Mobil On The Run Marion South,Peregrine Corporation,752 Marion Road,Marion,South Australia,-35.00584,138.557559
+4229,United Mannum,United,97 Adelaide-Mannum Road,Mannum,South Australia,-34.9109569999999,139.298353
+4230,United South Nowra,United,86 Princes Highway,South Nowra,New South Wales,-34.9039089999999,150.602689
+4231,BP Colonial,BP,232 St Bernards Road,Hectorville,South Australia,-34.890234,138.67405
+4232,Liberty Klemzig,Liberty,25 O G Road,Klemzig,South Australia,-34.8787599999999,138.634628
+4233,United Ferryden Park,United,1 York Terrace,Ferryden Park,South Australia,-34.8716679999999,138.557189
+4234,United Blair Athol,United,369 Prospect Road,Blair Athol,South Australia,-34.8620099999999,138.592643
+4235,Caltex Gilles Plains,Caltex,Sudholz Road and Blacks Road,Gilles Plains,South Australia,-34.8561989999999,138.654622
+4236,Mobil On The Run Largs Bay,Peregrine Corporation,208 Victoria Road,Birkenhead,South Australia,-34.8255379999999,138.500489
+4237,Mobil On The Run Parafield,Peregrine Corporation,Lot 12 Kings Road,Parafield,South Australia,-34.7909749999999,138.645019
+4238,Mobil On The Run Hillbank,Peregrine Corporation,Lot 92 Main North Road,Hillbank,South Australia,-34.742668,138.676887
+4239,Caltex Smithfield,Caltex,Main North Road and Konanda Road,Smithfield,South Australia,-34.691499,138.687834
+4240,Shell Blakeview,Shell,10-12 Main North Road,Blakeview,South Australia,-34.6848869999999,138.693112
+4241,Mobil On The Run Smithfield,Peregrine Corporation,23-29 Main North Road,Smithfield,South Australia,-34.6816959999999,138.693957
+4242,Mobil On The Run Evanston Park,Peregrine Corporation,496 Main North Road,Evanston Park,South Australia,-34.6225959999999,138.73916
+4243,Independent Oak Flats,Independent Fuel Supplies,79 Lake Entrance Road,Oak Flats,New South Wales,-34.564716,150.82536
+4244,Caltex Shellharbour City Centre,Caltex,Lot 301 New Lake Entrance Road,Shellharbour City Centre,New South Wales,-34.564544,150.829995
+4245,Caltex Albion Park Rail,Caltex,31 Princes Highway,Albion Park Rail,New South Wales,-34.5518099999999,150.788178
+4246,Independent Port Kembla,Independent Fuel Supplies,1-3 Church Street,Port Kembla,New South Wales,-34.484568,150.904003
+4247,Shell Griffith Truckstop,Shell,6 Mackay Avenue,Griffith,New South Wales,-34.2906113999999,146.063854992
+4248,Mobil Pheasants Nest,7-Eleven Pty Ltd,Hume Highway North Bound,Pheasants Nest,New South Wales,-34.283225,150.63642
+4249,Mobil Pheasants Nest,7-Eleven Pty Ltd,Hume Highway South Bound,Pheasants Nest,New South Wales,-34.282698,150.63965
+4250,Independent Appin,Independent Fuel Supplies,72 Appin Road,Appin,New South Wales,-34.2008969999999,150.78785
+4251,Independent Port Wakefield,Independent Fuel Supplies,2 East Street,Port Wakefield,South Australia,-34.1846839999999,138.153087
+4252,Independent Port Wakefield,Independent Fuel Supplies,7 Catherine Street,Port Wakefield,South Australia,-34.1824379999999,138.153124
+4253,United Port Wakefield,United,Lot 672 Catherine Street,Port Wakefield,South Australia,-34.182403,138.154026
+4254,Blair Athol,Independent Fuel Supplies,71 Blaxland Road,Blair Athol,New South Wales,-34.0618031,150.8095271
+4255,Sutherland,7-Eleven Pty Ltd,542 Princes Highway,Kirrawee,New South Wales,-34.032383,151.075804
+4256,Menai,7-Eleven Pty Ltd,289 Menai Road,Menai,New South Wales,-34.0158981,151.0132941
+4257,Ingleburn,7-Eleven Pty Ltd,63 Oxford Street,Ingleburn,New South Wales,-34.0003740999999,150.8680051
+4258,Caltex Blakehurst,Caltex,659-661 Princes Highway,Blakehurst,New South Wales,-33.9900279999999,151.112746
+4259,Independent South Hurstville,Independent Fuel Supplies,63 Connells Point Road,South Hurstville,New South Wales,-33.9780249999999,151.104096
+4260,Independent Beverly Park,Independent Fuel Supplies,132 Princes Highway,Beverly Park,New South Wales,-33.974824,151.128327
+4261,United Kadina,United,23 Frances Terrace,Kadina,South Australia,-33.9648589999999,137.714905
+4262,Kogarah,7-Eleven Pty Ltd,736 Princes Highway,Kogarah,New South Wales,-33.9640461,151.1374621
+4263,Independent Kogarah,Independent Fuel Supplies,69 Princes Highway,Kogarah,New South Wales,-33.963317,151.137119
+4264,Independent Leppington,7-Eleven Pty Ltd,257-271 Bringelly Road,Leppington,New South Wales,-33.951498924,150.811391127
+4265,Independent Narwee,Independent Fuel Supplies,32 Bryant Street,Narwee,New South Wales,-33.948543,151.07153
+4266,Independent Rossmore,7-Eleven Pty Ltd,832-850 Bringelly Road,Rossmore,New South Wales,-33.945207,150.770327
+4267,Independent Arncliffe,Independent Fuel Supplies,251 Princes Highway,Arncliffe,New South Wales,-33.9420689999999,151.144213
+4268,Independent Revesby,7-Eleven Pty Ltd,14 Milperra Road,Revesby,New South Wales,-33.938411,151.017187
+4269,Lakemba,7-Eleven Pty Ltd,222 King Georges Road,Lakemba,New South Wales,-33.9335690999999,151.0735621
+4270,Independent Moorebank,7-Eleven Pty Ltd,66-68 Nuwarra Road,Moorebank,New South Wales,-33.92997,150.955777
+4271,7 Eleven Cecil Park,7-Eleven Pty Ltd,Lot 310 Cowpasture Road,Cecil Park,New South Wales,-33.9156659999999,150.854771
+4272,Independent Georges Hall,Independent Fuel Supplies,248-250 Henry Lawson Drive,Georges Hall,New South Wales,-33.91538,150.975063
+4273,Independent Belfield,Independent Fuel Supplies,342 Punchbowl Road,Belfield,New South Wales,-33.902819,151.083035
+4274,Independent Yagoona,Independent Fuel Supplies,100 Rookwood Road,Yagoona,New South Wales,-33.8992949999999,151.036861
+4275,Independent Cabramatta,7-Eleven Pty Ltd,161 Hume Highway,Cabramatta,New South Wales,-33.894395,150.957145
+4276,Bonnyrigg,7-Eleven Pty Ltd,140 Edensor Road,Bonnyrigg,New South Wales,-33.884062,150.891954
+4277,United Kemps Creek,United,1437 Elizabeth Drive,Kemps Creek,New South Wales,-33.879783,150.791837
+4278,Independent Fairfield,7-Eleven Pty Ltd,115 Sackville Street,Fairfield,New South Wales,-33.872712,150.945202
+4279,Rozelle,7-Eleven Pty Ltd,178-184 Victoria Road,Rozelle,New South Wales,-33.8629450999999,151.1681191
+4280,United Rozelle,United,127 Victoria Road,Rozelle,New South Wales,-33.862088,151.16775
+4281,United Drummoyne,United,81-85 Victoria Road,Drummoyne,New South Wales,-33.854614,151.157417
+4282,Merrylands,7-Eleven Pty Ltd,295-297 Merrylands Road,Merrylands,New South Wales,-33.8353581,150.9852031
+4283,Caltex Merrylands,7-Eleven Pty Ltd,20 Neil Street,Merrylands,New South Wales,-33.834058,150.991743
+4284,Granville,7-Eleven Pty Ltd,154-160 Parramatta Road,Granville,New South Wales,-33.8300950999999,151.0102261
+4285,BP Longueville,BP,9 Northwood Road,Longueville,New South Wales,-33.8245259999999,151.17258
+4286,Caltex Longueville,Caltex,7 Northwood Road,Longueville,New South Wales,-33.824313,151.172477
+4287,BP Cammeray,BP,520 Miller Street,Cammeray,New South Wales,-33.8213239999999,151.21026
+4288,Mobil Rydalmere,7-Eleven Pty Ltd,262-264 Victoria Road,Rydalmere,New South Wales,-33.810151,151.032443
+4289,Blacktown,7-Eleven Pty Ltd,354 Flushcombe Road,Prospect,New South Wales,-33.795403,150.904947
+4290,Caltex Manly,Caltex,88-90 Pittwater Road,Manly,New South Wales,-33.7930509999999,151.285952
+4291,North Ryde,7-Eleven Pty Ltd,400 Lane Cove Road,North Ryde,New South Wales,-33.784326,151.128758
+4292,Colyton,7-Eleven Pty Ltd,104 Great Western Highway,Colyton,New South Wales,-33.7750609999999,150.793485
+4293,BP Snowtown,BP,Lot 5 Port Wakefield Road,Snowtown,South Australia,-33.773286,138.211884
+4294,BP Jamisontown,BP,124-128 Mulgoa Road,Jamisontown,New South Wales,-33.7697679999999,150.676506
+4295,Seven Hills North,7-Eleven Pty Ltd,151 Prospect Highway,Seven Hills,New South Wales,-33.7689379999999,150.942712
+4296,Caltex Claremont Meadows,7-Eleven Pty Ltd,574 Great Western Highway,Claremont Meadows,New South Wales,-33.7683319999999,150.756709
+4297,United North St Marys,United,91-95 Glossop Street,North St Marys,New South Wales,-33.761018,150.780739
+4298,Independent Forestville,Independent Fuel Supplies,1 Currie Road,Forestville,New South Wales,-33.7596639999999,151.219216
+4299,Independent Dee Why,Independent Fuel Supplies,1-7 Mooramba Road,Dee Why,New South Wales,-33.7558759999999,151.282627
+4300,Independent Blacktown,7-Eleven Pty Ltd,148 Sunnyholt Road,Blacktown,New South Wales,-33.752901,150.914836
+4301,Werrington,7-Eleven Pty Ltd,Lot 122 Dunheved Road,Werrington,New South Wales,-33.7468411,150.7430591
+4302,Kings Park,7-Eleven Pty Ltd,363 Vardys Road,Kings Park,New South Wales,-33.7465811,150.9069051
+4303,Emu Plains,7-Eleven Pty Ltd,126-128 Old Bathurst Road,Emu Plains,New South Wales,-33.7429610999999,150.6545731
+4304,Castle Hill,7-Eleven Pty Ltd,255-257 Old Northern Road,Castle Hill,New South Wales,-33.734788,151.003553
+4305,Caltex St Ives,Caltex,164B Mona Vale Road,St Ives,New South Wales,-33.73074,151.157016
+4306,Wahroonga,7-Eleven Pty Ltd,1579 Pacific Highway,Wahroonga,New South Wales,-33.7197239999999,151.116799
+4307,Narrabeen,7-Eleven Pty Ltd,1234 Pittwater Road,Narrabeen,New South Wales,-33.7195879999999,151.298274
+4308,Mona Vale,7-Eleven Pty Ltd,24 Barrenjoey Road,Mona Vale,New South Wales,-33.676906,151.308273
+4309,Independent Forbes,Independent Fuel Supplies,23 Dowling Street,Forbes,New South Wales,-33.3815079999999,148.010972
+4310,Independent Port Augusta,Independent Fuel Supplies,10 Burgoyne Street,Port Augusta,South Australia,-32.482321,137.760253
+4311,Mobil Bulahdelah,7-Eleven Pty Ltd,59-63 Booloombayt Street,Bulahdelah,New South Wales,-32.4097389999999,152.210507
+4312,Shell Dubbo,Shell,109-113 Erskine Street,Dubbo,New South Wales,-32.2444395699999,148.612107577
+4313,Metro Coolongolook,Metro,18-20 Bengal Street,Coolongolook,New South Wales,-32.219098,152.322181
+4314,BP Macksville,BP,19 Boundary Street,Macksville,New South Wales,-30.712881,152.921158
+4315,Independent Macksville,Independent Fuel Supplies,15 Cooper Street,Macksville,New South Wales,-30.707612,152.920933
+4316,Mobil Boambee,7-Eleven Pty Ltd,601 Pacific Highway,Boambee,New South Wales,-30.3351299999999,153.080865
+4317,United Woolgoolga,United,58-60 Pacific Highway,Woolgoolga,New South Wales,-30.110445,153.190385
+4318,United Mullaway,United,2910 Pacific Highway,Mullaway,New South Wales,-30.076677,153.188494
+4319,Murwillumbah,Neumann Petroleum,182 Tweed Valley Way,Murwillumbah,New South Wales,-28.326355,153.410248
+4320,Mobil Mermaid Waters,7-Eleven Pty Ltd,69 Sunshine Boulevard,Mermaid Waters,Queensland,-28.03576,153.422696
+4321,Nerang,7-Eleven Pty Ltd,Price Street,Nerang,Queensland,-27.993281,153.333178
+4322,Independent,Independent Fuel Supplies,18 Broadwater Avenue,Hope Island,Queensland,-27.878232,153.373556
+4323,Marsden,7-Eleven Pty Ltd,79-85 Chambers Flat Road,Marsden,Queensland,-27.68055,153.114706
+4324,Independent Yamanto,Independent Fuel Supplies,503-505 Warwick Road,Yamanto,Queensland,-27.6600799999999,152.739468
+4325,Kingston,7-Eleven Pty Ltd,325-333 Kingston Road,Woodridge,Queensland,-27.6447560999999,153.1180761
+4326,7 Eleven,7-Eleven Pty Ltd,17 Frizzell Street,Stretton,Queensland,-27.6118049999999,153.063492
+4327,Sunnybank Hills,7-Eleven Pty Ltd,510 Gowen Road,Sunnybank Hills,Queensland,-27.611026,153.062545
+4328,Freedom Fuels,Independent Fuel Supplies,114 Brisbane Terrace,Goodna,Queensland,-27.6059129999999,152.903772
+4329,Richlands,7-Eleven Pty Ltd,208 Progress Road,Richlands,Queensland,-27.5980099999999,152.949875
+4330,BP,BP,Cnr Creek and Wynnum Road,Cannon Hill,Queensland,-27.469711,153.095765
+4331,Spring Hill,Matilda Fuels,100 Barry Parade,Spring Hill,Queensland,-27.4601079999999,153.030619
+4332,Independent,Independent Fuel Supplies,70 Depot Road,Deagon,Queensland,-27.330186,153.049357
+4333,Independent,Independent Fuel Supplies,1 Wallan Street,Miles,Queensland,-26.6595561779999,150.189071692
+4334,Nambour,7-Eleven Pty Ltd,922 Connection Road,Nambour,Queensland,-26.616546,152.969416
+4335,Morgantown,Peak,123 Robinson Street,Morgantown,Western Australia,-24.877762,113.660723
+4336,BP Brown Range,BP,1134 North West Coastal Highway,Brown Range,Western Australia,-24.862448,113.712723
+4337,Shell Benaraby,Matilda Fuels,48843 Bruce Highway,Benaraby,Queensland,-24.004454,151.33387
+4338,Caltex,Caltex,236 Musgrave Street,Berserker,Queensland,-23.3586759999999,150.524229
+4339,Shell Berserker,Shell,240 Musgrave Street,Berserker,Queensland,-23.358572,150.523865
+4340,Caltex,Caltex,78 Malcomson Street,North Mackay,Queensland,-21.122453,149.175212
+4341,United Cannonvale,United,1 Paluma Road,Cannonvale,Queensland,-20.2897849999999,148.676552
+4342,Independent Ayr,Independent Fuel Supplies,71 Home Hill Road,Ayr,Queensland,-19.599367,147.393494
+4343,Shell Mount St John,Shell,591 Ingham Road,Mount St John,Queensland,-19.262166,146.745159
+4344,Shell Woree,Shell,540-544 Bruce Highway,Woree,Queensland,-16.9473449999999,145.738861
+4345,Shell Portsmith,Shell,52 Kenny Street,Portsmith,Queensland,-16.9320129999999,145.773883
+4346,Shell Esk,Shell,Cnr Edward and  Ipswich Street,Esk,Queensland,-27.235923573,152.418239748
+4347,BP,BP,1 Burnett Highway,Biloela,Queensland,-24.403799712,150.512155725
+4348,Caltex ,Caltex,2A Collins Street,Bundaberg East,Queensland,-24.8551220329999,152.370555976
+4349,Port Kembla,Shell,87-89 Flinders Street,Port Kembla,New South Wales,-34.469618507,150.894968149
+4350,Unknown,Caltex,146 Miller Street,Armidale,New South Wales,-30.513735261,151.648487574
+4351,Caltex Bulahdelah,Caltex,Lot 5 Mahogany Street,Bulahdelah,New South Wales,-32.3982049329999,152.210631718
+4352,Broadmeadows,United,80 Camp Road,Broadmeadows,Victoria,-37.688884531,144.954051231
+4353,Great Western,United,Cnr Paxton Street and Western Highway,Great Western,Victoria,-37.152775114,142.855613575
+4354,Pitt Stop,Unknown,45 Mason Street,Newport,Victoria,-37.840869926,144.870001538
+4355,Altona North,United,276 Blackshaws Road,Altona North,Victoria,-37.832083719,144.858164646
+4356,Fairfield,United,225-227 Station Street,Fairfield,Victoria,-37.77156647,145.019620121
+4357,Brunswick West Melville ,United,134-136 Melville Road,Brunswick West,Victoria,-37.7596567589999,144.944969487
+4358,Yarck General Store,United,6595 Maroondah Highway,Yarck,Victoria,-37.100756912,145.616943714
+4359,Mitcham,United,447 Whitehourse Road,Mitcham,Victoria,-37.8167048019999,145.188871519
+4360,Point Cook,United,Wallace Avenue,Point Cook,Victoria,-37.8753997649999,144.738079948
+4361,Traralgon,7-Eleven Pty Ltd,Cnr Park Lane and Smith Street,Traralgon,Victoria,-38.186218262,146.552490234
+4362,Altona North,United,Cnr Grieve Road and Pinnacle Road,Altona North,Victoria,-37.838928223,144.825317383
+4363,Yarra Glen,United,6 Bell Street,Yarra Glen,Victoria,-37.659301758,145.374511719
+4364,St Albans,United,27 St Albans Road,St Albans,Victoria,-37.7486482259999,144.80359976
+4365,Maribyrnong,United,33 Raleigh Road,Maribyrnong,Victoria,-37.769714355,144.897094727
+4366,Sunshine North,United,45 McIntyre Road,Sunshine North,Victoria,-37.773010254,144.829284668
+4367,Maffra,United,47 Johnson Street,Maffra,Victoria,-37.9658262639999,146.973467502
+4368,Sunbury,United,47 Gap Road,Sunbury,Victoria,-37.5798346939999,144.721682542
+4369,Frankston,United,51 Davey Street,Frankston,Victoria,-38.1472778319999,145.125305176
+4370,Preston,United,76 Bell Street,Preston,Victoria,-37.74798584,145.030090332
+4371,Red Hill,United,87 Arthurs Seat Road,Red Hill,Victoria,-38.373204992,145.022364929
+4372,Orbost,United,89 Salisbury Street,Orbost,Victoria,-37.705623042,148.464547866
+4373,Murrumbeena,United,90 Kangaroo Street,Murrumbeena,Victoria,-37.898620605,145.075683594
+4374,7 Eleven Box Hill,7-Eleven Pty Ltd,786 Whitehorse Road,Box Hill,Victoria,-37.812220886,145.081164626
+4375,Warragul Stop 'N' Go,Shell,114 Albert Road,Warragul,Victoria,-38.161667489,145.939774723
+4376,Hoppers Crossing,United,160 Old Geelong Road,Hoppers Crossing,Victoria,-37.8771972659999,144.713684082
+4377,Mitcham,United,208 Mitcham Road,Mitcham,Victoria,-37.8037109379999,145.188720703
+4378,Bulleen,United,208 Bulleen Road,Bulleen,Victoria,-37.762817383,145.083496094
+4379,Croydon,United,338 Dorset Road,Croydon,Victoria,-37.802800395,145.288816246
+4380,Fitzroy North,United,390 Nicholson Street,Fitzroy North,Victoria,-37.790930675,144.976384396
+4381,Bayswater,United,477 Dorset Road,Bayswater,Victoria,-37.835014826,145.286817767
+4382,Pakenham Upper,United,500 Pakenham Road,Pakenham Upper,Victoria,-38.028686523,145.494506836
+4383,Rowville,United,893 Wellington Road,Rowville,Victoria,-37.926879883,145.226928711
+4384,Eltham,United,1050 Main Road,Eltham,Victoria,-37.712097168,145.149291992
+4385,Rowville,United,1215 Stud Road,Rowville,Victoria,-37.9293277099999,145.233179285
+4386,Tyabb,United,1491 Frankston-Flinders Road,Tyabb,Victoria,-38.258178711,145.190124512
+4387,Hastings,United,1996 Frankston-Flinders Road,Hastings,Victoria,-38.2993774409999,145.183288574
+4388,Whittlesea,United,2430 Plenty Road,Whittlesea,Victoria,-37.515160634,145.114984871
+4389,Glenburn,United,3883 Melba Highway,Glenburn,Victoria,-37.418736166,145.426712131
+4390,Kialla,United,8010 Goulburn Valley Highway,Kialla,Victoria,-36.4099121089999,145.393676758
+4391,Kew,United,103-105 Earl Street,Kew,Victoria,-37.7932128909999,145.031677246
+4392,Kilmore,United,127-145 Powlett Street,Kilmore,Victoria,-37.309181968,144.949353681
+4393,Endeavour Hills,United,13-17 Heatherton Road,Endeavour Hills,Victoria,-37.9750976559999,145.262084961
+4394,Corio,United,160-164 Bacchus Marsh Road,Corio,Victoria,-38.0711059569999,144.359313965
+4395,Blackburn South,United,172-176 Middleborough Road,Blackburn South,Victoria,-37.8413085939999,145.134521484
+4396,Doncaster East,United,183-185 Reynolds Road,Doncaster East,Victoria,-37.76361084,145.169494629
+4397,Cranbourne,United,183-185 Sladen Street,Cranbourne,Victoria,-38.113098145,145.285888672
+4398,Nagambie,United,191-201 High Street,Nagambie,Victoria,-36.794494629,145.151123047
+4399,Mulgrave,United,2223-2225 Dandenong Road,Mulgrave,Victoria,-37.9278211119999,145.149350176
+4400,Maryborough,United,24-26 Tuaggra Street,Maryborough,Victoria,-37.0476074219999,143.741882324
+4401,Tooradin,United,26-28 South Gippsland Highway,Tooradin,Victoria,-38.207498689,145.373649432
+4402,Braeside,United,402 - 404 Lower Dandenong Road,Braeside,Victoria,-37.987483148,145.113853417
+4403,Thomastown,United,46-50 Mahoneys Road,Thomastown,Victoria,-37.693786621,145.004089355
+4404,Keilor Park,United,614-616 Fullarton Road,Keilor Park,Victoria,-37.72515584,144.85184662
+4405,Bentleigh East,United,641-643 Centre Road,Bentleigh East,Victoria,-37.92010498,145.052307129
+4406,Narre Warren North,United,94-100 Heathernton Road,Narre Warren,Victoria,-37.977905273,145.27911377
+4407,South West Rocks,United,102 Gregory Street,South West Rocks,New South Wales,-30.89443762,153.039889535
+4408,Campbelltown,United,104 Lindesay Street,Campbelltown,New South Wales,-34.0654312359999,150.825773069
+4409,Blacktown,United,140 Flushcombe Road,Blacktown,New South Wales,-33.777526855,150.907897949
+4410,Sanctuary Point,United,147 Larmar Avenue,Sanctuary Point,New South Wales,-35.099304199,150.632873535
+4411,Cromer,United,189 South Creek Road,Cromer,New South Wales,-33.7360839839999,151.280273438
+4412,Manly,United,209 Pittwater Road,Manly,New South Wales,-33.787475586,151.284118652
+4413,Blackheath,United,263 Great Western Highway,Blackheath,New South Wales,-33.633777166,150.285040374
+4414,Vineyard,United,405 Windsor Road,Vineyard,New South Wales,-33.6374747199999,150.848793918
+4415,Q8 Smithfield,Q8,739-741 The Horsley Drive,Smithfield,New South Wales,-33.852473382,150.934831733
+4416,Bass Hill,United,928 Hume Highway,Bass Hill,New South Wales,-33.896179199,150.991271973
+4417,Vineyard,United,1540 Windsor Road,Vineyard,New South Wales,-33.649898682,150.862777974
+4418,Beacon Hill BH Fuels,United,214-224 Warringah Road,Beacon Hill,New South Wales,-33.7525024409999,151.254882813
+4419,Ryde,United,36-38 Lane Cove Road,Ryde,New South Wales,-33.807495117,151.108703613
+4420,Lindfield,United,43-47 Lindfield Avenue,Lindfield,New South Wales,-33.774108887,151.169128418
+4421,Roselands,United,948-950 Canterbury Road,Roselands,New South Wales,-33.9282226559999,151.078125
+4422,Cringila,United,95-115 Five Islands Road,Cringila,New South Wales,-34.465881348,150.871887207
+4423,Londonerry,United,992-1002 Londonderry Road,Londonderry,New South Wales,-33.6896880469999,150.727528222
+4424,Dee Why,United,1 The Strand,Dee Why,New South Wales,-33.755888135,151.29627077
+4425,Dorrigo,United,3 Cudgery Street,Dorrigo,New South Wales,-30.340209961,152.710083008
+4426,Minto,United,6 Swettenham Road,Minto,New South Wales,-34.0300292969999,150.83190918
+4427,Cowra,United,10 Kendal Street,Cowra,New South Wales,-33.83380127,148.687316895
+4428,Bathurst,United,35 William Street,Bathurst,New South Wales,-33.4160156249999,149.582885742
+4429,Medlow Bath,United,90 Great Western Highway,Medlow Bath,New South Wales,-33.6783866129999,150.282198368
+4430,Dubbo,United,138 Cobra Street,Dubbo,New South Wales,-32.254577637,148.612915039
+4431,Orange,United,174 Woodward Street,Orange,New South Wales,-33.2800292969999,149.087280273
+4432,Coffs Harbour,United,316 Harbour Drive,Coffs Harbour,New South Wales,-30.305786133,153.132080078
+4433,Lethridge Park,United,400 Luxford Road,Lethbridge Park,New South Wales,-33.736694336,150.798522949
+4434,Prairiewood,United,522 Smithfield Road,Prairiewood,New South Wales,-33.872192383,150.900085449
+4435,Harwood,United,4928 Pacific Highway,Harwood,New South Wales,-29.41373436,153.242178587
+4436,Casino,United,136-144 Johnston Sttreet,Casino,New South Wales,-28.860412598,153.062072754
+4437,Cobargo,United,39-53 Princes Highway,Cobargo,New South Wales,-36.3867781229999,149.889452491
+4438,Randwick,United,8-10 Perouse Road,Randwick,New South Wales,-33.919006348,151.242126465
+4439,North Richmond,United,81-87 Bells Line of Road,North Richmond,New South Wales,-33.578796387,150.717895508
+4440,Kumbia,United,61 Bell Street,Kumbia,Queensland,-26.6898169569999,151.655045122
+4441,Bundaberg North,United,66 Mount Perry Road,Bundaberg North,Queensland,-24.8513183589999,152.327880859
+4442,Kingaroy,United,1 Youngman Street,Kingaroy,Queensland,-26.5501662529999,151.826904184
+4443,West Richmond,United,126-128 Marion Road,West Richmond,South Australia,-34.9362792969999,138.552490234
+4444,Loxton Schwarz Motor Repairs,United,1942 Bookburnong Road,Loxton,South Australia,-34.445678711,140.579528809
+4445,Waikerie,United,12905 Sturt Highway,Waikerie,South Australia,-34.188240504,140.004260676
+4446,Newnham,United,7 George Town Road,Newnham,Tasmania,-41.398010254,147.127929687
+4447,Liberty-Bagdad,United,1853 Midland Highway,Bagdad,Tasmania,-42.603088379,147.219726562
+4448,Arundel,United,1 Marble Arch Place,Arundel,Queensland,-27.9235839839999,153.354492188
+4449,Springfield,United,2 Woodcrest Way,Springfield,Queensland,-27.6544811699999,152.917730558
+4450,Warwick Fast Food,United,31 Helene Street,Warwick,Queensland,-28.209229706,152.039678801
+4451,Homehill,United,31 First Street,Homehill,Queensland,-19.6713268739999,147.417486418
+4452,Dalby,United,37 Drayton Street,Dalby,Queensland,-27.18170285,151.262335051
+4453,Bald Hills,United,73 Strathpine Road,Bald Hills,Queensland,-27.31768204,153.00912149
+4454,Hillcrest,United,78 Middle Road,Hillcrest,Queensland,-27.676575897,153.024908293
+4455,Hermit Park,United,94 Charters Towers Road,Hermit Park,Queensland,-19.275696991,146.801336515
+4456,Mackay,United,139 Sydney Street,Mackay,Queensland,-21.148988006,149.186285246
+4457,Parkwood,United,310 Olsen Avenue,Parkwood,Queensland,-27.9569103699999,153.380499113
+4458,Cranbrook,United,476 Ross River Road,Cranbrook,Queensland,-19.3078014829999,146.750921476
+4459,Virginia,United,1786 Sandgate Road,Virginia,Queensland,-27.377198456,153.062689054
+4460,Southbrook,United,2189 Gore Highway,Southbrook,Queensland,-27.6370861509999,151.744085539
+4461,Coolum Beach,United,1816-1818 David Low Way,Coolum Beach,Queensland,-26.527741367,153.090369744
+4462,Booval,United,203-209 Brisbane Road,Booval,Queensland,-27.6128020149999,152.798881058
+4463,Tinana,United,211-215 Gympie Road,Tinana,Queensland,-25.5568249199999,152.670110929
+4464,Park Ridge,United,445-459 Chambers Flat Road,Park Ridge,Queensland,-27.708022561,153.093294068
+4465,Forestdale,United,466-486 Johnson Road,Forestdale,Queensland,-27.6539690939999,152.995679817
+4466,Ludmilla,United,187 Bagot Road,Ludmilla,Northern Territory,-12.40946951,130.855806767
+4467,Henley Beach,United,10 Henley Beach Road,Henley Beach,South Australia,-34.925111053,138.497320402
+4468,Strathalbyn,United,18 South Terrace,Strathalbyn,South Australia,-35.2601940609999,138.894109953
+4469,Truro,United,52 Moorundie Street,Truro,South Australia,-34.409184861,139.12904185
+4470,Murray Bridge,United,153-157 Adelaide Road,Murray Bridge,South Australia,-35.127986549,139.25326151
+4471,Seaton,United,169-171 Tapley Hill Road,Seaton,South Australia,-34.8824137239999,138.513306029
+4472,Pooraka,United,880-884 Main North Road,Pooraka,South Australia,-34.8266003109999,138.615118254
+4473,Exeter,United,110 Main Street,Exeter,Tasmania,-41.2996215819999,146.953491211
+4474,Glenorchy,United,436 Main Road,Glenorchy,Tasmania,-42.8308105469999,147.269714355
+4475,Howrah,United,174 Clarence Street,Howrah,Tasmania,-42.8759765629999,147.38848877
+4476,Bicheno,United,28 Tasman Highway,Bicheno,Tasmania,-41.871704102,148.29510498
+4477,Shearwater,United,100 Alexander Street,Shearwater,Tasmania,-41.1625976559999,146.532470703
+4478,St Helens,United,16 Cecilia Street,St Helens,Tasmania,-41.3229980469999,148.24987793
+4479,Breadalbane,United,1 Translink Avenue,Western Junction,Tasmania,-41.536987305,147.195678711
+4480,Burnie,United,74-76 Mount Street,Burnie,Tasmania,-41.0541992189999,145.904296875
+4481,Devonport,United,89 Best Street,Devonport,Tasmania,-41.177429199,146.351318359
+4482,Victoria Park,United,916 Albany Highway,Victoria Park,Western Australia,-31.987794159,115.905523527
+4483,Leda,United,2 Feilman Drive,Leda,Western Australia,-32.260010956,115.806524504
+4484,Mindarie,United,4 Bergen Way,Mindarie,Western Australia,-31.6774303889999,115.711736906
+4485,Mount Lawley,United,791 Beaufort Street,Mount Lawley,Western Australia,-31.92578244,115.880132902
+4486,Myaree,United,176-182 Leach Highway,Myaree,Western Australia,-32.04623485,115.812627622
+4487,Northbridge,United,31 Fitzgerald Street,Northbridge,Western Australia,-31.945661516,115.852379401
+4488,Osborne Park,United,479 Scarborough Beach Road,Osborne Park,Western Australia,-31.9049084169999,115.806097258
+4489,Padbury,United,4 Walter Padbury Boulevard,Padbury,Western Australia,-31.818909881,115.774114836
+4490,Roleystone,United,11 Wygonda Road,Roleystone,Western Australia,-32.1124889829999,116.070928801
+4491,Wingfield,United,551 Grand Junction Road,Wingfield,South Australia,-34.8488171079999,138.571111906
+4492,Invermay,United,135 Invermay Road,Invermay,Tasmania,-41.42401123,147.136291504
+4493,Bell Bay,United,12 Mobil Road,Bell Bay,Tasmania,-41.131381553,146.866943489
+4494,Scottsdale,United,34814 Tasman Highway,Scottsdale,Tasmania,-41.185495201,147.552245263
+4495,Sheffield,United,2 Main Street,Sheffield,Tasmania,-41.379821777,146.317504883
+4496,Ulverstone,United,22-24 Trevor Street,Ulverstone,Tasmania,-41.164489746,146.16192627
+4497,Wynyard,United,10 Inglis Street,Wynyard,Tasmania,-40.989929199,145.723327637
+4498,Ridgley School Shop,Independent Fuel Supplies,914 Ridgley Highway,Ridgley,Tasmania,-41.1401289999999,145.836697
+4499,Doveton,7-Eleven Pty Ltd,48 Princes Highway,Doveton,Victoria,-38.001689023,145.239816233
+4500,Doveton,Caltex,40-44 Princes Highway,Doveton,Victoria,-38.001418407,145.238515191
+4501,Shepparton,Scott Petroleum (Shell),17-29 McGill Street,Shepparton,Victoria,-36.3631485139999,145.429451836
+4502,Dermody Petroleum Pty Ltd,AusFuel,146 Old Tarcoola Road,Port Augusta West,South Australia,-32.4682309419999,137.735724851
+4503,Port Augusta,Caltex,110 Old Tarcoola Road,Port Augusta West,South Australia,-32.471494003,137.738050832
+4504,Port Augusta,7-Eleven Pty Ltd,25 Prosser Street,Port Augusta,South Australia,-32.482142497,137.785827202
+4505,Caltex Port Hedland,Caltex,12 Cajarina Road,Wedgefield,Western Australia,-20.380853793,118.590551979
+4506,Shell Bendigo Truck Stop,Shell,107 Strickland Road,East Bendigo,Victoria,-36.7465078339999,144.30577811
+4507,St Albans North,United,116 Main Road East,St Albans,Victoria,-37.746481569,144.82070754
+4508,Sunshine,United,559 Ballarat Road,Sunshine,Victoria,-37.7760640619999,144.817429768
+4509,Murrumbeena,United,952 North Road,Murrumbeena,Victoria,-37.907224672,145.065143667
+4510,Hastings East,United,219 Marine Parade,Hastings East,Victoria,-38.290861536,145.190627171
+4511,Shepparton,United,7647 Goulburn Valley Highway,Shepparton,Victoria,-36.441312535,145.388169662
+4512,Cranbourne South,United,1-3 Cameron Street,Cranbourne South,Victoria,-38.1195882769999,145.2882398
+4513,Chisholm Petroleum,Caltex,258-266 Princes Highway,Corio,Victoria,-38.079043451,144.365332267
+4514,Officer Outbound,BP,65 Princes Highway,Officer,Victoria,-38.070091178,145.387103743
+4515,Officer Inbound,BP,94 Princes Highway,Officer,Victoria,-38.07305794,145.389658638
+4516,AA Wallan Outbound,BP,1015 Hume Highway,Wallan,Victoria,-37.40362743,145.017259275
+4517,AA Wallan Inbound,BP,1052 Hume Highway,Wallan,Victoria,-37.4023175409999,145.01507176
+4518,Alice City BP,BP,Transit Plaza,Alice Springs,Northern Territory,-23.6986767079999,133.878180045
+4519,Norvac Bell Bay,United,Bell Bay Road,Bell Bay,Tasmania,-41.130023611,146.866677025
+4520,Bell Bay ,BP,Bell Bay Road,Bell Bay,Tasmania,-41.129300255,146.866334383
+4521,Biggenden Food & Fuel,BP,1 John Street,Biggenden,Queensland,-25.507293847,152.046561786
+4522,Bankstown Aerodrome,7-Eleven Pty Ltd,Henry Lawson Drive,Bankstown Aerodrome,New South Wales,-33.9274200309999,150.980320147
+4523,BP 2GO Canterbury,BP,322 Canterbury Road,Canterbury,New South Wales,-33.914953586,151.11302565
+4524,Yamanto,Oz Fuel,2282 Cunningham Highway,Yamanto,Queensland,-27.6625703189999,152.728682812
+4525,Amberley,7-Eleven Pty Ltd,Cunningham Highway,Amberley,Queensland,-27.658627558,152.708722585
+4526,Amberley Coachhouse,Neumann Petroleum,2708 Cunningham Highway,Willowbank,Queensland,-27.665744278,152.692522661
+4527,Ashmore,7-Eleven Pty Ltd,Currumburra Road,Ashmore,Queensland,-27.986995367,153.382351914
+4528,Ashmore,7-Eleven Pty Ltd,400 Nerang Road,Ashmore,Queensland,-27.9788040719999,153.379692866
+4529,Athol Park OPT,BP,17-19 Athol Street,Athol Park,South Australia,-34.8524495569999,138.54083848
+4530,BP On The Run Hilton,Peregrine Corporation,79-81 Sir Donald Bradman Drive,Hilton,South Australia,-34.932245784,138.569291822
+4531,Keith Southbound,7-Eleven Pty Ltd,Riddich Highway and Dukes Highway,Keith,South Australia,-36.087106171,140.343312239
+4532,BP On The Run Blackwood,Peregrine Corporation,202 Main North Road,Blackwood,South Australia,-35.017027743,138.616847691
+4533,BP On The Run Kensington,Peregrine Corporation,294 The Parade,Kensington,South Australia,-34.921064761,138.643320455
+4534,D Smith and Sons,Liberty,659 Magill Road,Magill,South Australia,-34.9125525699999,138.68029717
+4535,Bridgestone ,Perrys,23 Spalding Road,Jamestown,South Australia,-33.206392104,138.602258308
+4536,Broughton Marine RDD,Independent Fuel Supplies,12 Bay Street,Port Broughton,South Australia,-33.600575003,137.93236276
+4537,BP On The Run Tranmere,Peregrine Corporation,172-176 Glynburn Road,Tranmere,South Australia,-34.902265127,138.657656219
+4538,Mobil On The Run Adelaide,Peregrine Corporation,139 Angus Street,Adelaide,South Australia,-34.9302489729999,138.605735947
+4539,Mobil On The Run Aldinga,Peregrine Corporation,Lot 3 Main South Road,Aldinga,South Australia,-35.267782497,138.484111649
+4540,Mobil On The Run Angle Vale,Peregrine Corporation,131 Heaslip Road,Angle Vale,South Australia,-34.647832305,138.643559719
+4541,Mobil On The Run Elizabeth South,Peregrine Corporation,Lot 2 John Rice Avenue,Elizabeth South,South Australia,-34.753074289,138.649647124
+4542,Elizabeth South,United,150 Commercial Road,Elizabeth South,South Australia,-34.753518077,138.64804177
+4543,Evanston Park,Caltex,Main North Road,Evanston Park,South Australia,-34.622703069,138.73782317
+4544,Mobil On The Run Glen Osmond,Peregrine Corporation,411 Glen Osmond Road,Glen Osmond,South Australia,-34.9625749209999,138.643780206
+4545,Mobil On The Run Glenside,Peregrine Corporation,282 Greehhill Road,Glenside,South Australia,-34.9399007129999,138.633951795
+4546,Mobil On The Run Greenacres,Peregrine Corporation,325 North East Road,Hillcrest,South Australia,-34.870452513,138.637506083
+4547,Mobil On the Run Gulfview,Peregrine Corporation,159 Dyson Road,Christies Beach,South Australia,-35.1296986259999,138.485234066
+4548,Mobil On The Run Harbourtown,Peregrine Corporation,Lot 4 Tapleys Hill Road,West Beach,South Australia,-34.9458466689999,138.517497036
+4549,Mobil On The Run Hilltop,Peregrine Corporation,656 North East Road,Holden Hill,South Australia,-34.852886805,138.665709881
+4550,Mobil On The Run Kensington Gardens,Peregrine Corporation,408 Magill Road,Kensington Gardens,South Australia,-34.9141847409999,138.658563729
+4551,Mobil On The Run Kent Town,Peregrine Corporation,1 Fullarton Road,Kent Town,South Australia,-34.916110115,138.622465094
+4552,Mobil On The Run Kingswood,Peregrine Corporation,1 Belair Road,Kingswood,South Australia,-34.965890703,138.608881083
+4553,Mobil On The Run Para Hills,Peregrine Corporation,321 Bridge Road,Para Hills,South Australia,-34.8139830879999,138.643172862
+4554,Mobil On The Run Salisbury Downs,Peregrine Corporation,328 Salisbury Highway,Salisbury Downs,South Australia,-34.7791568449999,138.627056882
+4555,Mobil On The Run Sheidow Park,Peregrine Corporation,2 Commercial Road,Sheidow Park,South Australia,-35.0756847879999,138.522434426
+4556,Mobil On The Run South Plympton,Peregrine Corporation,445 Marion Road,South Plympton,South Australia,-34.9685491929999,138.555400728
+4557,Mobil On The Run Underdale,Peregrine Corporation,282 Henley Beach Road,Underdale,South Australia,-34.9244361639999,138.549493129
+4558,Mobil On The Run Welland,Peregrine Corporation,522 Port Road,Welland,South Australia,-34.896142147,138.557364711
+4559,On The Run Commercial Road,Peregrine Corporation,55 Commercial Road,Salisbury,South Australia,-34.761406195,138.649649813
+4560,Braddon,7-Eleven Pty Ltd,Mort Street,Canberra,Australian Capital Territory,-35.2757210999999,149.1315521
+4561,Fyshwick,7-Eleven Pty Ltd,Dalby Street,Fyshwick,Australian Capital Territory,-35.325101654,149.15370731
+4562,Giralang,7-Eleven Pty Ltd,Canopus Crescent,Giralang,Australian Capital Territory,-35.2138821,149.0962621
+4563,Holt,7-Eleven Pty Ltd,88 Hardwick Crescent,Holt,Australian Capital Territory,-35.2208871,149.0178561
+4564,Melba,7-Eleven Pty Ltd,2 Chinner Crescent,Melba,Australian Capital Territory,-35.2080501,149.0481521
+4565,Spence,7-Eleven Pty Ltd,Clarey Crescent,Spence,Australian Capital Territory,-35.1947701,149.0623601
+4566,Albany Creek,7-Eleven Pty Ltd,70 Albany Creek Road,Albany Creek,Queensland,-27.3638020999999,153.0129031
+4567,Algester,7-Eleven Pty Ltd,169 Algester Road,Algester,Queensland,-27.6125711,153.0394571
+4568,Ashgrove,7-Eleven Pty Ltd,268 Waterworks Road,Ashgrove,Queensland,-27.4461491,152.9909841
+4569,Ashmore,7-Eleven Pty Ltd,Southport Nerang Road,Ashmore,Queensland,-27.9846691,153.3656951
+4570,Apsley,7-Eleven Pty Ltd,1429 Gympie Road,Apsley,Queensland,-27.3583050999999,153.0172591
+4571,Beenleigh,7-Eleven Pty Ltd,79 Logan River Road,Beenleigh,Queensland,-27.7134121,153.1850491
+4572,Beenleigh,7-Eleven Pty Ltd,2-6 City Road,Beenleigh,Queensland,-27.7078000999999,153.2035271
+4573,Bellbird Park,7-Eleven Pty Ltd,354 Redback Plains Road,Bellbird Park,Queensland,-27.6452661,152.8721631
+4574,Birkdale,7-Eleven Pty Ltd,2 Bailey Road,Birkdale,Queensland,-27.5092170999999,153.2070951
+4575,Redbank Plains,7-Eleven Pty Ltd,355 Redback Plains Road,Redbank Plains,Queensland,-27.6449605779999,152.871536587
+4576,Bracken Ridge,7-Eleven Pty Ltd,Telegraph Road,Bracken Ridge,Queensland,-27.3308101,153.0257621
+4577,Brassall,7-Eleven Pty Ltd,21 Hunter Street,Brassall,Queensland,-27.5934470999999,152.7457591
+4578,Beenleigh,Matilda Fuels,21 City Road,Beenleigh,Queensland,-27.7084425539999,153.2030869
+4579,Bray Park,7-Eleven Pty Ltd,339-341 Sampsonvale Road,Bray Park,Queensland,-27.2918831,152.9546071
+4580,Brisbane East,7-Eleven Pty Ltd,508 Vulture Street,Brisbane East,Queensland,-27.4848871,153.0398991
+4581,Boronia Heights,7-Eleven Pty Ltd,2a Coronation Road,Boronia Heights,Queensland,-27.6787681,153.0218471
+4582,Broadbeach,7-Eleven Pty Ltd,Hooker Boulevard,Broadbeach,Queensland,-28.0356631,153.4252221
+4583,Browns Plains,7-Eleven Pty Ltd,267-273 Browns Plains Road,Browns Plains,Queensland,-27.6640990999999,153.0614831
+4584,Browns Plains,7-Eleven Pty Ltd,264-266 Browns Plains Road,Browns Plains,Queensland,-27.6639311,153.0634291
+4585,Carina,7-Eleven Pty Ltd,1505 Creek Road,Carina,Queensland,-27.4876631,153.1002141
+4586,Coomera,7-Eleven Pty Ltd,Pacific Highway,Coomera,Queensland,-27.8687060999999,153.3140761
+4587,Coopers Plains,7-Eleven Pty Ltd,129 Orange Grove Road,Coopers Plains,Queensland,-27.5638891,153.0397191
+4588,Deagon,7-Eleven Pty Ltd,11 Depot Road,Deagon,Queensland,-27.3283731,153.0538921
+4589,Dinmore,7-Eleven Pty Ltd,29-31 Brisbane Road,Dinmore,Queensland,-27.5981001,152.8320091
+4590,Durack,7-Eleven Pty Ltd,14 Rosemary Street,Durack,Queensland,-27.5792571,152.9745261
+4591,Eatons Hill,7-Eleven Pty Ltd,South Pine Road,Eatons Hill,Queensland,-27.3378101,152.9602291
+4592,Fairfield,7-Eleven Pty Ltd,180 Fairfield Road,Fairfield,Queensland,-27.5084060999999,153.0250711
+4593,Flinders Way,7-Eleven Pty Ltd,130 Ash Street,Yamanto,Queensland,-27.6536030999999,152.7632031
+4594,Gaven,7-Eleven Pty Ltd,Binstead Way,Gaven,Queensland,-27.9261761,153.3236791
+4595,Graceville,7-Eleven Pty Ltd,246 Oxley Avenue,Graceville,Queensland,-27.5221741,152.9801281
+4596,Greenslopes,7-Eleven Pty Ltd,99 Juliette Street,Greenslopes,Queensland,-27.5045931,153.0402901
+4597,Heritage Park,7-Eleven Pty Ltd,118 Waller Street,Heritage Park,Queensland,-27.6735131,153.0529571
+4598,Hope Island,7-Eleven Pty Ltd,341 Southport Oxenford Road,Hope Island,Queensland,-27.8804921,153.3340351
+4599,Jindalee,7-Eleven Pty Ltd,721 Seventeen Mile Rock Road,Jindalee,Queensland,-27.5364041,152.9490181
+4600,Kensington Hills,7-Eleven Pty Ltd,1 Sovereign Avenue,Bray Park,Queensland,-27.2969800999999,152.9751271
+4601,Labrador,7-Eleven Pty Ltd,78-84 Frank Street,Labrador,Queensland,-27.9488971,153.4082301
+4602,Logan City,7-Eleven Pty Ltd,120 Wembley Road,Logan Central,Queensland,-27.6412880999999,153.1074811
+4603,Lytton,7-Eleven Pty Ltd,887 Lytton Road,Murrarie,Queensland,-27.4568431,153.1058491
+4604,Mackenzie,7-Eleven Pty Ltd,902 Mount Gravatt-Capalaba Road,Mackenzie,Queensland,-27.5455231,153.1218191
+4605,Manly West,7-Eleven Pty Ltd,459 Manly Road,Manly West,Queensland,-27.4755190999999,153.1657871
+4606,Marcoola,7-Eleven Pty Ltd,946-948 David Low Way,Marcoola,Queensland,-26.6006040999999,153.0955721
+4607,Maroochydore,7-Eleven Pty Ltd,53 Aerodrome Road,Maroochydore,Queensland,-26.6600291,153.1003981
+4608,Mermaid Waters,7-Eleven Pty Ltd,1 Lakeview Boulevard,Mermaid Waters,Queensland,-28.0402700999999,153.4082721
+4609,Moorvale,7-Eleven Pty Ltd,841 Ipswich Road,Moorooka,Queensland,-27.5240340999999,153.0233481
+4610,Morayfield,7-Eleven Pty Ltd,272 Morayfield Road,Morayfield,Queensland,-27.1122450999999,152.9507771
+4611,Mount Gravatt East,7-Eleven Pty Ltd,Cavandish Road,Mount Gravatt,Queensland,-27.5318121,153.0934321
+4612,Newmarket,7-Eleven Pty Ltd,85 Enoggera Road,Newmarket,Queensland,-27.4386281,153.0075661
+4613,Oxenford,7-Eleven Pty Ltd,170 Old Pacific Road,Oxenford,Queensland,-27.8861740999999,153.3135771
+4614,Pacific Pines,7-Eleven Pty Ltd,31 Pitcairn Way,Pacific Pines,Queensland,-27.9462321,153.3206811
+4615,Palm Beach,7-Eleven Pty Ltd,1346-1354 Gold Coast Highway,Palm Beach,Queensland,-28.1090920999999,153.4654331
+4616,Palm Beach,7-Eleven Pty Ltd,1186 Gold Coast Highway,Palm Beach,Queensland,-28.1183280999999,153.4706361
+4617,Parkwood,7-Eleven Pty Ltd,236 Napper Road,Parkwood,Queensland,-27.9469801,153.3510141
+4618,Raceview,7-Eleven Pty Ltd,59-63 Raceview Street,Raceview,Queensland,-27.6349551,152.7745321
+4619,Rangeville,7-Eleven Pty Ltd,85 Perth Street,Rangeville,Queensland,-27.5747031,151.9692441
+4620,Riverhills,7-Eleven Pty Ltd,412 Sumners Road,Riverhills,Queensland,-27.5618721,152.9217761
+4621,Robina,7-Eleven Pty Ltd,48-56 Commercial Drive,Robina,Queensland,-28.0655111,153.4041071
+4622,Robina Town Centre,7-Eleven Pty Ltd,Robina Town Centre Drive,Robina,Queensland,-28.0805591,153.3841121
+4623,Runaway Bay,7-Eleven Pty Ltd,20 Bayview Street,Runaway Bay,Queensland,-27.9235851,153.4037111
+4624,Sanctuary Cove,7-Eleven Pty Ltd,83-87 Broadwater Avenue,Sanctuary Cove,Queensland,-27.8778270999999,153.3671011
+4625,Sandgate,7-Eleven Pty Ltd,86 Rainbow Street,Sandgate,Queensland,-27.3211800999999,153.0681541
+4626,Silkstone,7-Eleven Pty Ltd,Blackstone Road,Silkstone,Queensland,-27.6211671,152.7880141
+4627,Southport,7-Eleven Pty Ltd,Lot 4 Slatyer Avenue,Southport,Queensland,-27.9964171,153.3997501
+4628,Springwood,7-Eleven Pty Ltd,Springwood Road,Springwood,Queensland,-27.6102860999999,153.1241681
+4629,Strathpine,7-Eleven Pty Ltd,273 Gympie Road,Strathpine,Queensland,-27.3076950999999,152.9903651
+4630,Sunnybank,7-Eleven Pty Ltd,82 Pinelands Road,Sunnybank,Queensland,-27.5915701,153.0603731
+4631,The Gap,7-Eleven Pty Ltd,1121 Waterworks Road,The Gap,Queensland,-27.4428920999999,152.9436531
+4632,Toowoomba,7-Eleven Pty Ltd,328-330 James Street,Toowoomba,Queensland,-27.5662351,151.9307591
+4633,Toowoomba East,7-Eleven Pty Ltd,221A-225 Ruthven Street,Toowoomba,Queensland,-27.5506420999999,151.9547141
+4634,Victoria Point,7-Eleven Pty Ltd,439-447 Cleveland-Redland Bay Road,Victoria Point,Queensland,-27.5844351,153.2812151
+4635,Warana,7-Eleven Pty Ltd,Nicklin Way,Warana,Queensland,-26.7192441,153.1292161
+4636,Warner Lakes,7-Eleven Pty Ltd,Lot 901 Old North Road,Warner,Queensland,-27.3103831,152.9627861
+4637,Windaroo,7-Eleven Pty Ltd,159-163 Beenleigh-Beaudesert Road,Windaroo,Queensland,-27.7356831,153.1940071
+4638,Wishart,7-Eleven Pty Ltd,Mount Gravatt-Capalaba Road,Wishart,Queensland,-27.5565741,153.0896971
+4639,Woodridge,7-Eleven Pty Ltd,North Road,Woodridge,Queensland,-27.6189021,153.1049711
+4640,Woodridge,7-Eleven Pty Ltd,Kingston Road,Woodridge,Queensland,-27.6206630999999,153.1152281
+4641,Wynnum,7-Eleven Pty Ltd,Tingal Road,Wynnum,Queensland,-27.4459451,153.1717991
+4642,Yeronga,7-Eleven Pty Ltd,563 Fairfield Road,Yeronga,Queensland,-27.5194511,153.0152331
+4643,Allawah,7-Eleven Pty Ltd,439 Princes Highway,Allawah,New South Wales,-33.9804801,151.1192281
+4644,Arncliffe,7-Eleven Pty Ltd,28 Princes Highway,Arncliffe,New South Wales,-33.9342581,151.1525271
+4645,Arndell Park,7-Eleven Pty Ltd,180 Reservoir Road,Arndell Park,New South Wales,-33.7967111,150.8968051
+4646,Artarmon,7-Eleven Pty Ltd,Pacific Highway,Artarmon,New South Wales,-33.8105791,151.1773611
+4647,Ashfield,7-Eleven Pty Ltd,132 Hume Highway,Ashfield,New South Wales,-33.8906130999999,151.1295471
+4648,Bankstown,7-Eleven Pty Ltd,180 Stacey Street,Bankstown,New South Wales,-33.9209461,151.0391611
+4649,Baulkham Hills,7-Eleven Pty Ltd,217-219 Seven Hills Road,Baulkham Hills,New South Wales,-33.7555541,150.9633121
+4650,Belmore,7-Eleven Pty Ltd,792-794 Canterbury Road,Belmore,New South Wales,-33.9256270999999,151.0872591
+4651,Berkeley,7-Eleven Pty Ltd,Northcliffe Road,Berkeley,New South Wales,-34.4768660999999,150.8393581
+4652,Berowra,7-Eleven Pty Ltd,965-969 Pacific Highway,Berowra,New South Wales,-33.6267971,151.1479081
+4653,Bexley,7-Eleven Pty Ltd,474 Forest Road,Bexley,New South Wales,-33.9513861,151.1250721
+4654,Bexley,7-Eleven Pty Ltd,611-615 Forest Road,Bexley,New South Wales,-33.9555260999999,151.1184971
+4655,Blacktown,7-Eleven Pty Ltd,62 Walters Road,Blacktown,New South Wales,-33.7760241,150.8949891
+4656,Blacktown East,7-Eleven Pty Ltd,Blacktown Road,Blacktown,New South Wales,-33.7801461,150.9206831
+4657,Blacktown West,7-Eleven Pty Ltd,175 Richmond Road,Blacktown,New South Wales,-33.7548470999999,150.8912201
+4658,Blaxland,7-Eleven Pty Ltd,Great Western Highway,Blaxland,New South Wales,-33.7463400999999,150.6137121
+4659,Bligh Park,7-Eleven Pty Ltd,735 George Street,Bligh Park,New South Wales,-33.6370031,150.7859801
+4660,Burwood,7-Eleven Pty Ltd,Parramatta Road,Burwood,New South Wales,-33.8695471,151.1081491
+4661,Cabramatta West,7-Eleven Pty Ltd,464 Cabramatta Road,Mount Prichard,New South Wales,-33.8974310999999,150.9130771
+4662,Campbelltown,7-Eleven Pty Ltd,196 Queen Street,Campbelltown,New South Wales,-34.0640351,150.8169731
+4663,Camperdown,7-Eleven Pty Ltd,198 Parramatta Road,Camperdown,New South Wales,-33.8871061,151.1740971
+4664,Caringbah,7-Eleven Pty Ltd,367 The Kings Way,Caringbah,New South Wales,-34.0395470999999,151.1203681
+4665,Carlingford,7-Eleven Pty Ltd,340 North Rocks Road,Carlingford,New South Wales,-33.7828800999999,151.0457301
+4666,Casula,7-Eleven Pty Ltd,2355 Camden Valley Way,Casula,New South Wales,-33.95745353,150.884736382
+4667,Corrimal,7-Eleven Pty Ltd,138-146 Princes Highway,Corrimal,New South Wales,-34.3699210999999,150.8977541
+4668,Cranebrook,7-Eleven Pty Ltd,212-222 Andrews Road,Cranebrook,New South Wales,-33.7305231,150.6954331
+4669,Cronulla,7-Eleven Pty Ltd,192-198 Kingsway,Cronulla,New South Wales,-34.0463420999999,151.1335441
+4670,Croydon Park,7-Eleven Pty Ltd,45 Georges Road,Croydon Park,New South Wales,-33.8943480999999,151.1115481
+4671,Croydon Park,7-Eleven Pty Ltd,342 Georges Road,Croydon Park,New South Wales,-33.8977101,151.0998651
+4672,Dapto,7-Eleven Pty Ltd,125 Princes Highway,Dapto,New South Wales,-34.4988111,150.7913261
+4673,Dee Why,7-Eleven Pty Ltd,940 Pittwater Road,Dee Why,New South Wales,-33.7491501,151.2901741
+4674,Drummoyne,7-Eleven Pty Ltd,271A Victoria Road,Drummoyne,New South Wales,-33.8472001,151.1515141
+4675,Eastern Creek,7-Eleven Pty Ltd,16-25 Great Western Highway,Eastern Creek,New South Wales,-33.7879601,150.8496741
+4676,Edensor Park,7-Eleven Pty Ltd,Elizabeth Road,Edensor Park,New South Wales,-33.8833031,150.8656291
+4677,Emerton,7-Eleven Pty Ltd,2 Popondetta Road,Emerton,New South Wales,-33.7446280999999,150.8105201
+4678,Emu Plains,7-Eleven Pty Ltd,49-51 Great Western Highway,Emu Plains,New South Wales,-33.7465700999999,150.6760541
+4679,Enmore,7-Eleven Pty Ltd,22 Stanmore Road,Enmore,New South Wales,-33.8993060999999,151.1698881
+4680,Epping,7-Eleven Pty Ltd,246 Beecroft Road,Epping,New South Wales,-33.7707311,151.0806451
+4681,Fairfield West,7-Eleven Pty Ltd,234 Hamilton Road,Fairfield West,New South Wales,-33.8721591,150.9372711
+4682,Five Dock,7-Eleven Pty Ltd,231-235 Great North Road,Five Dock,New South Wales,-33.8649091,151.1300971
+4683,Frenchs Forest,7-Eleven Pty Ltd,416 Warringah Road,Frenchs Forest,New South Wales,-33.7522041,151.2320091
+4684,Granville East,7-Eleven Pty Ltd,3 Parramatta Road,Granville East,New South Wales,-33.8349540999999,151.0221021
+4685,Green Valley,7-Eleven Pty Ltd,187 Wilson Road,Green Valley,New South Wales,-33.9078411,150.8659041
+4686,Greenacre,7-Eleven Pty Ltd,301-305 Hume Highway,Greenacre,New South Wales,-33.9051830999999,151.0417531
+4687,Guildford West,7-Eleven Pty Ltd,534 Guildford Road West,Guildford West,New South Wales,-33.8515401,150.9722851
+4688,Gymea,7-Eleven Pty Ltd,Presidents Avenue,Gymea,New South Wales,-34.0375071,151.0847431
+4689,Haberfield,7-Eleven Pty Ltd,25 Parramatta Road,Haberfield,New South Wales,-33.8880071,151.1427681
+4690,Hassall Grove,7-Eleven Pty Ltd,795 Luxford Road,Hassall Grove,New South Wales,-33.7353861,150.8366701
+4691,Hurlstone Park,7-Eleven Pty Ltd,670 New Canterbury Road,Hurlstone Park,New South Wales,-33.9050721,151.1300071
+4692,Jamisontown,7-Eleven Pty Ltd,92 Mulgoa Road,Jamisontown (Penrith),New South Wales,-33.7666710999999,150.6796131
+4693,Kensington North,7-Eleven Pty Ltd,110 Anzac Parade,Kensington,New South Wales,-33.9073440999999,151.2239781
+4694,Kensington South,7-Eleven Pty Ltd,131 Anzac Parade,Kensington,New South Wales,-33.9102861,151.2230041
+4695,Killara,7-Eleven Pty Ltd,494 Pacific Highway,Killara,New South Wales,-33.7713951,151.1608001
+4696,Kingswood,7-Eleven Pty Ltd,2614 Great Western Highway,Kingswood,New South Wales,-33.7598470999999,150.7265071
+4697,Kirrawee,7-Eleven Pty Ltd,529-531 Princes Highway,Kirrawee,New South Wales,-34.0314420999999,151.0766741
+4698,Lane Cove,7-Eleven Pty Ltd,203 Burns Bay Road,Lane Cove,New South Wales,-33.8145871,151.1544121
+4699,Lindfield,7-Eleven Pty Ltd,238 Pacific Highway,Lindfield,New South Wales,-33.7788611,151.1689911
+4700,Liverpool,7-Eleven Pty Ltd,95 Elizabeth Drive,Liverpool,New South Wales,-33.9182771,150.9160341
+4701,Maroubra,7-Eleven Pty Ltd,1 Meagher Avenue,Maroubra,New South Wales,-33.9513241,151.2490741
+4702,Matraville,7-Eleven Pty Ltd,515 Bunnerong Road,Matraville,New South Wales,-33.9594761,151.2317011
+4703,McGraths Hill,7-Eleven Pty Ltd,142 Windsor Road,McGraths Hill,New South Wales,-33.6168881,150.8342081
+4704,Minchinbury,7-Eleven Pty Ltd,Great Western Highway,Minchinbury,New South Wales,-33.7781320999999,150.8080001
+4705,Minchinbury,7-Eleven Pty Ltd,1042 Great Western Highway,Minchinbury,New South Wales,-33.7822131,150.8287421
+4706,Minto,7-Eleven Pty Ltd,Lot 1 Ben Lomond Road,Minto,New South Wales,-34.0316200999999,150.8478921
+4707,Moorebank,7-Eleven Pty Ltd,102 Heathcote Road,Moorebank,New South Wales,-33.9381811,150.9397971
+4708,Mosman,7-Eleven Pty Ltd,42 Spit Road,Mosman,New South Wales,-33.8230201,151.2435101
+4709,Mosman,7-Eleven Pty Ltd,162A Spit Road,Mosman,New South Wales,-33.8175011,151.2433551
+4710,Mount Druitt,7-Eleven Pty Ltd,Lot 6 Luxford Road,Mount Druitt,New South Wales,-33.7648791,150.8252371
+4711,Mount Pritchard,7-Eleven Pty Ltd,352 Elizabeth Drive,Mount Pritchard,New South Wales,-33.9027020999999,150.8963851
+4712,Narrabeen North,7-Eleven Pty Ltd,1497 Pittwater Road,Narrabeen,New South Wales,-33.7074421,151.2963711
+4713,Newport,7-Eleven Pty Ltd,307-311 Barrenjoey Road,Newport,New South Wales,-33.6564150999999,151.3182141
+4714,North Rocks,7-Eleven Pty Ltd,340 North Rocks Road,North Rocks,New South Wales,-33.7690110999999,151.0306361
+4715,Northmead,7-Eleven Pty Ltd,56 Windsor Road,Northmead,New South Wales,-33.7909321,150.9968481
+4716,Paddington,7-Eleven Pty Ltd,Oxford Street,Paddington,New South Wales,-33.8832001,151.2204861
+4717,Parramatta North,7-Eleven Pty Ltd,81 Victoria Road,Parramatta,New South Wales,-33.8090620999999,151.0143351
+4718,Pendle Hill,7-Eleven Pty Ltd,217 Wentworth Avenue,Pendle Hill,New South Wales,-33.8018111,150.9577911
+4719,Penrith,7-Eleven Pty Ltd,30 Henry Street,Penrith,New South Wales,-33.7540430999999,150.7046121
+4720,Penshurst,7-Eleven Pty Ltd,612 Forest Road,Penshurst,New South Wales,-33.9615330999999,151.0792431
+4721,Petersham,7-Eleven Pty Ltd,8-10 Crystal Street,Petersham,New South Wales,-33.8885821,151.1586701
+4722,Plumpton,7-Eleven Pty Ltd,Richmond Road,Plumpton,New South Wales,-33.7398810999999,150.8602831
+4723,Fairfield,7-Eleven Pty Ltd,320 Polding Street,Fairfield,New South Wales,-33.8595491,150.9226621
+4724,Quakers Hill,7-Eleven Pty Ltd,83 Lalor Road,Quakers Hill,New South Wales,-33.7275400999999,150.8966441
+4725,Ramsgate,7-Eleven Pty Ltd,368 Rocky Point Road,Ramsgate,New South Wales,-33.9861900999999,151.1361061
+4726,Randwick,7-Eleven Pty Ltd,128 Barker Street,Randwick,New South Wales,-33.9209521,151.2354861
+4727,Regentville,7-Eleven Pty Ltd,36 Mulgoa Road,Regentville,New South Wales,-33.7751241,150.6661681
+4728,Revesby,7-Eleven Pty Ltd,275 Canterbury Road,Revesby,New South Wales,-33.9369551,151.0208771
+4729,Riverstone,7-Eleven Pty Ltd,55 Garfield Road,Riverstone,New South Wales,-33.6781430999999,150.8634831
+4730,Riverwood,7-Eleven Pty Ltd,30 Bonds Road,Riverwood,New South Wales,-33.9523071,151.0583661
+4731,Rockdale,7-Eleven Pty Ltd,99 Railway Street,Rockdale,New South Wales,-33.9525551,151.1357951
+4732,Rockdale,7-Eleven Pty Ltd,239 West Botany Street,Rockdale,New South Wales,-33.9499150999999,151.1484541
+4733,Rooty Hill,7-Eleven Pty Ltd,Evans Street,Rooty Hill,New South Wales,-33.7803521,150.8502511
+4734,Roseville,7-Eleven Pty Ltd,Pacific Highway,Roseville,New South Wales,-33.7876800999999,151.1795271
+4735,Ryde,7-Eleven Pty Ltd,332 Blaxland Road,Ryde,New South Wales,-33.8023181,151.1003971
+4736,San Souci,7-Eleven Pty Ltd,476 Rocky Point Road,San Souci,New South Wales,-33.9909051,151.1333571
+4737,Shellharbour,7-Eleven Pty Ltd,Shellharbour Road,Shellharbour,New South Wales,-34.5800940999999,150.8610331
+4738,South Hurstville,7-Eleven Pty Ltd,822 King Georges Road,South Hurstville,New South Wales,-33.9758790999999,151.1036561
+4739,Penrith South,7-Eleven Pty Ltd,15-19 Aspen Street,Penrith,New South Wales,-33.7773111,150.7109491
+4740,St Clair,7-Eleven Pty Ltd,4 Endeavour Road,St Clair,New South Wales,-33.7942970999999,150.7885831
+4741,St Ives,7-Eleven Pty Ltd,159 Mona Vale Road,St Ives,New South Wales,-33.7326791,151.1562961
+4742,St Marys North,7-Eleven Pty Ltd,Forrester Road,St Marys,New South Wales,-33.7478920999999,150.7767491
+4743,St Marys South,7-Eleven Pty Ltd,Mamre Road,St Marys,New South Wales,-33.7777960999999,150.7718721
+4744,Strathfield South,7-Eleven Pty Ltd,575-585 Liverpool Road,Strathfield South,New South Wales,-33.8873891,151.0742801
+4745,Sutherland,7-Eleven Pty Ltd,693 Old Princes Highway,Sutherland,New South Wales,-34.0298071,151.0589271
+4746,Toongabbie,7-Eleven Pty Ltd,3 Metella Road,Toongabbie,New South Wales,-33.7868670999999,150.9463291
+4747,Turramurra,7-Eleven Pty Ltd,1408 Pacific Highway,Turramurra,New South Wales,-33.7332840999999,151.1264801
+4748,West Pennant Hills,7-Eleven Pty Ltd,552 Pennant Hills Road,West Pennant Hills,New South Wales,-33.7469411,151.0508461
+4749,West Ryde,7-Eleven Pty Ltd,919 Victoria Road,West Ryde,New South Wales,-33.8091931,151.0932631
+4750,West Wollongong,7-Eleven Pty Ltd,Crown Street,West Wollongong,New South Wales,-34.4250531,150.8850401
+4751,Windsor,7-Eleven Pty Ltd,20 Hawkesbury Valley Way,Windsor,New South Wales,-33.6117801,150.8121081
+4752,Yagoona,7-Eleven Pty Ltd,519 Hume Highway,Yagoona,New South Wales,-33.9075660999999,151.0207581
+4753,Altona,7-Eleven Pty Ltd,Millers Road,Altona North,Victoria,-37.8494990999999,144.8446351
+4754,Ardeer North,7-Eleven Pty Ltd,Lot 5 Western Ring Road,Ardeer,Victoria,-37.8038410999999,144.8042981
+4755,Ardeer South,7-Eleven Pty Ltd,Lot 2 Western Ring Road,Ardeer,Victoria,-37.8053260999999,144.8093111
+4756,Ashwood,7-Eleven Pty Ltd,Warrigal Road,Ashwood,Victoria,-37.8634751,145.0934951
+4757,Aspendale,7-Eleven Pty Ltd,Edithvale Road,Aspendale,Victoria,-38.0279280999999,145.1302261
+4758,Bacchus Marsh,7-Eleven Pty Ltd,28 Bacchus Marsh Road,Bacchus Marsh,Victoria,-37.6715480999999,144.42597407
+4759,Bayswater,7-Eleven Pty Ltd,Scoresby Road,Bayswater,Victoria,-37.8448081,145.2697261
+4760,Bayswater,7-Eleven Pty Ltd,254-300 Canterbury Road,Bayswater North,Victoria,-37.8309720999999,145.2711761
+4761,Bayswater East,7-Eleven Pty Ltd,Mountain Highway,Bayswater,Victoria,-37.8380151,145.2864821
+4762,Belmont,7-Eleven Pty Ltd,19-21 Settlement Road,Belmont,Victoria,-38.1791951,144.3516141
+4763,Blackburn North,7-Eleven Pty Ltd,Williams Road,Blackburn North,Victoria,-37.8106450999999,145.1520391
+4764,Blackburn South,7-Eleven Pty Ltd,Canterbury Road,Blackburn South,Victoria,-37.8306641,145.1366141
+4765,Box Hill,7-Eleven Pty Ltd,786 Whitehorse Road,Box Hill,Victoria,-37.8170961,145.1143421
+4766,Brandon Park,7-Eleven Pty Ltd,602-606 Ferntree Gully Road,Brandon Park,Victoria,-37.9039921,145.1618881
+4767,Burnley,7-Eleven Pty Ltd,Swan Street,Burnley,Victoria,-37.8267681,145.0092891
+4768,Camberwell,7-Eleven Pty Ltd,735 Riversdale Road,Camberwell,Victoria,-37.8335180999999,145.0771221
+4769,Campbellfield,7-Eleven Pty Ltd,1603 Sydney Road,Campbellfield,Victoria,-37.6741630999999,144.9553151
+4770,Caroline Springs,7-Eleven Pty Ltd,235-239 Caroline Springs Boulevarde,Caroline Springs,Victoria,-37.7291200999999,144.7410711
+4771,Carrum Downs,7-Eleven Pty Ltd,10 Amayla Crescent,Carrum Downs,Victoria,-38.1047910999999,145.1676921
+4772,Caulfield,7-Eleven Pty Ltd,Hawthorn Road,Caulfield,Victoria,-37.8864000999999,145.0223061
+4773,Chadstone,7-Eleven Pty Ltd,609 Waverley Road,Chadstone,Victoria,-37.8770291,145.0860141
+4774,Chirnside Park,7-Eleven Pty Ltd,242 Maroondah Highway,Chirnside Park,Victoria,-37.7601721,145.3125141
+4775,Clarinda,7-Eleven Pty Ltd,Calrinda Road,Clarinda,Victoria,-37.9265791,145.1009651
+4776,Clayton,7-Eleven Pty Ltd,187-191 Clayton Road,Clayton,Victoria,-37.9131950999999,145.1216721
+4777,Clifton Hills,7-Eleven Pty Ltd,422-424 Hoddle Street,Clifton Hills,Victoria,-37.7914610999999,144.9948761
+4778,Coburg,7-Eleven Pty Ltd,Bell Street,Coburg,Victoria,-37.7423901,144.9796991
+4779,Corio,7-Eleven Pty Ltd,Bacchus Marsh Road,Corio,Victoria,-38.0744690999999,144.3580231
+4780,Cranbourne,7-Eleven Pty Ltd,South Gippsland Highway,Cranbourne,Victoria,-38.0805851,145.2762331
+4781,Cranbourne North,7-Eleven Pty Ltd,945 Gippsland Highway,Cranbourne North,Victoria,-38.0743510999999,145.2717841
+4782,Croydon,7-Eleven Pty Ltd,Mount Dandenong Road,Croydon,Victoria,-37.8021021,145.3082701
+4783,Croydon Hills,7-Eleven Pty Ltd,44 Plymouth Road,Croydon Hills,Victoria,-37.7830880999999,145.2677391
+4784,Dandenong,7-Eleven Pty Ltd,Stud Road,Dandenong,Victoria,-37.9852150999999,145.2203941
+4785,Dingley,7-Eleven Pty Ltd,277-283 Centre Dandenong Road,Dingley,Victoria,-37.9734801,145.1206701
+4786,Donvale,7-Eleven Pty Ltd,95 Mitcham Road,Donvale,Victoria,-37.7971611,145.1802221
+4787,Dromana,7-Eleven Pty Ltd,335-339 Point Nepean Road,Dromana,Victoria,-38.3354811,144.9595311
+4788,East Melbourne,7-Eleven Pty Ltd,23-29 Victoria Street,Melbourne,Victoria,-37.8072761,144.9669291
+4789,Eltham,7-Eleven Pty Ltd,330 Ryans Road,Eltham,Victoria,-37.6874870999999,145.1431331
+4790,Eltham,7-Eleven Pty Ltd,Lot 1 Sherbourne Road,Eltham,Victoria,-37.7162380999999,145.1371481
+4791,Endeavour Hills,7-Eleven Pty Ltd,Heatherton Road,Endeavour Hills,Victoria,-37.9736351,145.2426151
+4792,Epping,7-Eleven Pty Ltd,Childs Road,Epping,Victoria,-37.6600121,145.0242341
+4793,Epping,7-Eleven Pty Ltd,339 Dalton Street,Epping,Victoria,-37.6603751,145.0299181
+4794,Fairfield,7-Eleven Pty Ltd,Heidelberg Road,Fairfield,Victoria,-37.7802720999999,145.0325821
+4795,Fairfield,7-Eleven Pty Ltd,324 Station Street,Fairfield,Victoria,-37.7656971,145.0200951
+4796,Ferntree Gully,7-Eleven Pty Ltd,1025-1027 Burwood Highway,Ferntree Gully,Victoria,-37.8884691,145.2918211
+4797,Ferntree Gully,7-Eleven Pty Ltd,510 Napoleon Road,Ferntree Gully,Victoria,-37.9106960999999,145.2755881
+4798,Fitzroy,7-Eleven Pty Ltd,244 Nicholson Street,Fitzroy,Victoria,-37.7977220999999,144.9753181
+4799,Five Ways,7-Eleven Pty Ltd,South Gippsland Highway,Cranbourne,Victoria,-38.1589640999999,145.3186641
+4800,Footscray West,7-Eleven Pty Ltd,Somerville Road,Footscray West,Victoria,-37.8112781,144.8674251
+4801,Frankston,7-Eleven Pty Ltd,42-46 McMahons Road,Frankston,Victoria,-38.1471840999999,145.1358971
+4802,Geelong,7-Eleven Pty Ltd,Sydney Parade,Geelong,Victoria,-38.1519741,144.3674331
+4803,Geelong South,7-Eleven Pty Ltd,Latrobe Terrace,Geelong South,Victoria,-38.1537521,144.3517761
+4804,Glen Waverley,7-Eleven Pty Ltd,Blackburn Road,Glen Waverley,Victoria,-37.8864621,145.1461381
+4805,Glen Waverley,7-Eleven Pty Ltd,726-730 Waverley Road,Glen Waverley,Victoria,-37.8893361,145.1645601
+4806,Hallam,7-Eleven Pty Ltd,38-40 Hallam Road,Hallam,Victoria,-38.0113461,145.2727571
+4807,Hallam,7-Eleven Pty Ltd,25-29 Belgrave-Hallam Road,Hallam,Victoria,-38.0021341,145.2736351
+4808,Hampden,7-Eleven Pty Ltd,South Road,Hampden,Victoria,-37.9320691,145.0245511
+4809,Hampton Park,7-Eleven Pty Ltd,Shrives Road,Hampton Park,Victoria,-38.0303461,145.2807381
+4810,Hastings,7-Eleven Pty Ltd,1835 Frankston-Flinders Road,Hastings,Victoria,-38.2849711,145.1840461
+4811,Hawthorn,7-Eleven Pty Ltd,Church Street,Hawthorn,Victoria,-37.8142151,145.0221461
+4812,Hawthorn,7-Eleven Pty Ltd,Manningtree Road,Hawthorn,Victoria,-37.8242870999999,145.0347591
+4813,Hawthorn,7-Eleven Pty Ltd,Glenferrie Road,Hawthorn,Victoria,-37.8149811,145.0371551
+4814,Hawthorn,7-Eleven Pty Ltd,290 Barkers Road,Hawthorn,Victoria,-37.8153670999999,145.0411001
+4815,Heidelberg,7-Eleven Pty Ltd,Lower Heidelberg Road,Heidelberg,Victoria,-37.7568570999999,145.0692861
+4816,Keilor East,7-Eleven Pty Ltd,Milleara Road,Keilor East,Victoria,-37.7487141,144.8619101
+4817,Keysborough,7-Eleven Pty Ltd,Cheltenham Road,Keysborough,Victoria,-37.9909461,145.1492991
+4818,Keysborough,7-Eleven Pty Ltd,Kingsclere Road,Keysborough,Victoria,-37.9942510999999,145.1760161
+4819,Kilsyth,7-Eleven Pty Ltd,Canterbury Road,Kilsyth,Victoria,-37.8174781,145.3171151
+4820,Lilydale,7-Eleven Pty Ltd,Maroondah Highway,Lyledale,Victoria,-37.7555781,145.3430131
+4821,Malvern East,7-Eleven Pty Ltd,Malvern Road,Malvern East,Victoria,-37.8699900999999,145.0608691
+4822,McKinnon,7-Eleven Pty Ltd,McKinnon Road,McKinnon,Victoria,-37.9125341,145.0519091
+4823,Melton,7-Eleven Pty Ltd,145-147 Coburns Road,Melton,Victoria,-37.6865831,144.5674051
+4824,Mill Park,7-Eleven Pty Ltd,Child Road,Mill Park,Victoria,-37.6620421,145.0535051
+4825,Moonee Ponds,7-Eleven Pty Ltd,Mount Alexander Road,Moonee Ponds,Victoria,-37.7732061,144.9273851
+4826,Moonee Ponds,7-Eleven Pty Ltd,876 Mount Alexander Road,Moonee Ponds,Victoria,-37.7575730999999,144.9198981
+4827,Mooroolbark,7-Eleven Pty Ltd,22 Manchester Road,Mooroolbark,Victoria,-37.7870601,145.3110681
+4828,Mornington,7-Eleven Pty Ltd,Mornington Tyabb Road,Mornington,Victoria,-38.2314560999999,145.0463731
+4829,Mount Waverley,7-Eleven Pty Ltd,Waverley Road,Mount Waverley,Victoria,-37.8828091,145.1092191
+4830,Narre Warren,7-Eleven Pty Ltd,28-32 Narre Warren-Cranbourne Road,Narre Warren,Victoria,-38.0359630999999,145.3057031
+4831,Newcomb,7-Eleven Pty Ltd,Bellarine Highway,Newcomb,Victoria,-38.1736941,144.4019601
+4832,Newport,7-Eleven Pty Ltd,438 Melbourne Road,Newport,Victoria,-37.8409281,144.8831571
+4833,Niddrie,7-Eleven Pty Ltd,387 Keilor Road,Niddrie,Victoria,-37.7375441,144.8920211
+4834,Noble Park,7-Eleven Pty Ltd,Heatherton Road,Noble Park,Victoria,-37.9651600999999,145.1727781
+4835,North Elsternwick,7-Eleven Pty Ltd,314 Glen Eira Road,Elsternwick,Victoria,-37.8789651,145.0123571
+4836,Northcote,7-Eleven Pty Ltd,Victoria Road,Northcote,Victoria,-37.7706461,145.0117841
+4837,Nunawading,7-Eleven Pty Ltd,488 Springvale Road,Nunawading,Victoria,-37.8475711,145.1700471
+4838,Oakleigh South,7-Eleven Pty Ltd,699-701 Warrigal Road,Oakleigh South,Victoria,-37.9178901,145.0834081
+4839,Pascoe Vale,7-Eleven Pty Ltd,512 Pascoe Vale Road,Pascoe Vale,Victoria,-37.7281651,144.9239661
+4840,Pascoe Vale South,7-Eleven Pty Ltd,475-477 Bell Street and Reynolds Parade,Pascoe Vale South,Victoria,-37.7388200999999,144.9406331
+4841,Point Cook,7-Eleven Pty Ltd,Boardwalk Boulevard,Point Cook,Victoria,-37.8935941,144.7285091
+4842,Port Melbourne,7-Eleven Pty Ltd,Crockford Street,Port Melbourne,Victoria,-37.8343520999999,144.9493141
+4843,Prahran East,7-Eleven Pty Ltd,728 Malvern Road,Prahran East,Victoria,-37.8494600999999,145.0117971
+4844,Research,7-Eleven Pty Ltd,1419 Main Road,Research,Victoria,-37.7017671,145.1730451
+4845,Richmond,7-Eleven Pty Ltd,94 Church Street,Richmond,Victoria,-37.8137070999999,144.9997681
+4846,Ringwood East,7-Eleven Pty Ltd,Loughnan Road,Ringwood,Victoria,-37.8050431,145.2299361
+4847,Ringwood North,7-Eleven Pty Ltd,181 Warrandyte Road,Ringwood North,Victoria,-37.7941491,145.2350631
+4848,Rockbank,7-Eleven Pty Ltd,1593 Western Highway,Rockbank,Victoria,-37.7470331,144.7028431
+4849,Rosebud,7-Eleven Pty Ltd,Nepean Highway,Rosebud,Victoria,-38.3570061,144.9012501
+4850,Rowville,7-Eleven Pty Ltd,Wellington Road,Rowville,Victoria,-37.9276881,145.2340801
+4851,Royal Melbourne,7-Eleven Pty Ltd,45 Flemington Road,North Melbourne,Victoria,-37.8001421,144.9549961
+4852,Sandown,7-Eleven Pty Ltd,Princes Highway,Noble Park,Victoria,-37.9480260999999,145.1725121
+4853,Sandringham,7-Eleven Pty Ltd,108 Highett Road,Highett,Victoria,-37.9466950999999,145.0224211
+4854,Sandringham,7-Eleven Pty Ltd,Bay Road,Sandringham,Victoria,-37.9536231,145.0211411
+4855,South Morang,7-Eleven Pty Ltd,840 Plenty Road,South Morang,Victoria,-37.6493250999999,145.0908131
+4856,South Yarra,7-Eleven Pty Ltd,Punt Road,South Yarra,Victoria,-37.8438920999999,144.9857031
+4857,Springvale,7-Eleven Pty Ltd,792-806 Heatherton Road,Springvale,Victoria,-37.9616081,145.1436811
+4858,Springvale South,7-Eleven Pty Ltd,581 Springvale Road,Springvale South,Victoria,-37.9722371,145.1486141
+4859,St Albans,7-Eleven Pty Ltd,Kings Road,St Albans,Victoria,-37.7347131,144.7812081
+4860,St Albans North,7-Eleven Pty Ltd,33-37 Taylors Road,St Albans,Victoria,-37.7294891,144.8104041
+4861,St Kilda,7-Eleven Pty Ltd,19-37 Punt Road,St Kilda,Victoria,-37.8544750999999,144.9831051
+4862,St Kilda,7-Eleven Pty Ltd,154-158 St Kilda Road,St Kilda,Victoria,-37.8607820999999,144.9849481
+4863,Strathmore,7-Eleven Pty Ltd,1148 Mount Alexander Road,Strathmore,Victoria,-37.7436211,144.9102141
+4864,Sunbury,7-Eleven Pty Ltd,128 Gap Road,Sunbury,Victoria,-37.5783561,144.7116871
+4865,Sunshine,7-Eleven Pty Ltd,Ballarat Road,Sunshine,Victoria,-37.7779300999999,144.8337991
+4866,Tarneit,7-Eleven Pty Ltd,618 Tarneit Road,Tarneit,Victoria,-37.8373683569999,144.671460435
+4867,Templestowe,7-Eleven Pty Ltd,Anderson Street,Templestowe,Victoria,-37.7555290999999,145.1302281
+4868,Thomastown North,7-Eleven Pty Ltd,Edgers Road,Thomastown,Victoria,-37.6783631,144.9989471
+4869,Thornbury,7-Eleven Pty Ltd,High Street,Thornbury,Victoria,-37.7559161,145.0007981
+4870,Tullamarine,7-Eleven Pty Ltd,182 Melrose Drive,Tullamarine,Victoria,-37.7023371,144.8828811
+4871,Tullamarine,7-Eleven Pty Ltd,Mickleham Road ,Tullamarine,Victoria,-37.6986041,144.8799651
+4872,Upwey,7-Eleven Pty Ltd,1441 Burwood Highway,Upwey,Victoria,-37.9018680999999,145.3301581
+4873,Vermont,7-Eleven Pty Ltd,Canterbury Road,Vermont,Victoria,-37.8363201,145.1961411
+4874,Wantirna South,7-Eleven Pty Ltd,1247 High Street,Wantirna South,Victoria,-37.8763751,145.2150371
+4875,Wantirna South,7-Eleven Pty Ltd,401 Burwood Highway,Wnatirna South,Victoria,-37.8686311,145.2360631
+4876,Waverley Gardens,7-Eleven Pty Ltd,Police Road,Waverley Gardens,Victoria,-37.9366881,145.1879881
+4877,Werribee,7-Eleven Pty Ltd,Synnot Street,Werribee,Victoria,-37.9034700999999,144.6606221
+4878,Werribee,7-Eleven Pty Ltd,370 Heaths Road,Werribee,Victoria,-37.8751190999999,144.6652891
+4879,Werribee South,7-Eleven Pty Ltd,180 Duncans Road,Werribee,Victoria,-37.9092780999999,144.6769211
+4880,West Brunswick,7-Eleven Pty Ltd,Melville Road,Brunswick,Victoria,-37.7659401,144.9431371
+4881,Williamstown North,7-Eleven Pty Ltd,Champion Road,Williamstown North,Victoria,-37.8575071,144.8879921
+4882,Yallambie,7-Eleven Pty Ltd,371 Lower Plenty Road,Yallambie,Victoria,-37.7310891,145.0856781
+4883,Yarraville,7-Eleven Pty Ltd,Williamstown Road,Yarraville,Victoria,-37.8131481,144.8830951
+4884,Frankston,Mobil,Frankston-Cranbourne Road,Frankston,Victoria,-38.1461252399999,145.136920268
+4885,Albion,Neumann Petroleum,Albion Road,Albion,Queensland,-27.428946492,153.036818484
+4886,Bli Bli,Matilda Fuels,148 David Low Way,Bli Bli,Queensland,-26.635728967,153.039201736
+4887,Bundaberg Sugarland,Matilda Fuels,19 Bolewski Street,Avoca,Queensland,-24.885143479,152.320716996
+4888,Ballandean,Neumann Petroleum,28192 New England Highway,Ballandean,Queensland,-28.799516723,151.842354674
+4889,Sunnybank,Neumann Petroleum,138 McCullough Street,Sunnybank,Queensland,-27.570489927,153.0556334
+4890,Beenleigh,Neumann Petroleum,87 Distillery Road,Beenleigh,Queensland,-27.721691393,153.216963917
+4891,Birkdale,Matilda Fuels,118 Birkdale Road,Birkdale,Queensland,-27.4949009379999,153.213053582
+4892,Caboolture,Matilda Fuels,45 Beerburrum Road,Caboolture,Queensland,-27.079154375,152.951695016
+4893,Caloundra,Matilda Fuels,30 Bowman Road,Caloundra,Queensland,-26.8038943,153.120769963
+4894,Capalaba,Matilda Fuels,3201 Old Cleveland Road,Capalaba,Queensland,-27.5173929009999,153.183383319
+4895,Clayfield,Matilda Fuels,509 Sandgate Road,Clayfield,Queensland,-27.427318203,153.050187307
+4896,Clontarf,Matilda Fuels,267 Elizabeth Avenue,Clontarf,Queensland,-27.241026795,153.086703717
+4897,Kuluin,Neumann Petroleum,22 Commercial Road,Kuluin,Queensland,-26.652604375,153.062423386
+4898,Curra,Matilda Fuels,Bruce Highway and David Drive,Curra,Queensland,-26.083699226,152.581448494
+4899,Currimundi,Matilda Fuels,693 Nicklin Way,Currimundi,Queensland,-26.7671887839999,153.122306094
+4900,Currumbin,Neumann Petroleum,Cnr Hayter Street and Stewart Road ,Currumbin,Queensland,-28.14690502,153.475216205
+4901,Bundaberg West,Matilda Fuels,75 Walker Street,Bundaberg West,Queensland,-24.879709121,152.348286589
+4902,Broadbeach,Liberty,75 T E Peters Drive,Broadbeach,Queensland,-28.0266210729999,153.420504662
+4903,Dalby,Matilda Fuels,146 Drayton Street,Dalby,Queensland,-27.19287186,151.271892292
+4904,Dayboro,Matilda Fuels,36 Williams Street,Dayboro,Queensland,-27.196004221,152.825815973
+4905,Deagon,Matilda Fuels,104 Board Street,Deagon,Queensland,-27.324889103,153.059427415
+4906,Dutton Park,Matilda Fuels,200 Annerley Road,Dutton Park,Queensland,-27.4985818239999,153.028013287
+4907,D'Aguilar,Matilda Fuels,1965 D'Aguilar Highway,D'Aguilar,Queensland,-26.990639169,152.802658878
+4908,Eagle Farm Truck Stop,Neumann Petroleum,23 Theodore Street,Eagle Farm,Queensland,-27.436403178,153.078889078
+4909,Eagleby,Matilda Fuels,128 River Hills Road,Eagleby,Queensland,-27.7021135589999,153.211708693
+4910,Eight Mile Plains,Matilda Fuels,2489 Logan Road,Eight Mile Plains,Queensland,-27.575390715,153.091518845
+4911,Enoggera,Matilda Fuels,282 Wardell Street,Enoggera,Queensland,-27.425093164,152.989981367
+4912,Everton Park,Matilda Fuels,675 Southpine Road,Everton Park,Queensland,-27.4011785599999,152.987060311
+4913,Galloways Hill,Matilda Fuels,1 Hawthorne Road,Galloways Hill,Queensland,-27.472352767,153.059425945
+4914,Glass House Mountains ,Matilda Fuels,840 Steve Irwin Way,Glass House Mountains,Queensland,-26.907832716,152.958994531
+4915,Goomboorian,Matilda Fuels,1702 Tin Can Bay Road,Goomboorian,Queensland,-26.074201896,152.781940079
+4916,Graceville,Matilda Fuels,295 Oxley Road,Oxley,Queensland,-27.524581591,152.980656125
+4917,Grange,Matilda Fuels,142 Days Road,Grange,Queensland,-27.426474684,153.017114158
+4918,Greenbank,Neumann Petroleum,Lot 2 8 Sheppards Drive,Greenbank,Queensland,-27.719824,152.986285
+4919,Highgate Hill,Neumann Petroleum,22 Gladstone Road,Highgate Hill,Queensland,-27.483616336,153.019917671
+4920,Inala,Matilda Fuels,332 Archerfield Road,Inala,Queensland,-27.588193427,152.959133972
+4921,Strathpine,Matilda Fuels,116 Gympie Road,Strathpine,Queensland,-27.3140303709999,152.992824999
+4922,Inglewood Roadhouse ,Matilda Fuels,Lot 23 129 Cunningham Highway,Inglewood,Queensland,-28.4077725409999,151.203692255
+4923,Kalinga,Matilda Fuels,70 Lodge Street,Kalinga,Queensland,-27.4105577039999,153.047591115
+4924,Kooralbyn,Neumann Petroleum,9 Salisbury Avenue,Kooralbyn,Queensland,-28.0851410999999,152.842092055
+4925,Kunda Park,Matilda Fuels,584 Maroochydore Road,Kunda Park,Queensland,-26.6622749059999,153.036498084
+4926,Kybong,Matilda Fuels,Bruce Highway,Kybong,Queensland,-26.305631761,152.720294993
+4927,Labrador,Matilda Fuels,177 Government Road,Labrador,Queensland,-27.9489657509999,153.397157341
+4928,Lindum,Neumann Petroleum,Kianawah Road,Lindum,Queensland,-27.443026054,153.143701369
+4929,Mango Hill,Matilda Fuels,1977 Anzac Avenue,Mango Hill,Queensland,-27.226286059,153.035943656
+4930,Maroochydore,Neumann Petroleum,116-118 Sugar Road,Maroochydore,Queensland,-26.670832213,153.095695408
+4931,Maryborough,Matilda Fuels,72-74 Walker Street,Maryborough,Queensland,-25.530704127,152.699433139
+4932,Miami,Neumann Petroleum,2133 Gold Coast Highway,Miami,Queensland,-28.065943035,153.439815508
+4933,Moorooka ,Matilda Fuels,810 Ipswich Road,Moorooka,Queensland,-27.5224773809999,153.025561464
+4934,Nambour,Matilda Fuels,921 Connection Road,Nambour,Queensland,-26.6160688369999,152.968995276
+4935,Narangba,Matilda Fuels,3 Mackie Road,Narangba,Queensland,-27.1972920389999,152.984345824
+4936,Nerang,Neumann Petroleum,2 Spencer Road,Nerang,Queensland,-27.9971367119999,153.340542954
+4937,Norman Park,Matilda Fuels,164 Bennetts Road,Norman Park ,Queensland,-27.48368958,153.063785222
+4938,North Ipswich,Matilda Fuels,36 Downs Street,North Ipswich,Queensland,-27.603114938,152.761497732
+4939,Rocklea,Neumann Petroleum,1384 Ipswich Road,Rocklea,Queensland,-27.5466685609999,153.01049469
+4940,Murrumba Downs,Matilda Fuels,240 Dohles Rocks Road,Murrumba Downs,Queensland,-27.2643546429999,153.00511663
+4941,Toowoomba,Neumann Petroleum,236A Taylor Street,Toowoomba,Queensland,-27.5529388059999,151.920613203
+4942,Nundah,Matilda Fuels,1508 Sandgate Road,Nundah,Queensland,-27.3917651199999,153.058981622
+4943,Redcliffe,Matilda Fuels,493 Oxley Avenue,Redcliffe,Queensland,-27.2220044119999,153.110902996
+4944,Sandgate,Matilda Fuels,57 Rainbow Street,Sandgate,Queensland,-27.3215023999999,153.067703657
+4945,Tanawha,Matilda Fuels,316 Tanawha Tourist Drive,Tanawha,Queensland,-26.711769665,153.036408916
+4946,The Gap,Matilda Fuels,983 Waterworks Road,The Gap,Queensland,-27.444729841,152.952382732
+4947,Toogoolawah Roadhouse,Neumann Petroleum,68 Nanango Road,Toogoolawah,Queensland,-27.085016846,152.382608426
+4948,Underwood,Neumann Petroleum,2 Parramatta Road,Underwood,Queensland,-27.6139922359999,153.114716412
+4949,Wacol,Matilda Fuels,1460 Boundary Road,Wacol,Queensland,-27.6046072299999,152.932381711
+4950,Warwick,Matilda Fuels,Ogilvie Road and Cunningham Highway,Warwick,Queensland,-28.194810068,152.044518079
+4951,Wilston,Matilda Fuels,282 Newmarket Road,Wilston,Queensland,-27.435981909,153.015081461
+4952,Withcott,Liberty,8591 Warrego Highway,Withcott,Queensland,-27.5540097649999,152.024138209
+4953,KMS Withcott,KMS Fuel,8581 Warrego Highway,Withcott,Queensland,-27.5536242699999,152.025391925
+4954,Withcott,Freedom Fuels,8616 Warrego Highway,Withcott,Queensland,-27.5537908549999,152.02254397
+4955,Woodridge,Matilda Fuels,127 Kingston Road,Woodridge,Queensland,-27.6281212129999,153.117874894
+4956,Wynnum West,Neumann Petroleum,1955 Wynnum Road,Wynnum West,Queensland,-27.459422565,153.15132319
+4957,Wynnum West,Matilda Fuels,218 Preston Road,Wynnum West,Queensland,-27.4545580509999,153.16656702
+4958,Zillmere,Matilda Fuels,445 Robinson Road,Zillmere,Queensland,-27.366575853,153.037173492
+4959,Benandarah,Neumann Petroleum,10876 Princes Highway,Benandarah,New South Wales,-35.6478009059999,150.238913531
+4960,Casino,Neumann Petroleum,27 Johnston Street,Casino,New South Wales,-28.858964326,153.048966049
+4961,Casino Roadhouse,Liberty,Johnson Street,Casino,New South Wales,-28.859747252,153.056172855
+4962,Clunes,Neumann Petroleum,21 Bangalow Road,Clunes,New South Wales,-28.732271563,153.405711475
+4963,Coffs Harbour Jetty,Neumann Petroleum,Orlando Street,Coffs Harbour,New South Wales,-30.302710094,153.13798405
+4964,Crescent Head,Neumann Petroleum,10 Pacific Street,Crescent Head,New South Wales,-31.189275833,152.974340454
+4965,Iluka Auto and Marine,Neumann Petroleum,60 Spencer Street,Iluka,New South Wales,-29.407008397,153.351727407
+4966,Kew,Neumann Petroleum,Nancy Bird Walton Drive,Kew,New South Wales,-31.6337601889999,152.723618536
+4967,Kew,Ampol,Nancy Bird Walton Drive,Kew,New South Wales,-31.634156419,152.723967595
+4968,Kew,United,Nancy Bird Walton Drive,Kew,New South Wales,-31.6340557889999,152.723297778
+4969,Krambach ,Neumann Petroleum,3728 Bucketts Way,Krambach,New South Wales,-32.05168929,152.259443336
+4970,Maclean,Neumann Petroleum,Jubilee Street,Maclean,New South Wales,-29.466805205,153.225901908
+4971,Top Town Fuels,Neumann Petroleum,255 River Street,Maclean,New South Wales,-29.457801966,153.196978537
+4972,Narooma,Neumann Petroleum,60 Princes Highway,Narooma,New South Wales,-36.216118616,150.126287633
+4973,Nimbim Motors,Neumann Petroleum,20 Sibley Street,Nimbin,New South Wales,-28.593224138,153.226914886
+4974,North Lismore,Neumann Petroleum,111 Terania Street,North Lismore,New South Wales,-28.8017098829999,153.269586362
+4975,PJ Servo,Neumann Petroleum,52 Mitchell Street,Eden,New South Wales,-37.065197489,149.898945809
+4976,Port Macquarie,Neumann Petroleum,152 Gordon Street,Port Macquarie,New South Wales,-31.43503915,152.900570051
+4977,Tathra Tyres and Auto Service,Neumann Petroleum,88 Bega Street,Tathra,New South Wales,-36.7330918499999,149.980702949
+4978,Telegraph Point,Neumann Petroleum,101 Mooney Street,Telegraph Point,New South Wales,-31.340694803,152.792766795
+4979,Tintenbar,Neumann Petroleum,Tintenbar Road,Tintenbar,New South Wales,-28.797055203,153.512930622
+4980,Toorminia,Neumann Petroleum,1 Craft Close,Toormina,New South Wales,-30.3416971349999,153.092290827
+4981,Townsend,Neumann Petroleum,1 Scullin Street,Townsend,New South Wales,-29.464524915,153.217106034
+4982,Ulmarra,Neumann Petroleum,29 Pacific Highway,Ulmarra,New South Wales,-29.628444073,153.030104164
+4983,Yamba,Neumann Petroleum,Wooli Street,Yamba,New South Wales,-29.435536479,153.35988566
+4984,Werris Creek,Neumann Petroleum,18 Single Street,Werris Creek,New South Wales,-31.344507931,150.647681626
+4985,North Haven,Matilda Fuels,531-533 Ocean Drive,North Haven,New South Wales,-31.642217509,152.810178241
+4986,Forbes,BP,13 Union Street,Forbes,New South Wales,-33.377248015,148.009731755
+4987,Bathurst ,BP,33 Vale Street,Bathurst,New South Wales,-33.4379947649999,149.578322714
+4988,Cooma,BP,4 Sharp Street,Cooma,New South Wales,-36.2285903759999,149.13543162
+4989,Victoria River,United,Victoria Highway,Victoria River,Northern Territory,-15.6162914609999,131.12783823
+4990,Independent St Arnaud,Independent Fuel Supplies,56-58 McMahon Street,St Arnaud,Victoria,-36.6146409999999,143.255327
+4991,Caltex Ararat,Caltex,3 Lambert Street,Ararat,Victoria,-37.2819519999999,142.927388
+4992,MJ's Roadhouse,Independent Fuel Supplies,40 Memorial Road,Glenthompson,Victoria,-37.636359,142.546685
+4993,Independent Koroit,Independent Fuel Supplies,182 Commercial Road,Koroit,Victoria,-38.2912039999999,142.361261
+4994,Independent Koroit,Independent Fuel Supplies,128-132 Commercial Road,Koroit,Victoria,-38.291793,142.36548
+4995,Independent Koroit,Independent Fuel Supplies,157 Commercial Road,Koroit,Victoria,-38.291884,142.363385
+4996,Coles Express Ararat,Shell,280 Barkly Street,Ararat,Victoria,-37.2844009999999,142.935955
+4997,Scotts Beaufort,7-Eleven Pty Ltd,74 Neill Street,Beaufort,Victoria,-37.4291289999999,143.380412
+4998,Ballarat Taxis,Shell,911 Doveton Street,Ballarat,Victoria,-37.541173,143.858546
+4999,Shell Brown Hill,Shell,Cnr Humffray Street and Waters Street,Ballarat,Victoria,-37.551893,143.902531
+5000,Coles Express Pleasant Corner,Shell,1319 Sturt Street & Pleasant Street,Ballarat,Victoria,-37.5603619999999,143.839318
+5001,Coles Express Ballarat,Shell,822 Sturt Street,Ballarat,Victoria,-37.56039,143.848194
+5002,Coles Express Warrenheip,Shell,9389 Western Highway,Warrenheip,Victoria,-37.5643679999999,143.934599
+5003,Scotts Ballarat,7-Eleven Pty Ltd,129 Main Road,Ballarat,Victoria,-37.566677,143.868724
+5004,Coles Express Hamilton,Shell,169 Thompson Street,Hamilton,Victoria,-37.741505,142.020814
+5005,Heywood ,Shell,2058 Princes Highway,Heywood,Victoria,-38.1268889999999,141.632507
+5006,Shell Portland ,Shell,615 Henty Highway,Portland,Victoria,-38.32139,141.596249
+5007,Mobil Hamilton,Caltex,35 Port Fairy Road,Hamilton,Victoria,-37.756887611,142.009681934
+5008,Mobil Mitta Mitta,7-Eleven Pty Ltd,5555 Omeo Highway,Mitta Mitta,Victoria,-36.5367689999999,147.377805
+5009,Mobil St Arnaud,7-Eleven Pty Ltd,1 Melbourne Road,St Arnaud,Victoria,-36.6217129999999,143.265353
+5010,Mobil St Arnaud,7-Eleven Pty Ltd,5938-5948 Sunraysia Highway,St Arnaud,Victoria,-36.631701,143.263138
+5011,Mobil Avoca,7-Eleven Pty Ltd,99 High Street,Avoca,Victoria,-37.090065,143.474025
+5012,Mobil Ararat,7-Eleven Pty Ltd,40 Lambert Street,Ararat,Victoria,-37.278181,142.925398
+5013,Mobil Ballarat,7-Eleven Pty Ltd,1 Melbourne Road,Ballarat,Victoria,-37.5567829999999,143.894618
+5014,Mobil Ballarat,7-Eleven Pty Ltd,129 Main Road,Ballarat,Victoria,-37.5665799999999,143.868716
+5015,Mobil Smythesdale,7-Eleven Pty Ltd,1520 Glenelg Highway,Smythesdale,Victoria,-37.6361039999999,143.69276
+5016,Mobil Napoleons,7-Eleven Pty Ltd,4760 Colac-Ballarat Road,Napoleons,Victoria,-37.675788,143.830299
+5017,Mobil Hamilton,7-Eleven Pty Ltd,122 French Street,Hamilton,Victoria,-37.7436519999999,142.028707
+5018,Mobil Portland,7-Eleven Pty Ltd,182 Percy Street,Portland,Victoria,-38.3376739999999,141.604562
+5019,Mobil Apollo Bay,7-Eleven Pty Ltd,175 Great Ocean Road,Apollo Bay,Victoria,-38.753143,143.668756
+5020,R & P Matthews Pty Ltd,Caltex,50-56 Kennedy Street,Portland,Victoria,-38.3356223499999,141.599431854
+5021,Independent Glenthompson,Independent Fuel Supplies,40 Memorial Road,Glenthompson,Victoria,-37.6363499999999,142.546717
+5022,Caltex Balmoral,Independent Fuel Supplies,21 Glendinning Street,Balmoral,Victoria,-37.248139,141.842114
+5023,Ampol Lexton,Ampol,3554 Sunraysia Highway,Lexton,Victoria,-37.2742959999999,143.515134
+5024,Safeway Caltex Ararat,Caltex,Lot 1-5 Lambert Street,Ararat,Victoria,-37.2819499999999,142.927328
+5025,Caltex Ararat,Caltex,8475 Western Highway,Ararat,Victoria,-37.303928,142.985741
+5026,Ampol Wendouree,Ampol,466-470 Gillies Street North,Wendouree,Victoria,-37.526958,143.824929
+5027,Safeway Caltex Wendouree,Caltex,1259 Howitt Street,Wendouree,Victoria,-37.5398299999999,143.824972
+5028,Caltex Wendouree,Caltex,921 Howitt Street,Wendouree,Victoria,-37.5416569999999,143.84032
+5029,Safeway Caltex Sebastopol,Caltex,3 Hertford Street,Sebastopol,Victoria,-37.585634,143.839893
+5030,Caltex Sebastopol,Caltex,76 Albert Street,Sebastopol,Victoria,-37.588588,143.840531
+5031,Caltex Coleraine,Caltex,42 Whyte Street,Coleraine,Victoria,-37.598375,141.695931
+5032,Caltex Dunkeld,Caltex,71 Parker Street,Dunkeld,Victoria,-37.6499239999999,142.344304
+5033,Caltex Hamilton,Caltex,79 Cox Street,Hamilton,Victoria,-37.7413119999999,142.026685
+5034,Safeway Caltex Hamilton,Caltex,93 French Street,Hamilton,Victoria,-37.7444659999999,142.025843
+5035,Ampol Hamilton,Independent Fuel Supplies,25 Brown Street,Hamilton,Victoria,-37.744748,142.026481
+5036,Safeway Caltex Bannockburn,Caltex,1 High Street,Bannockburn,Victoria,-38.04551,144.17271
+5037,Caltex Mortlake,Caltex,53 Dunlop Street,Mortlake,Victoria,-38.0810049999999,142.802927
+5038,Safeway Caltex Portland,Caltex,29 Tyers Street,Portland,Victoria,-38.344502,141.602327
+5039,Caltex Port Fairy,Caltex,57 Albert Street,Port Fairy,Victoria,-38.380983,142.229699
+5040,Independent Nullawarre,Independent Fuel Supplies,2227 Timboon-Nullawarre Road,Nullawarre,Victoria,-38.469662,142.749999
+5041,Apex ,BP,1-3 Silvermines Road,St Arnaud,Victoria,-36.6118999999999,143.254112
+5042,BP 2Go North Ballarat,BP,702 Creswick Road,Ballarat,Victoria,-37.541931,143.850566
+5043,BP West Ballarat,BP,1601 Sturt Street,Ballarat,Victoria,-37.556004,143.818091
+5044,BP Ballarat Central,BP,1104 Sturt Street,Ballarat,Victoria,-37.559898,143.843845
+5045,BP 2Go Western Highway,BP,9401 Western Highway,Warrenheip,Victoria,-37.564163,143.933288
+5046,Casterton Farm Supplies,BP,1 Henty Street,Casterton,Victoria,-37.583455,141.408023
+5047,Buninyong ,BP,501 Warrenheap Street,Buninyong,Victoria,-37.649423,143.884673
+5048,BP Hamilton,BP,146-150 Thompson Street,Hamilton,Victoria,-37.742201,142.022144
+5049,BP Mortlake,BP,59 Dunlop Street,Mortlake,Victoria,-38.081058,142.803383
+5050,BP Portland,BP,145 Percy Street,Portland,Victoria,-38.341444,141.603494
+5051,The Warrnambool Cheese & Butter Store,BP,5334 Great Ocean Road,Allansford,Victoria,-38.395092,142.628356
+5052,East Coast Garage,BP,36 Franklin Street,Swansea,Tasmania,-42.123274,148.074109
+5053,Ampol Coles Bay,Independent Fuel Supplies,1 Garnet Avenue,Coles Bay,Tasmania,-42.126312,148.290544
+5054,Caltex Swansea,Caltex,6 Franklin Street,Swansea,Tasmania,-42.125096,148.077842
+5055,Shell Smithton,Shell,6-8 Brittons Road,Smithton,Tasmania,-40.855894,145.133799
+5056,Caltex Latrobe,Caltex,8659 Bass Highway,Latrobe,Tasmania,-41.241814,146.443055
+5057,Independent Sheffield,Independent Fuel Supplies,2 Main Street,Sheffield,Tasmania,-41.379741,146.317428
+5058,Shell Hadspen,Shell,28 Main Street,Hadspen,Tasmania,-41.5045059999999,147.065762
+5059,Ampol Deloraine,Ampol,13 Meander Valley Road,Deloraine,Tasmania,-41.5246999999999,146.661724
+5060,Shell Pineview,Shell,2 George Street,Scottsdale,Tasmania,-41.1591309999999,147.518854
+5061,Railton Motor & Tyre Service,Shell,26 Foster Street,Railton,Tasmania,-41.346426,146.421997
+5062,Huetts Shell ,Shell,138 Emu Bay Road,Deloraine,Tasmania,-41.521895,146.644759
+5063,Caltex Bridport,Caltex,71 Main Street,Bridport,Tasmania,-41.0041699999999,147.394574
+5064,Caltex Scottsdale,Independent Fuel Supplies,21 George Street,Scottsdale,Tasmania,-41.158221,147.516971
+5065,Caltex Spreyton,Caltex,4 Mersey Main Road,Spreyton,Tasmania,-41.2110029999999,146.343716
+5066,Caltex Sidmouth,Caltex,254 Batman Highway,Sidmouth,Tasmania,-41.222282,146.888095
+5067,Caltex Sassafras,Caltex,8234 Bass Highway,Sassafras,Tasmania,-41.2663479999999,146.478932
+5068,Ampol Exeter,Ampol,84-86 Main Road,Exeter,Tasmania,-41.3026879999999,146.956743
+5069,Caltex Sheffield,Caltex,54 Main Street,Sheffield,Tasmania,-41.3824539999999,146.324834
+5070,Independent Scamander,Caltex,90-92 Scamander Avenue,Scamander,Tasmania,-41.451544,148.26446
+5071,Caltex Elizabeth Town,Caltex,5918 Bass Highway,Elizabeth Town,Tasmania,-41.45255,146.566093
+5072,Woolworths Caltex Prospect Vale,Caltex,360-364 Westbury Road,Prospect Vale,Tasmania,-41.481096,147.125792
+5073,Caltex Hadspen,Caltex,37-39 Winifred Jane Crescent,Hadspen,Tasmania,-41.50361,147.068996
+5074,Caltex Westbury,Caltex,92 Meander Valley Road,Westbury,Tasmania,-41.5264349999999,146.83338
+5075,Caltex Carrick,Caltex,Lot 1522 Liffey Street,Carrick,Tasmania,-41.531778,147.008727
+5076,Caltex St Marys,Caltex,43 Main Street,St Marys,Tasmania,-41.578739,148.187987
+5077,Caltex Perth,Caltex,104 Main Road,Perth,Tasmania,-41.5789819999999,147.176883
+5078,Caltex Longford,Caltex,5 Wellington Street,Longford,Tasmania,-41.587838,147.119543
+5079,Caltex Longford,Caltex,25-27 Marlborough Street,Longford,Tasmania,-41.5972839999999,147.121503
+5080,Independent Tullah,Independent Fuel Supplies,Murchison Highway and Elliot Street,Tullah,Tasmania,-41.7318789999999,145.622803
+5081,Independent Poatina,Independent Fuel Supplies,6 Franklin Avenue,Poatina,Tasmania,-41.795958,146.960641
+5082,Caltex Queenstown,Caltex,5-7 Cutten Street,Queenstown,Tasmania,-42.080507,145.553988
+5083,Independent Derwent Bridge,Caltex,15478 Lyell Highway,Derwent Bridge,Tasmania,-42.13149,146.232346
+5084,Arnolds BP Smithton,BP,70 Goldie Street,Smithton,Tasmania,-40.8425319999999,145.125857
+5085,Gladstone Store,Independent Fuel Supplies,30 Chaffey Street,Gladstone,Tasmania,-40.960027,148.010066
+5086,Yolla Milk Bar,Independent Fuel Supplies,1586 Murchison Highway,Yolla,Tasmania,-41.125369,145.716549
+5087,Derby Store,BP,74 Main Street,Derby,Tasmania,-41.149217,147.801754
+5088,Scottsdale,BP,7 Tasman Highway,Scottsdale,Tasmania,-41.1601029999999,147.518317
+5089,Devonport,BP,1 Stony Rise Road,Quoiba,Tasmania,-41.2095619999999,146.343555
+5090,BP St Helens,BP,8 Cecilia Street,St Helens,Tasmania,-41.3236019999999,148.249785
+5091,Waratah Roadhouse,BP,22 Main Street,Waratah,Tasmania,-41.4425859999999,145.526694
+5092,Waratah,BP,18 Smith Street,Waratah,Tasmania,-41.4445239999999,145.530846
+5093,BP Scamander,BP,122 Scamander Avenue,Scamander,Tasmania,-41.4540729999999,148.263347
+5094,BP Youngtown,BP,297 Hobart Road,Youngtown,Tasmania,-41.479772,147.1671
+5095,BP Youngtown,BP,297 Hobart Road,Youngtown,Tasmania,-41.479772,147.1671
+5096,BP Rosebery,BP,5 Arthur Street,Rosebery,Tasmania,-41.778489,145.539177
+5097,BP Strahan,BP,7 Reid Street,Strahan,Tasmania,-42.150072,145.32802
+5098,Caltex Penguin,Caltex,98 Main Road,Penguin,Tasmania,-41.1152089999999,146.074806
+5099,Caltex Mount Direction,Caltex,2126-2192 East Tamar Highway,Mount Direction,Tasmania,-41.265687,147.033379
+5100,Beauty Point ,Shell,227 Flinders Street,Beauty Point,Tasmania,-41.148502,146.818803
+5101,Shell Georgetown,Shell,32-34 Main Road,George Town,Tasmania,-41.108332,146.831211
+5102,Shell Starlite ,Shell,54 Tarleton Street,East Devonport,Tasmania,-41.1759309999999,146.373695
+5103,Seen Bros Fuel Pty Ltd,Caltex,189 Weld Street,Beaconsfield,Tasmania,-41.195751,146.81173
+5104,Independent Davenport,Independent Fuel Supplies,Stuart Highway,Davenport,Northern Territory,-20.640819,134.22265
+5105,Kings Canyon ,Shell,Red Centre Way,Petermann,Northern Territory,-24.2523449999999,131.510376
+5106,Mobil Jabiru,7-Eleven Pty Ltd,1 Lakeside Drive,Jabiru,Northern Territory,-12.670084,132.834666
+5107,Mobil Tennant Creek,7-Eleven Pty Ltd,Paterson Street and Williams Street,Tennant Creek,Northern Territory,-19.6539799999999,134.187972
+5108,Mobil Kings Canyon via Ali Curung,7-Eleven Pty Ltd,Red Centre Way,Petermann,Northern Territory,-24.250618,131.51154
+5109,Independent Tennant Creek,Independent Fuel Supplies,84 Paterson Street,Tennant Creek,Northern Territory,-19.6453539999999,134.191571
+5110,BP Tennant Creek,BP,216 Paterson Street,Tennant Creek,Northern Territory,-19.63706,134.192462
+5111,Frankford Store,Independent Fuel Supplies,1949 Frankford Road,Frankford,Tasmania,-41.3438889999999,146.776974
+5112,BP Southbound,BP,32-34 William Street,Devonport,Tasmania,-41.1868259999999,146.349062
+5113,BP East,BP,161 Tarleton Street,East Devonport,Tasmania,-41.185148,146.372116
+5114,BP Ulverstone,BP,58 Main Street,Ulverstone,Tasmania,-41.157526,146.17758
+5115,Burnie,BP,2-4 River Road,Wivenhoe,Tasmania,-41.0701615319999,145.925007445
+5116,BP North Terrace,BP,37-39 North Terrace,Burnie,Tasmania,-41.047839,145.901214
+5117,BP Somerset,BP,93 Bass Highway,Somerset,Tasmania,-41.036017,145.825291
+5118,Detention River Station,BP,19535 Bass Highway,Detention,Tasmania,-40.879542,145.447955
+5119,Walker's ,BP,3 Patrick Street,Whitemark,Tasmania,-40.12094,148.016331
+5120,BP Yunta,BP,Barrier Highway,Yunta,South Australia,-32.5828129999999,139.561039
+5121,BP Yunta,BP,Barrier Highway,Yunta,South Australia,-32.582666,139.560271
+5122,BP John Eyre Motel,BP,1 Eyre Highway,Caiguna,Western Australia,-32.271313,125.48776
+5123,BP Theodore,BP,53 The Boulevard,Theodore,Queensland,-24.947211,150.075265
+5124,Lakeland Coffee House & Store,BP,Cnr Fosters Drive and Sesame Road,Lakeland,Queensland,-15.8602969999999,144.856394
+5125,Kakadu Resort,BP,Arnhem Highway,Kakadu,Northern Territory,-12.674948,132.479131
+5126,BP Howard Springs,BP,150 Whitewood Road,Howard Springs,Northern Territory,-12.4965589999999,131.031438
+5127,BP Nhulunbuy,BP,6 Matthew Flinders Way,Nhulunbuy,Northern Territory,-12.185582,136.78791
+5128,BP Bamaga ,BP,Lui Street,Bamaga,Queensland,-10.891537,142.394748
+5129,Seisia ,BP,1 Koraba Street,Seisia,Queensland,-10.849186,142.367666
+5130,Caltex Epping Forest,Caltex,13490 Midland Highway,Epping Forest,Tasmania,-41.7596359999999,147.351739
+5131,Independent Forth,Independent Fuel Supplies,666-668 Forth Road,Forth,Tasmania,-41.1894839999999,146.249944
+5132,Caltex Woolworths Devonport,Caltex,32 Formby Road,Devonport,Tasmania,-41.1856749999999,146.361572
+5133,Caltex East Devonport,Caltex,136 Tarleton Street,East Devonport,Tasmania,-41.1856349999999,146.37119
+5134,Caltex Devonport,Caltex,118 William Street,Devonport,Tasmania,-41.179122,146.350814
+5135,Caltex Ulverstone,Caltex,73 Reibey Street,Ulverstone,Tasmania,-41.1573119999999,146.173447
+5136,Caltex Wivenhoe,Caltex,33 Main Road,Wivenhoe,Tasmania,-41.0680639999999,145.93428
+5137,Caltex Terrylands,Caltex,24 Joyce Street,Montello,Tasmania,-41.0624829999999,145.896391
+5138,Woolworths Caltex Burnie,Caltex,2 Mount Street,Burnie,Tasmania,-41.049856,145.905226
+5139,Caltex Westbeach,Caltex,2 Mount Street,Burnie,Tasmania,-41.049856,145.905226
+5140,Woolworths Caltex Wynyard,Caltex,36 Jackson Street,Wynyard,Tasmania,-40.990168,145.728131
+5141,Independent Wynyard,Independent Fuel Supplies,31 Inglis Street,Wynyard,Tasmania,-40.9894209999999,145.720468
+5142,Caltex Rocky Cape,Caltex,19326 Bass Highway,Rocky Cape,Tasmania,-40.8875889999999,145.469823
+5143,Caltex Yunta,Caltex,Barrier Highway,Yunta,South Australia,-32.5820219999999,139.561358
+5144,Caltex Banana,Caltex,Dawson Highway,Banana,Queensland,-24.477932,150.124157
+5145,Independent Laura,BP,Pennisular Development Road,Laura,Queensland,-15.566226,144.45079
+5146,Caltex Cooktown,Caltex,68 Hope Street,Cooktown,Queensland,-15.474374,145.249901
+5147,Caltas Pty Ltd,Caltex,21 River Road,Wivenhoe,Tasmania,-41.07023,145.925378
+5148,Mobil Kimba,7-Eleven Pty Ltd,37-39 Eyre Highway,Kimba,South Australia,-33.145789,136.415332
+5149,Mobil Cooktown,7-Eleven Pty Ltd,210 Endeavour Valley Road,Cooktown,Queensland,-15.4726499999999,145.220834
+5150,Coles Express Devonport,Shell,22 Formby Road,Devonport,Tasmania,-41.1874819999999,146.361891
+5151,Gawler General Store,Shell,172 Gawler Road,Gawler,Tasmania,-41.183212,146.160167
+5152,Shell Four Ways,Shell,2 Risby Street,Ulverstone,Tasmania,-41.158204,146.175762
+5153,Banana,Independent Fuel Supplies,16 Bowen Street,Banana,Queensland,-24.4733639999999,150.128632
+5154,Caltex Burnie,Caltex,1 Mount Street,Burnie,Tasmania,-41.050086,145.905881
+5155,Caltex Burnie,Caltex,1 Mount Street,Burnie,Tasmania,-41.050086,145.905881
+5156,BP Burnie,BP,37-39 North Terrace,Burnie,Tasmania,-41.047839,145.901206
+5157,Mareeba ,BP,Cnr Barrett Street and Woodhouse Street,Mareeba,Queensland,-16.9724657159999,145.414022694
+5158,Independent,Independent Fuel Supplies,Gulf Development Road,Mount Surprise,Queensland,-18.147116,144.318726
+5159,Dunlop Super Dealer,Independent Fuel Supplies,23 Eclipse Street,Springsure,Queensland,-24.11324,148.088491
+5160,Independent,Independent Fuel Supplies,14 William Street,Springsure,Queensland,-24.1177549999999,148.088692
+5161,Independent,Independent Fuel Supplies,9 Hutton Street,Injune,Queensland,-25.84174,148.567107
+5162,Coles Express Port Douglas,Shell,10 Captain Cook Highway,Craiglea,Queensland,-16.536414,145.46768
+5163,Coles Express Mareeba,Shell,63 Byrnes Street,Mareeba,Queensland,-16.9901669999999,145.422241
+5164,Shell Peak Downs Roadhouse,Shell,Cnr Peak Downs Road and Goonyella Road,Moranbah,Queensland,-22.097957,148.095513
+5165,Longreach Shell ,Shell,1 Wonga Street,Longreach,Queensland,-23.441096,144.254386
+5166,Barcaldine ,7-Eleven Pty Ltd,39 Oak Street,Barcaldine,Queensland,-23.5530499999999,145.292877
+5167,Coles Express Blackwater,Shell,18 Railway Street,Blackwater,Queensland,-23.5853069999999,148.882111
+5168,Bauhinia Downs Store,Shell,Dawson Highway,Moura,Queensland,-24.572651,149.967861
+5169,Mobil Port Douglas,7-Eleven Pty Ltd,13 Warner Street,Port Douglas,Queensland,-16.48295,145.462434
+5170,Mobil Mareeba,7-Eleven Pty Ltd,1 Herberton Street,Mareeba,Queensland,-16.999229,145.423174
+5171,Mobil Charters Towers,7-Eleven Pty Ltd,93 Thompson Street,Mosman Park,Queensland,-20.096842,146.25354
+5172,Mobil Longreach,7-Eleven Pty Ltd,1 Sandpiper Road,Longreach,Queensland,-23.4393817489999,144.248496835
+5173,Mobil Barcaldine,BP,2 Box Street,Barcaldine,Queensland,-23.5524569999999,145.283829
+5174,Mobil Moura,7-Eleven Pty Ltd,44-46 Dawson Highway,Moura,Queensland,-24.5687379999999,149.972954
+5175,Caltex,Caltex,Duck Street,Longreach,Queensland,-23.4398018749999,144.248097629
+5176,Independent Palmer River,Independent Fuel Supplies,Lot 1 Peninsula Developmental Road,Lakeland,Queensland,-16.1071049999999,144.776679
+5177,Caltex Wonga Beach,Caltex,Mossman-Daintree Road and Leander Drive,Wonga,Queensland,-16.3587729999999,145.411456
+5178,Caltex Mossman,Caltex,67 Alchera Drive,Mossman,Queensland,-16.4762679999999,145.375055
+5179,Independent Mount Carbine,Independent Fuel Supplies,1 Baird Street,Mount Carbine,Queensland,-16.5283959999999,145.13397
+5180,Ampol Biboohra Via Mareeba,Ampol,Lot 1 Bilwon Road,Biboohra,Queensland,-16.922253,145.418716
+5181,Caltex Mareeba,Caltex,70 Byrnes Street,Mareeba,Queensland,-16.990626,145.421613
+5182,Independent Ravenshoe,Ampol,16-18 Moffit Street,Ravenshoe,Queensland,-17.6081649999999,145.48369
+5183,Woolworths Caltex Charters Towers,Caltex,105 Gill Street,Lissner,Queensland,-20.0763909999999,146.261787
+5184,Caltex Charters Towers,Caltex,262 Gill Street,Queenton,Queensland,-20.077537,146.268705
+5185,Ampol Collinsville,Ampol,51 Railway Road,Collinsville,Queensland,-20.5564909999999,147.843782
+5186,Caltex Hughenden,Caltex,10 Gray Street,Hughenden,Queensland,-20.844715,144.199829
+5187,Caltex Moranbah ,Caltex,Cnr Mills Avenue and Griffin Street,Moranbah,Queensland,-22.001974,148.045634
+5188,Independent Muttaburra,Independent Fuel Supplies,Bruford Street,Muttaburra,Queensland,-22.593117,144.547822
+5189,Caltex Longreach,Caltex,33 Ilfracombe Road,Longreach,Queensland,-23.441297,144.264031
+5190,Independent Barcaldine,Independent Fuel Supplies,24 Box Street North,Barcaldine,Queensland,-23.5552039999999,145.283379
+5191,Caltex Blackwater,Caltex,48 Railway Street,Blackwater,Queensland,-23.585257,148.885651
+5192,Caltex Alpha,Caltex,68 Milton Street,Alpha,Queensland,-23.649353,146.638429
+5193,Caltex Dingo,Caltex,Capricorn Highway,Dingo,Queensland,-23.650966,149.335018
+5194,Caltex Blackall,Caltex,64 Shamrock Street,Blackall,Queensland,-24.425472,145.467659
+5195,Caltex Taroom,Caltex,24 Dawson Street,Taroom,Queensland,-25.642353,149.794657
+5196,Caltex Morven,Caltex,Warrego Highway,Morven,Queensland,-26.4107989999999,147.126245
+5197,Independent Quilpie,Independent Fuel Supplies,Sommerfield Road,Quilpie,Queensland,-26.613534,144.270736
+5198,Caltex Surat,Caltex,61 Burrowes Street,Surat,Queensland,-27.151808,149.067881
+5199,Caltex Meandarra,Caltex,Dillon Street,Meandarra,Queensland,-27.321993,149.883095
+5200,Caltex Cunnamulla,Caltex,Cnr Mary Street and Emma Street,Cunnamulla,Queensland,-28.0702719999999,145.699849
+5201,BP Mossman,BP,68 Pringle Street,Mossman,Queensland,-16.483086,145.375198
+5202,BT Prior,BP,Lot 42 Queen Street,Chillagoe,Queensland,-17.1562329999999,144.52433
+5203,BP Tall Timbers Motel & Caravan Park,BP,,Ravenshoe,Queensland,-17.617402,145.485224
+5204,BP Mount Garnet,BP,Kennedy Highway,Mount Garnet,Queensland,-17.6750089999999,145.112322
+5205,BP Roadhouse & Tourist Park,BP,,Mount Surprise,Queensland,-18.147437,144.318321
+5206,BP Charters Towers,BP,11 Hackett Terrace,Richmond Hill,Queensland,-20.062558,146.271538
+5207,Nortons General Store,BP,13 Mount Leyshon Road,Mosman Park,Queensland,-20.087868,146.263276
+5208,Carms Top Shop,BP,Carms Top Shop,Collinsville,Queensland,-20.5469929999999,147.841073
+5209,Priestleys Roadhouse,BP,8 Gray Street,Hughenden,Queensland,-20.8455999999999,144.199654
+5210,BP Dysart,BP,Cnr Hannah Cres and Garnham Drive,Dysart,Queensland,-22.587686,148.344687
+5211,Gregory Highway Roadhouse,BP,Gregory Highway Roadhouse,Gregory Highway,Queensland,-22.802559,147.646007
+5212,BP Aramac,BP,Barcaldine Road,Aramac,Queensland,-22.974368,145.245148
+5213,Longreach ,BP,9 Wonga Street,Longreach,Queensland,-23.441226,144.255555
+5214,BP Blackwater,BP,12 Mackenzie Street,Blackwater,Queensland,-23.5830349999999,148.879395
+5215,Tilstons Garage,BP,59 Shakespeare Street,Alpha,Queensland,-23.6489119999999,146.639923
+5216,BP Duaringa Truckstop,BP,Capricorn Highway,Duaringa,Queensland,-23.72041,149.668373
+5217,J R & G E Nixon Pty Ltd,BP,Gap Street,Springsure,Queensland,-24.11716,148.093327
+5218,BP Blackall Motel,BP,153 Shamrock Street,Blackall,Queensland,-24.421597,145.457169
+5219,BP Blackall Roadhouse,BP,10 Shamrock Street,Blackall,Queensland,-24.4280229999999,145.474871
+5220,Russell Roadhouse,BP,2 Main Street,Augathella,Queensland,-25.793602,146.592892
+5221,Injune Roadhouse,BP,2 Hutton Street,Injune,Queensland,-25.840318,148.5676
+5222,BP Morven Roadhouse,BP,Lot 59 Warrego Highway,Morven,Queensland,-26.4161839999999,147.11248
+5223,BP Cunnamulla,BP,10 Emma Street,Cunnamulla,Queensland,-28.067753,145.685647
+5224,United Kempsey,United,108-112 Smith Street,Kempsey,New South Wales,-31.075002,152.843167
+5225,United Barmera,United,39 Fowles Street,Barmera,South Australia,-34.257334,140.466449
+5226,United Mildura,United,Calder Highway and Benetook Avenue,Mildura,Victoria,-34.218904,142.15038
+5227,United Gilgandra,United,13-17 Castlereagh Street,Gilgandra,New South Wales,-31.7171499999999,148.658157
+5228,United Gympie,United,Geordie Road ,Monkland,Queensland,-26.219781,152.68618
+5229,United South Grafton,United,105 Bent Street,South Grafton,New South Wales,-29.706916,152.939786
+5230,United South Grafton,United,Lot 3 Charles Street,South Grafton,New South Wales,-29.70809,152.941336
+5231,United Taree,United,60 Victoria Street,Taree,New South Wales,-31.9105759999999,152.466231
+5232,United Singleton,United,59-61 John Street,Singleton,New South Wales,-32.5674589999999,151.165377
+5233,United Prospect Vale,United,345 Westbury Road,Prospect Vale,Tasmania,-41.481868,147.12646
+5234,United Perth,United,100 Main Road,Perth,Tasmania,-41.578294,147.176129
+5235,United Zeehan,United,80 Main Street,Zeehan,Tasmania,-41.8863239999999,145.338274
+5236,United George Town,United,95 Main Road,George Town,Tasmania,-41.109318,146.84246
+5237,United Tennant Creek,United,222 Paterson Street,Tennant Creek,Northern Territory,-19.6364723579999,134.192369976
+5238,Katherine,United,37 Katherine Terrace,Katherine,Northern Territory,-14.462891815,132.260687101
+5239,Darwin River,United,175 Darwin River Road,Darwin River,Northern Territory,-12.7802849879999,130.962624786
+5240,United Humpty Doo,United,330 Arnhem Highway,Humpty Doo,Northern Territory,-12.5728369999999,131.10414
+5241,United Coolalinga,United,420 Stuart Highway,Coolalinga,Northern Territory,-12.522485,131.039729
+5242,Adelaide River Auto Port,United,122 Stuart Highway,Adelaide River,Northern Territory,-13.2377929689999,131.104675293
+5243,Malandari,United,330 Robinson Road,Borroloola,Northern Territory,-16.0567016599999,136.307922363
+5244,BP Roxby Downs,BP,26 Olympic Way,Roxby Downs,South Australia,-30.5536094899999,136.8937159
