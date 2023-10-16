@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+*.sqlite
+node_modules
+.swp
+tmp
+venv
+__pycache__
+.env
