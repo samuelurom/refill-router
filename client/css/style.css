@@ -10,19 +10,31 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+section {
+  border-bottom: 2px solid black;
+  padding: 10px;
+}
+
+main {
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
 .container {
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
 }
 
-.col-left,
-.col-right {
-  border: 1px solid black;
-  padding: 10px;
-}
-
-@media (max-width: 600px) {
+@media (max-width: 768px) {
+  main {
+    order: 1;
+  }
   .container {
     grid-template-columns: 1fr;
+  }
+  .col-left {
+    order: 2;
+  }
+  .col-right {
+    order: 3;
   }
 }
