@@ -18,6 +18,22 @@ async function initMap() {
     BP: "BP.png",
   };
 
+  //// MAP CENTER LOCATION  ////
+  let latitudeCordinates = document.querySelector(".map-latitude");
+  let longitudeCordinates = document.querySelector(".map-longitude");
+
+  google.maps.event.addListener(map, "center_changed", function () {
+    const center = this.getCenter();
+    const latitude = center.lat();
+    const longitude = center.lng();
+    console.log("current latitude is: " + latitude);
+    console.log("current longitude is: " + longitude);
+
+    latitudeCordinates.innerHTML = latitude;
+    longitudeCordinates.innerHTML = longitude;
+  });
+  ////////////////////////////
+
   fetch("http://localhost:8080/api/stations/all")
     .then((res) => res.json())
     .then((stations) => {
