@@ -26,8 +26,6 @@ async function initMap() {
     const center = this.getCenter();
     const latitude = center.lat();
     const longitude = center.lng();
-    console.log("current latitude is: " + latitude);
-    console.log("current longitude is: " + longitude);
 
     latitudeCordinates.innerHTML = latitude;
     longitudeCordinates.innerHTML = longitude;
@@ -36,7 +34,6 @@ async function initMap() {
   fetch("http://localhost:8080/api/stations/all")
     .then((res) => res.json())
     .then((stations) => {
-      console.log(stations);
       for (const station of stations) {
         const marker = new google.maps.Marker({
           position: { lat: station.lat, lng: station.lng },
@@ -103,15 +100,17 @@ function checkTime(i) {
 }
 // list of 10 stations
 startTime();
+
 fetch("/api/stations/all")
   .then((response) => response.json())
   .then((stations) => {
     const stationsList = document.querySelector(".stationsList"); // Select the .stationsList class
-    stations.forEach((station) => {
+    stations.slice(0, 10).forEach((station) => {
       const stationElement = document.createElement("div");
       stationElement.innerHTML = `
-        ${station.name}
-        ${station.address}
+       <p>${station.name}</p>
+        <p>${station.address}</p>
+
       `;
       stationsList.appendChild(stationElement);
     });
