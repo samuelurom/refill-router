@@ -7,10 +7,18 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <link rel="stylesheet" href="/css/style.css" />
   </head>
-  <body>
+  <body onload="startTime()">
     <div class="container">
       <aside class="col-left">
-        <section>Time</section>
+        <section>
+          Time
+          <div id="clockdate">
+            <div class="clockdate-wrapper">
+              <div id="clock"></div>
+              <div id="date"></div>
+            </div>
+          </div>
+        </section>
         <section>Spotlight</section>
         <section class="map-location">
           Map Location
