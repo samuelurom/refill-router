@@ -44,8 +44,30 @@ async function initMap() {
             scaledSize: new google.maps.Size(45, 45),
           },
         });
+
+        const infoWindow = new google.maps.InfoWindow({
+          content: `<div> ${station.name}</div>
+                          <div> ${station.address}</div>`,
+        });
+
+        marker.addListener("click", () => {
+          closeAllInfoWindows();
+
+          infoWindow.open({
+            anchor: marker,
+            map,
+          });
+          activeInfoWindow = infoWindow;
+        });
       }
     });
+
+  let activeInfoWindow;
+  function closeAllInfoWindows() {
+    if (activeInfoWindow) {
+      activeInfoWindow.close();
+    }
+  }
 }
 
 initMap();
