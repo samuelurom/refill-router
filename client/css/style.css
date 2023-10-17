@@ -46,3 +46,7 @@ ul {
     order: 3;
   }
 }
+
+#stationsList > * {
+  border-top: 1px solid black;
+}
