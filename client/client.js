@@ -101,5 +101,19 @@ function checkTime(i) {
   }
   return i;
 }
-
+// list of 10 stations
 startTime();
+fetch("/api/stations/all")
+  .then((response) => response.json())
+  .then((stations) => {
+    const stationsList = document.getElementById("stationsList");
+    stations.forEach((station) => {
+      const stationElement = document.createElement("div");
+      stationElement.innerHTML = `
+        <p>${station.name}</p>
+        <p>${station.address}</p>
+       
+      `;
+      stationsList.appendChild(stationElement);
+    });
+  });
