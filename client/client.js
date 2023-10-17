@@ -1,23 +1,21 @@
 let map;
+const stationIcons = {
+  Caltex: "Caltex.png",
+  "7-Eleven Pty Ltd": "7-Eleven_Pty_Ltd.png",
+  United: "United.png",
+  Shell: "Shell.png",
+  Mobil: "Mobil.png",
+  Liberty: "Liberty.png",
+  BP: "BP.png",
+};
 
 async function initMap() {
   const { Map } = await google.maps.importLibrary("maps");
 
   map = new Map(document.getElementById("map"), {
     center: { lat: -34.397, lng: 150.644 },
-    zoom: 13,
-    minZoom: 9,
+    zoom: 8,
   });
-
-  const stationIcons = {
-    Caltex: "Caltex.png",
-    "7-Eleven Pty Ltd": "7-Eleven_Pty_Ltd.png",
-    United: "United.png",
-    Shell: "Shell.png",
-    Mobil: "Mobil.png",
-    Liberty: "Liberty.png",
-    BP: "BP.png",
-  };
 
   //// MAP CENTER LOCATION  ////
   let latitudeCordinates = document.querySelector(".map-latitude");
@@ -128,12 +126,18 @@ fetch("/api/stations/all")
   .then((response) => response.json())
   .then((stations) => {
     const stationsList = document.querySelector(".stationsList"); // Select the .stationsList class
+
     stations.slice(0, 10).forEach((station) => {
       const stationElement = document.createElement("div");
+      stationElement.className = "nearest-station-item";
       stationElement.innerHTML = `
-       <p>${station.name}</p>
-        <p>${station.address}</p>
-
+        <img src="/images/${
+          stationIcons[station.owner] || "fuel_icon.png"
+        }" alt="${station.name}">
+        <div>
+          <p>${station.name}</p>
+          <p>${station.address}</p>
+        </div>
       `;
       stationsList.appendChild(stationElement);
     });
