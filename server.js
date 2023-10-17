@@ -11,6 +11,7 @@ const ownersRouter = require("./routes/owners_router");
 // middlewares ===============
 app.use(express.static("client"));
 app.use(express.json()); // req body parser in JSON
+app.set("view engine", "ejs");
 
 // routes ===============
 

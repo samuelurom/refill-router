@@ -56,3 +56,12 @@ ul {
 }
 #date {
 }
+
+.stationsList > * {
+  border-top: 1px solid black;
+}
+.station-name {
+}
+
+.station-address {
+}
