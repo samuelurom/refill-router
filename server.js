@@ -7,6 +7,7 @@ const port = process.env.PORT || 8080;
 const errorHandler = require("./middlewares/error_handler");
 const stationsRouter = require("./routes/stations_router");
 const ownersRouter = require("./routes/owners_router");
+const statsRouter = require("./routes/stats_router");
 
 // middlewares ===============
 app.use(express.static("client"));
@@ -17,6 +18,7 @@ app.set("view engine", "ejs");
 
 app.use("/api/stations", stationsRouter);
 app.use("/api/owners", ownersRouter);
+app.use("/api/stats", statsRouter);
 
 // error handler ==============
 app.use(errorHandler);
