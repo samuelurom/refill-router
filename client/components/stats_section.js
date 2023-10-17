@@ -20,26 +20,38 @@ document.addEventListener("DOMContentLoaded", function () {
   let chartCanvas = document.querySelector(".stats-chart");
   let ctx = chartCanvas.getContext("2d");
 
-  let statsChart = new Chart(ctx, {
-    type: "doughnut",
-    data: {
-      labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
-      datasets: [
-        {
-          data: [12, 19, 3, 5, 2, 3],
-          backgroundColor: [
-            "red",
-            "blue",
-            "yellow",
-            "green",
-            "purple",
-            "orange",
+  fetch("http://localhost:8080/api/stats")
+    .then((res) => res.json())
+    .then((stats) => {
+      console.log(stats);
+
+      const totalStationsSpan = document.querySelector(".stations-stats");
+      const totalOwnersSpan = document.querySelector(".owners-stats");
+      totalStationsSpan.textContent = stats.total_stations;
+      totalOwnersSpan.textContent = stats.total_owners;
+
+      let statsChart = new Chart(ctx, {
+        type: "doughnut",
+        data: {
+          labels: stats.owners.map((station) => station.owner),
+          datasets: [
+            {
+              data: stats.owners.map((station) => Number(station.total)),
+              backgroundColor: [
+                "red",
+                "teal",
+                "yellow",
+                "green",
+                "purple",
+                "orange",
+                "blue",
+              ],
+            },
           ],
         },
-      ],
-    },
-    options: {
-      cutout: "70%",
-    },
-  });
+        options: {
+          cutout: "70%",
+        },
+      });
+    });
 });
