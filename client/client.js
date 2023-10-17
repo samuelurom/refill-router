@@ -9,12 +9,23 @@ const stationIcons = {
   BP: "BP.png",
 };
 
+let userLat;
+let userLng;
+
+navigator.geolocation.getCurrentPosition(async (position) => {
+  userLat = await position.coords.latitude;
+  userLng = await position.coords.longitude;
+  console.log(userLat, userLng);
+  initMap();
+});
+
 async function initMap() {
   const { Map } = await google.maps.importLibrary("maps");
 
   map = new Map(document.getElementById("map"), {
-    center: { lat: -34.397, lng: 150.644 },
-    zoom: 8,
+    center: { lat: userLat, lng: userLng },
+    zoom: 13,
+    minZoom: 9,
   });
 
   //// MAP CENTER LOCATION  ////
@@ -69,8 +80,6 @@ async function initMap() {
   }
 }
 
-initMap();
-
 // Clock
 
 function startTime() {
@@ -119,6 +128,7 @@ function checkTime(i) {
   }
   return i;
 }
+
 // list of 10 stations
 startTime();
 
@@ -142,3 +152,15 @@ fetch("/api/stations/all")
       stationsList.appendChild(stationElement);
     });
   });
+
+// function getLocation() {
+//   navigator.geolocation.getCurrentPosition((position) => {
+//     const lat = position.coords.latitude;
+//     const lng = position.coords.longitude;
+//     return {
+//       lat,
+//       lng,
+//     };
+//   });
+// }
+// console.log(getLocation());
