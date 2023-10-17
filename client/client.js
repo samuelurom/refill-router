@@ -106,13 +106,12 @@ startTime();
 fetch("/api/stations/all")
   .then((response) => response.json())
   .then((stations) => {
-    const stationsList = document.getElementById("stationsList");
+    const stationsList = document.querySelector(".stationsList"); // Select the .stationsList class
     stations.forEach((station) => {
       const stationElement = document.createElement("div");
       stationElement.innerHTML = `
-        <p>${station.name}</p>
-        <p>${station.address}</p>
-       
+        ${station.name}
+        ${station.address}
       `;
       stationsList.appendChild(stationElement);
     });
