@@ -172,6 +172,8 @@ fetch("/api/stations/all")
 //   });
 // }
 // console.log(getLocation());
+
+// Latest Oil Prices
 async function fetchData(symbol) {
   const url = `https://api.futures-api.com/last?symbol=${symbol}`;
   const response = await fetch(url, {
@@ -186,49 +188,9 @@ async function fetchData(symbol) {
   }
 
   const data = await response.json();
-
-  // let crudeOilPrice = document.querySelector(".last-crude-price");
-  // let brentOilPrice = document.querySelector(".last-brent-price");
-  // crudeOilPrice.innerHTML = latestCrudeOilPrice;
-  // brentOilPrice.innerHTML = latestBrentOilPrice;
-
   return data;
 }
-// let naturalGasPrice = document.querySelector(".last-naturalgas-price");
-// let crudeOilPrice = document.querySelector(".last-crude-price");
-// let brentOilPrice = document.querySelector(".last-brent-price");
 
-// // To use it:
-// fetchData("NG")
-//   .then((data) => {
-//     console.log("Natural Gas (NG) Data:", data.data[0].last);
-//     let latestNaturalGasPrice = data.data[0].last;
-//     naturalGasPrice.innerHTML = latestNaturalGasPrice;
-//   })
-//   .catch((error) => {
-//     console.error(error);
-//   });
-
-// fetchData("CL")
-//   .then((data) => {
-//     console.log("Crude Oil (CL) Data:", data.data[0].last);
-//     let latestCrudeOilPrice = data.data[0].last;
-//     crudeOilPrice.innerHTML = latestCrudeOilPrice;
-//   })
-//   .catch((error) => {
-//     console.error(error);
-//   });
-
-// fetchData("BB")
-//   .then((data) => {
-//     console.log("Brent Oil (BB) Data:", data.data[0].last);
-//     let latestBrentOilPrice = data.data[0].last;
-//     brentOilPrice.innerHTML = latestBrentOilPrice;
-//   })
-//   .catch((error) => {
-//     console.error(error);
-//   });
-//===============================
 let naturalGasPrice = document.querySelector(".last-naturalgas-price");
 let crudeOilPrice = document.querySelector(".last-crude-price");
 let brentOilPrice = document.querySelector(".last-brent-price");
@@ -239,10 +201,28 @@ fetchAndUpdatePrice("BB", brentOilPrice, "Brent Oil");
 
 async function fetchAndUpdatePrice(symbol, element, name) {
   try {
-    const data = await fetchData(symbol);
-    console.log(`${symbol} Data:`, data.data[0].last);
-    let latestPrice = data.data[0].last;
-    element.innerHTML = `${name}: ${latestPrice}`;
+    let latestPrice;
+    try {
+      const data = await fetchData(symbol);
+      console.log(`${symbol} Data:`, data.data[0].last);
+      latestPrice = data.data[0].last;
+    } catch (error) {
+      console.error(error);
+      switch (symbol) {
+        case "NG":
+          latestPrice = 3.09;
+          break;
+        case "CL":
+          latestPrice = 88.45;
+          break;
+        case "BB":
+          latestPrice = 91.36;
+          break;
+        default:
+          latestPrice = "N/A";
+      }
+    }
+    element.innerHTML = `${name}: $${latestPrice} USD`;
   } catch (error) {
     console.error(error);
   }
