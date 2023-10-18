@@ -67,3 +67,6 @@ ul {
   width: 40px;
   height: 40px;
 }
+.full-width #map {
+  width: 100%;
+}
