@@ -15,7 +15,7 @@ function findByBounds(swLat, neLat, swLng, neLng) {
         SELECT * FROM petrol_stations 
         WHERE lat BETWEEN $1 AND $2 
         AND lng BETWEEN $3 AND $4
-    `;
+      ;`;
 
   return db
     .query(sql, [swLat, neLat, swLng, neLng])
