@@ -10,4 +10,12 @@ router.get("/all", (req, res) => {
   });
 });
 
+router.get("/bounds", (req, res) => {
+  const { swLat, neLat, swLng, neLng } = req.query;
+
+  Station.findByBounds(swLat, neLat, swLng, neLng).then((stations) => {
+    return res.json(stations);
+  });
+});
+
 module.exports = router;
