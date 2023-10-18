@@ -1,88 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RefillRouter</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link rel="stylesheet" href="/css/style.css" />
+  </head>
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>RefillRouter</title>
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-  <link rel="stylesheet" href="/css/style.css" />
-</head>
-
-<body onload="startTime()">
-  <div class="container">
-    <aside class="col-left" id="left-sidebar">
-      <section>
-        Time
-        <div id="clockdate">
-          <div class="clockdate-wrapper">
-            <div id="clock"></div>
-            <div id="date"></div>
+  <body onload="startTime()">
+    <div class="container">
+      <aside class="col-left" id="left-sidebar">
+        <section>
+          Time
+          <div id="clockdate">
+            <div class="clockdate-wrapper">
+              <div id="clock"></div>
+              <div id="date"></div>
+            </div>
           </div>
-        </div>
-      </section>
-      <section class="spotlight-section">Spotlight</section>
-      <section class="map-location">
-        Map Location
-        <p class="map-latitude"></p>
-        <p class="map-longitude"></p>
-      </section>
-      <section class="stationsList">
-      </section>
-    </aside>
+        </section>
+        <section class="spotlight-section">Spotlight</section>
+        <section class="map-location">
+          Map Location
+          <p class="map-latitude"></p>
+          <p class="map-longitude"></p>
+        </section>
+        <section class="stationsList"></section>
+      </aside>
 
-    <main class="col-middle">
-      <div class="map" id="map"></div>
-      ​
-      <!-- prettier-ignore -->
-      <script>(g => { var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__", m = document, b = window; b = b[c] || (b[c] = {}); var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams, u = () => h || (h = new Promise(async (f, n) => { await (a = m.createElement("script")); e.set("libraries", [...r] + ""); for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]); e.set("callback", c + ".maps." + q); a.src = `https://maps.${c}apis.com/maps/api/js?` + e; d[q] = f; a.onerror = () => h = n(Error(p + " could not load.")); a.nonce = m.querySelector("script[nonce]")?.nonce || ""; m.head.append(a) })); d[l] ? console.warn(p + " only loads once. Ignoring:", g) : d[l] = (f, ...n) => r.add(f) && u().then(() => d[l](f, ...n)) })
+      <main class="col-middle">
+        <div class="map" id="map"></div>
+        ​
+        <!-- prettier-ignore -->
+        <script>(g => { var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__", m = document, b = window; b = b[c] || (b[c] = {}); var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams, u = () => h || (h = new Promise(async (f, n) => { await (a = m.createElement("script")); e.set("libraries", [...r] + ""); for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]); e.set("callback", c + ".maps." + q); a.src = `https://maps.${c}apis.com/maps/api/js?` + e; d[q] = f; a.onerror = () => h = n(Error(p + " could not load.")); a.nonce = m.querySelector("script[nonce]")?.nonce || ""; m.head.append(a) })); d[l] ? console.warn(p + " only loads once. Ignoring:", g) : d[l] = (f, ...n) => r.add(f) && u().then(() => d[l](f, ...n)) })
           ({ key: "AIzaSyDVxOVWpVFo_OkHoz5KhBirIEZwfpIvQN4", v: "weekly" });</script>
-    </main>
+      </main>
 
-    <aside class="col-right" id="right-sidebar">
-      <section class="stats-section"></section>
-      <section>
-        Latest Prices
-        <p class="last-crude-price"></p>
-        <p class="last-brent-price"></p>
-        <p class="last-naturalgas-price"></p>
-      </section>
-      <section>
-        <h2>About</h2>
-        <h3>Team Name: GeoDevs</h3>
-        <ul>
-          <li>
-            Samuel
-            <a href="https://github.com/samuelurom/" target="_blank">https://github.com/samuelurom/</a>
-          </li>
-          <li>
-            Harley
-            <a href="https://github.com/harleybrackley/" target="_blank">https://github.com/harleybrackley/</a>
-          </li>
-          <li>
-            Justin
-            <a href="https://github.com/JustinOngy/" target="_blank">https://github.com/JustinOngy/</a>
-          </li>
-          <li>
-            Maureen
-            <a href="https://github.com/MauzzaH/" target="_blank">https://github.com/MauzzaH/</a>
-          </li>
-          <li>
-            Chris
-            <a href="https://github.com/ChrisW91" target="_blank">https://github.com/ChrisW91</a>
-          </li>
-        </ul>
-        <p>&copy; 2023 RefillRouter</p>
-      </section>
-    </aside>
-  </div>
-  <script src="/utils/hot_keys.js"></script>
-  <script src="/utils/stations_api.js"></script>
-  <script src="/utils/station_icons.js"></script>
-  <script src="/client.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script src="/components/stats_section.js"></script>
-  <script src="/components/spotlight_section.js"></script>
-</body>
-
+      <aside class="col-right" id="right-sidebar">
+        <section class="stats-section"></section>
+        <section>
+          Latest Prices
+          <p class="last-crude-price"></p>
+          <p class="last-brent-price"></p>
+          <p class="last-naturalgas-price"></p>
+        </section>
+        <section>
+          <h2>About</h2>
+          <h3>Team Name: GeoDevs</h3>
+          <ul>
+            <li>
+              Samuel
+              <a href="https://github.com/samuelurom/" target="_blank"
+                >https://github.com/samuelurom/</a
+              >
+            </li>
+            <li>
+              Harley
+              <a href="https://github.com/harleybrackley/" target="_blank"
+                >https://github.com/harleybrackley/</a
+              >
+            </li>
+            <li>
+              Justin
+              <a href="https://github.com/JustinOngy/" target="_blank"
+                >https://github.com/JustinOngy/</a
+              >
+            </li>
+            <li>
+              Maureen
+              <a href="https://github.com/MauzzaH/" target="_blank"
+                >https://github.com/MauzzaH/</a
+              >
+            </li>
+            <li>
+              Chris
+              <a href="https://github.com/ChrisW91" target="_blank"
+                >https://github.com/ChrisW91</a
+              >
+            </li>
+          </ul>
+          <p>&copy; 2023 RefillRouter</p>
+        </section>
+      </aside>
+    </div>
+    <script src="/utils/hot_keys.js"></script>
+    <script src="/utils/stations_api.js"></script>
+    <script src="/utils/station_icons.js"></script>
+    <script src="/client.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="/components/stats_section.js"></script>
+    <script src="/components/spotlight_section.js"></script>
+  </body>
 </html>
