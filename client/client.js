@@ -28,6 +28,14 @@ async function initMap() {
     minZoom: 9,
   });
 
+  google.maps.event.addListener(map, "bounds_changed", function () {
+    const bounds = this.getBounds();
+    const ne = bounds.getNorthEast();
+    const sw = bounds.getSouthWest();
+
+    fetchStationsByBounds(sw.lat(), ne.lat(), sw.lng(), ne.lng());
+  });
+
   //// MAP CENTER LOCATION  ////
   let latitudeCordinates = document.querySelector(".map-latitude");
   let longitudeCordinates = document.querySelector(".map-longitude");
@@ -41,45 +49,45 @@ async function initMap() {
     longitudeCordinates.innerHTML = longitude;
   });
   ////////////////////////////
-  fetch("http://localhost:8080/api/stations/all")
-    .then((res) => res.json())
-    .then((stations) => {
-      for (const station of stations) {
-        const marker = new google.maps.Marker({
-          position: { lat: station.lat, lng: station.lng },
-          map: map,
-          title: station.name,
-          icon: {
-            url: `/images/${stationIcons[station.owner] || "fuel_icon.png"}`,
-            scaledSize: new google.maps.Size(45, 45),
-          },
-        });
+  //   fetch("http://localhost:8080/api/stations/all")
+  //     .then((res) => res.json())
+  //     .then((stations) => {
+  //       for (const station of stations) {
+  //         const marker = new google.maps.Marker({
+  //           position: { lat: station.lat, lng: station.lng },
+  //           map: map,
+  //           title: station.name,
+  //           icon: {
+  //             url: `/images/${stationIcons[station.owner] || "fuel_icon.png"}`,
+  //             scaledSize: new google.maps.Size(45, 45),
+  //           },
+  //         });
 
-        const infoWindow = new google.maps.InfoWindow({
-          content: `<div> ${station.name}</div>
-                          <div> ${station.address}</div>`,
-        });
+  //         const infoWindow = new google.maps.InfoWindow({
+  //           content: `<div> ${station.name}</div>
+  //                           <div> ${station.address}</div>`,
+  //         });
 
-        marker.addListener("click", () => {
-          closeAllInfoWindows();
+  //         marker.addListener("click", () => {
+  //           closeAllInfoWindows();
 
-          infoWindow.open({
-            anchor: marker,
-            map,
-          });
-          activeInfoWindow = infoWindow;
-        });
-      }
-    });
+  //           infoWindow.open({
+  //             anchor: marker,
+  //             map,
+  //           });
+  //           activeInfoWindow = infoWindow;
+  //         });
+  //       }
+  //     });
 
-  let activeInfoWindow;
-  function closeAllInfoWindows() {
-    if (activeInfoWindow) {
-      activeInfoWindow.close();
-    }
-  }
+  //   let activeInfoWindow;
+  //   function closeAllInfoWindows() {
+  //     if (activeInfoWindow) {
+  //       activeInfoWindow.close();
+  //     }
+  //   }
+  // }
 }
-
 // Clock
 
 function startTime() {
@@ -169,7 +177,7 @@ async function fetchData(symbol) {
   const response = await fetch(url, {
     method: "GET",
     headers: {
-      "x-api-key": "RPua2exyt85Rfb7YDyDZs64P3b2KwFxFaE4iAwxT",
+      "x-api-key": "",
     },
   });
 
