@@ -10,6 +10,10 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+h3 {
+  font-weight: 500;
+}
+
 section {
   border-bottom: 2px solid black;
   padding: 10px;
@@ -66,4 +70,19 @@ ul {
 .nearest-station-item img {
   width: 40px;
   height: 40px;
+}
+
+.spotlight-body img {
+  width: 80px;
+  height: 80px;
+}
+
+
+/* Utility styles */
+.col-2-full {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 10px 0;
 }
