@@ -1,3 +1,5 @@
+const { head } = require("../../routes/stats_router");
+
 function fetchStationsByBounds(swLat, neLat, swLng, neLng) {
   fetch(
     `/api/stations/bounds?neLat=${neLat}&neLng=${neLng}&swLat=${swLat}&swLng=${swLng}`
@@ -32,9 +34,13 @@ function fetchStationsByBounds(swLat, neLat, swLng, neLng) {
       }
     })
     .then((res) => {
-      const stationsList = document.querySelector(".stationsList"); // Select the .stationsList class
-
       findNearest().then((stations) => {
+        const stationsList = document.querySelector(".stationsList"); // Select the .stationsList class
+        stationsList.innerHTML = "";
+        const heading = document.createElement("h2");
+        heading.textContent = "Nearest";
+        stationsList.appendChild(heading);
+
         stations.forEach((station) => {
           const stationElement = document.createElement("div");
           stationElement.className = "nearest-station-item";
