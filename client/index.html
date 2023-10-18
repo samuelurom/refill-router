@@ -10,7 +10,7 @@
 
   <body onload="startTime()">
     <div class="container">
-      <aside class="col-left">
+      <aside class="col-left" id="sidebar-1">
         <section>
           Time
           <div id="clockdate">
@@ -32,14 +32,14 @@
       </aside>
 
       <main class="col-middle">
-        <div id="map"></div>
+        <div class="map" id="map"></div>
         ​
         <!-- prettier-ignore -->
         <script>(g => { var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__", m = document, b = window; b = b[c] || (b[c] = {}); var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams, u = () => h || (h = new Promise(async (f, n) => { await (a = m.createElement("script")); e.set("libraries", [...r] + ""); for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]); e.set("callback", c + ".maps." + q); a.src = `https://maps.${c}apis.com/maps/api/js?` + e; d[q] = f; a.onerror = () => h = n(Error(p + " could not load.")); a.nonce = m.querySelector("script[nonce]")?.nonce || ""; m.head.append(a) })); d[l] ? console.warn(p + " only loads once. Ignoring:", g) : d[l] = (f, ...n) => r.add(f) && u().then(() => d[l](f, ...n)) })
           ({ key: "AIzaSyCEF-2mTrp_BEeWkbLTjDkJ1qO8vYZ0KSg", v: "weekly" });</script>
       </main>
 
-      <aside class="col-right">
+      <aside class="col-right" id="sidebar-2">
         <section class="stats-section"></section>
         <section>
           Latest Prices
@@ -86,6 +86,29 @@
         </section>
       </aside>
     </div>
+    <script>
+      document.addEventListener("keydown", function (event) {
+        if (event.ctrlKey && event.shiftKey && event.key === "B") {
+          toggleSidebar();
+        }
+      });
+
+      function toggleSidebar() {
+        const sidebar1 = document.getElementById("sidebar-1");
+        const sidebar2 = document.getElementById("sidebar-2");
+        const container = document.querySelector(".container");
+
+        if (sidebar1.style.display === "none") {
+          sidebar1.style.display = "block";
+          sidebar2.style.display = "block";
+          container.style.gridTemplateColumns = "1fr 3fr 1fr";
+        } else {
+          sidebar1.style.display = "none";
+          sidebar2.style.display = "none";
+          container.style.gridTemplateColumns = "none";
+        }
+      }
+    </script>
     <script src="/utils/stations_api.js"></script>
     <script src="/client.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
