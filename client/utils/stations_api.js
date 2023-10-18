@@ -30,21 +30,26 @@ function fetchStationsByBounds(swLat, neLat, swLng, neLng) {
           activeInfoWindow = infoWindow;
         });
       }
+    })
+    .then((res) => {
       const stationsList = document.querySelector(".stationsList"); // Select the .stationsList class
 
-      stations.slice(0, 10).forEach((station) => {
-        const stationElement = document.createElement("div");
-        stationElement.className = "nearest-station-item";
-        stationElement.innerHTML = `
-          <img src="/images/${
-            stationIcons[station.owner] || "fuel_icon.png"
-          }" alt="${station.name}">
-          <div>
-            <p>${station.name}</p>
-            <p>${station.address}</p>
-          </div>
-        `;
-        stationsList.appendChild(stationElement);
+      findNearest().then((stations) => {
+        stations.forEach((station) => {
+          const stationElement = document.createElement("div");
+          stationElement.className = "nearest-station-item";
+          stationElement.innerHTML = `
+            <img src="/images/${
+              stationIcons[station.owner] || "fuel_icon.png"
+            }" alt="${station.name}">
+            <div>
+              <p>${station.name}</p>
+              <p>${station.address}</p>
+              <p>${station.distance.toFixed(2)} kilometers</p>
+            </div>
+          `;
+          stationsList.appendChild(stationElement);
+        });
       });
     });
 
@@ -54,4 +59,10 @@ function fetchStationsByBounds(swLat, neLat, swLng, neLng) {
       activeInfoWindow.close();
     }
   }
+}
+
+function findNearest() {
+  return fetch(
+    `/api/stations/nearest?userLat=${userLat}&userLng=${userLng}`
+  ).then((res) => res.json());
 }
