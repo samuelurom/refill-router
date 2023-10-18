@@ -49,9 +49,12 @@ function fetchStationsByBounds(swLat, neLat, swLng, neLng) {
               stationIcons[station.owner] || "fuel_icon.png"
             }" alt="${station.name}">
             <div>
-              <p>${station.name}</p>
+            <p>${station.name} <strong>${station.distance.toFixed(
+            2
+          )} km's</strong></p>
+  
               <p>${station.address}</p>
-              <p>${station.distance.toFixed(2)} kilometers</p>
+             
             </div>
           `;
           stationsList.appendChild(stationElement);
