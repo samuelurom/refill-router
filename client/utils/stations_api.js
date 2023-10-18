@@ -67,8 +67,14 @@ function fetchStationsByBounds(swLat, neLat, swLng, neLng) {
   }
 }
 
+// find nearest stations
 function findNearest() {
   return fetch(
     `/api/stations/nearest?userLat=${userLat}&userLng=${userLng}`
   ).then((res) => res.json());
+}
+
+// find random station
+function findRandom() {
+  return fetch("/api/stations/random").then((res) => res.json());
 }
