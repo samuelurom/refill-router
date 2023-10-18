@@ -22,7 +22,18 @@ function findByBounds(swLat, neLat, swLng, neLng) {
     .then((result) => result.rows);
 }
 
+function findRandom() {
+  const sql = `
+    SELECT * FROM petrol_stations
+    ORDER BY RANDOM()
+    LIMIT 1;
+  `;
+
+  return db.query(sql).then((result) => result.rows);
+}
+
 module.exports = {
   findAll,
   findByBounds,
+  findRandom,
 };
