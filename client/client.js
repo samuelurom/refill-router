@@ -140,26 +140,26 @@ function checkTime(i) {
 // list of 10 stations
 startTime();
 
-fetch("/api/stations/all")
-  .then((response) => response.json())
-  .then((stations) => {
-    const stationsList = document.querySelector(".stationsList"); // Select the .stationsList class
+// fetch("/api/stations/all")
+//   .then((response) => response.json())
+//   .then((stations) => {
+//     const stationsList = document.querySelector(".stationsList"); // Select the .stationsList class
 
-    stations.slice(0, 10).forEach((station) => {
-      const stationElement = document.createElement("div");
-      stationElement.className = "nearest-station-item";
-      stationElement.innerHTML = `
-        <img src="/images/${
-          stationIcons[station.owner] || "fuel_icon.png"
-        }" alt="${station.name}">
-        <div>
-          <p>${station.name}</p>
-          <p>${station.address}</p>
-        </div>
-      `;
-      stationsList.appendChild(stationElement);
-    });
-  });
+//     stations.slice(0, 10).forEach((station) => {
+//       const stationElement = document.createElement("div");
+//       stationElement.className = "nearest-station-item";
+//       stationElement.innerHTML = `
+//         <img src="/images/${
+//           stationIcons[station.owner] || "fuel_icon.png"
+//         }" alt="${station.name}">
+//         <div>
+//           <p>${station.name}</p>
+//           <p>${station.address}</p>
+//         </div>
+//       `;
+//       stationsList.appendChild(stationElement);
+//     });
+//   });
 
 // function getLocation() {
 //   navigator.geolocation.getCurrentPosition((position) => {

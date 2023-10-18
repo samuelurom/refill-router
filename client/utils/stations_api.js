@@ -30,6 +30,22 @@ function fetchStationsByBounds(swLat, neLat, swLng, neLng) {
           activeInfoWindow = infoWindow;
         });
       }
+      const stationsList = document.querySelector(".stationsList"); // Select the .stationsList class
+
+      stations.slice(0, 10).forEach((station) => {
+        const stationElement = document.createElement("div");
+        stationElement.className = "nearest-station-item";
+        stationElement.innerHTML = `
+          <img src="/images/${
+            stationIcons[station.owner] || "fuel_icon.png"
+          }" alt="${station.name}">
+          <div>
+            <p>${station.name}</p>
+            <p>${station.address}</p>
+          </div>
+        `;
+        stationsList.appendChild(stationElement);
+      });
     });
 
   let activeInfoWindow;
