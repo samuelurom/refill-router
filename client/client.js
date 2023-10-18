@@ -164,3 +164,59 @@ fetch("/api/stations/all")
 //   });
 // }
 // console.log(getLocation());
+async function fetchData(symbol) {
+  const url = `https://api.futures-api.com/last?symbol=${symbol}`;
+  const response = await fetch(url, {
+    method: "GET",
+    headers: {
+      "x-api-key": "RPua2exyt85Rfb7YDyDZs64P3b2KwFxFaE4iAwxT",
+    },
+  });
+
+  if (!response.ok) {
+    throw new Error("Network response was not ok");
+  }
+
+  const data = await response.json();
+
+  // let crudeOilPrice = document.querySelector(".last-crude-price");
+  // let brentOilPrice = document.querySelector(".last-brent-price");
+  // crudeOilPrice.innerHTML = latestCrudeOilPrice;
+  // brentOilPrice.innerHTML = latestBrentOilPrice;
+
+  return data;
+}
+let naturalGasPrice = document.querySelector(".last-naturalgas-price");
+let crudeOilPrice = document.querySelector(".last-crude-price");
+let brentOilPrice = document.querySelector(".last-brent-price");
+
+// To use it:
+fetchData("NG")
+  .then((data) => {
+    console.log("Natural Gas (NG) Data:", data.data[0].last);
+    let latestNaturalGasPrice = data.data[0].last;
+    naturalGasPrice.innerHTML = latestNaturalGasPrice;
+  })
+  .catch((error) => {
+    console.error(error);
+  });
+
+fetchData("CL")
+  .then((data) => {
+    console.log("Crude Oil (CL) Data:", data.data[0].last);
+    let latestCrudeOilPrice = data.data[0].last;
+    crudeOilPrice.innerHTML = latestCrudeOilPrice;
+  })
+  .catch((error) => {
+    console.error(error);
+  });
+
+fetchData("BB")
+  .then((data) => {
+    console.log("Brent Oil (BB) Data:", data.data[0].last);
+    let latestBrentOilPrice = data.data[0].last;
+    brentOilPrice.innerHTML = latestBrentOilPrice;
+  })
+  .catch((error) => {
+    console.error(error);
+  });
