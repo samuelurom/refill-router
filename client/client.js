@@ -24,7 +24,12 @@ navigator.geolocation.getCurrentPosition(async (position) => {
   initMap();
 });
 
-async function initMap() {
+async function initMap(stationLat = null, stationLng = null) {
+  if (stationLat && stationLng) {
+    userLat = stationLat;
+    userLng = stationLng;
+  }
+
   const { Map } = await google.maps.importLibrary("maps");
 
   map = new Map(document.getElementById("map"), {

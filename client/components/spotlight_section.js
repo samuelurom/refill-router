@@ -35,7 +35,7 @@ function switchBackgroundImage() {
 function renderSpotight(title, address, image) {
   return `
     <div>
-      <h3 class="spotlight-title">${title}</h3>
+    <a href=""><h3 class="spotlight-title">${title}</h3></a>
       <p class="spotlight-address">${address}</p>
     </div>
     <img src="${image}" alt="${title}, ${address}">
@@ -52,6 +52,14 @@ function loadRandomStation() {
       station[0].address,
       getIcon(station[0].owner)
     );
+
+    const spotlightTitle = document.querySelector(".spotlight-title");
+    spotlightTitle.addEventListener("click", handleChangeCenter);
+
+    function handleChangeCenter(e) {
+      e.preventDefault();
+      initMap(station[0].lat, station[0].lng);
+    }
   });
 }
 
