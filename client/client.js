@@ -52,14 +52,27 @@ async function initMap(stationLat = null, stationLng = null) {
   //// MAP CENTER LOCATION  ////
   let latitudeCordinates = document.querySelector(".map-latitude");
   let longitudeCordinates = document.querySelector(".map-longitude");
+  let mapAddressPara = document.querySelector(".map-address");
 
   google.maps.event.addListener(map, "idle", function () {
     const center = this.getCenter();
     const latitude = center.lat();
     const longitude = center.lng();
 
-    latitudeCordinates.innerHTML = latitude;
-    longitudeCordinates.innerHTML = longitude;
+    latitudeCordinates.textContent = latitude;
+    longitudeCordinates.textContent = longitude;
+
+    geocoder.geocode({ location: center }, function (results, status) {
+      if (status === "OK") {
+        if (results[0]) {
+          mapAddressPara.textContent = results[0].formatted_address;
+        } else {
+          mapAddressPara.textContent = "Address not found";
+        }
+      } else {
+        mapAddressPara.textContent = "Geocoder failed due to: " + status;
+      }
+    });
   });
   ////////////////////////////
 
@@ -105,25 +118,25 @@ async function initMap(stationLat = null, stationLng = null) {
   });
   clear();
 
-  let button = document.querySelector(".lookup-address");
+  // let button = document.querySelector(".lookup-address");
 
-  // Add an event listener to the button
-  button.addEventListener("click", function () {
-    // console.log("Button clicked");
-    let center = map.getCenter();
+  // // Add an event listener to the button
+  // button.addEventListener("click", function () {
+  //   // console.log("Button clicked");
+  //   let center = map.getCenter();
 
-    geocoder.geocode({ location: center }, function (results, status) {
-      if (status === "OK") {
-        if (results[0]) {
-          alert("Address: " + results[0].formatted_address);
-        } else {
-          window.alert("No results found");
-        }
-      } else {
-        window.alert("Geocoder failed due to: " + status);
-      }
-    });
-  });
+  //   geocoder.geocode({ location: center }, function (results, status) {
+  //     if (status === "OK") {
+  //       if (results[0]) {
+  //         alert("Address: " + results[0].formatted_address);
+  //       } else {
+  //         window.alert("No results found");
+  //       }
+  //     } else {
+  //       window.alert("Geocoder failed due to: " + status);
+  //     }
+  //   });
+  // });
 }
 
 function clear() {
