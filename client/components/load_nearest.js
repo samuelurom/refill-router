@@ -26,13 +26,32 @@ function loadNearestStations(stations) {
   });
 
   const nearestTitles = document.querySelectorAll(".nearest-station-item a");
+  const nearestDistance = document.querySelectorAll(
+    ".nearest-station-item strong"
+  );
 
   nearestTitles.forEach((stationTitle) => {
     stationTitle.addEventListener("click", handleChangeNearestCenter);
   });
 
+  nearestDistance.forEach((distance) => {
+    distance.addEventListener("click", handleChangeMetric);
+  });
+
   function handleChangeNearestCenter(e) {
     e.preventDefault();
     initMap(Number(e.target.classList[0]), Number(e.target.classList[1]));
+  }
+
+  function handleChangeMetric(e) {
+    let meters;
+
+    if (e.target.textContent.split(" ")[1] === "meters") {
+      meters = Number(e.target.textContent.split(" ")[0]) / 1000;
+      e.target.textContent = meters + " km";
+    } else {
+      meters = Number(e.target.textContent.split(" ")[0]) * 1000;
+      e.target.textContent = meters + " meters";
+    }
   }
 }
