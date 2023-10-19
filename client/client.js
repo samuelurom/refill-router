@@ -14,26 +14,25 @@ const stationIcons = {
   BP: "BP.png",
 };
 
-let userLat;
-let userLng;
+let mapLat;
+let mapLng;
 
 navigator.geolocation.getCurrentPosition(async (position) => {
-  userLat = await position.coords.latitude;
-  userLng = await position.coords.longitude;
-  console.log(userLat, userLng);
+  mapLat = await position.coords.latitude;
+  mapLng = await position.coords.longitude;
   initMap();
 });
 
 async function initMap(stationLat = null, stationLng = null) {
   if (stationLat && stationLng) {
-    userLat = stationLat;
-    userLng = stationLng;
+    mapLat = stationLat;
+    mapLng = stationLng;
   }
 
   const { Map } = await google.maps.importLibrary("maps");
 
   map = new Map(document.getElementById("map"), {
-    center: { lat: userLat, lng: userLng },
+    center: { lat: mapLat, lng: mapLng },
     zoom: 13,
     minZoom: 9,
   });
@@ -41,7 +40,7 @@ async function initMap(stationLat = null, stationLng = null) {
   geocoder = new google.maps.Geocoder();
   // console.log("geocoder is here");
 
-  google.maps.event.addListener(map, "bounds_changed", function () {
+  google.maps.event.addListener(map, "idle", function () {
     const bounds = this.getBounds();
     const ne = bounds.getNorthEast();
     const sw = bounds.getSouthWest();
@@ -58,6 +57,9 @@ async function initMap(stationLat = null, stationLng = null) {
     const center = this.getCenter();
     const latitude = center.lat();
     const longitude = center.lng();
+
+    mapLat = latitude;
+    mapLng = longitude;
 
     latitudeCordinates.textContent = latitude;
     longitudeCordinates.textContent = longitude;
