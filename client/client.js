@@ -33,6 +33,9 @@ async function initMap() {
     minZoom: 9,
   });
 
+  geocoder = new google.maps.Geocoder();
+  // console.log("geocoder is here");
+
   google.maps.event.addListener(map, "bounds_changed", function () {
     const bounds = this.getBounds();
     const ne = bounds.getNorthEast();
@@ -45,7 +48,7 @@ async function initMap() {
   let latitudeCordinates = document.querySelector(".map-latitude");
   let longitudeCordinates = document.querySelector(".map-longitude");
 
-  google.maps.event.addListener(map, "center_changed", function () {
+  google.maps.event.addListener(map, "idle", function () {
     const center = this.getCenter();
     const latitude = center.lat();
     const longitude = center.lng();
@@ -54,45 +57,6 @@ async function initMap() {
     longitudeCordinates.innerHTML = longitude;
   });
   ////////////////////////////
-  //   fetch("http://localhost:8080/api/stations/all")
-  //     .then((res) => res.json())
-  //     .then((stations) => {
-  //       for (const station of stations) {
-  //         const marker = new google.maps.Marker({
-  //           position: { lat: station.lat, lng: station.lng },
-  //           map: map,
-  //           title: station.name,
-  //           icon: {
-  //             url: `/images/${stationIcons[station.owner] || "fuel_icon.png"}`,
-  //             scaledSize: new google.maps.Size(45, 45),
-  //           },
-  //         });
-
-  //         const infoWindow = new google.maps.InfoWindow({
-  //           content: `<div> ${station.name}</div>
-  //                           <div> ${station.address}</div>`,
-  //         });
-
-  //         marker.addListener("click", () => {
-  //           closeAllInfoWindows();
-
-  //           infoWindow.open({
-  //             anchor: marker,
-  //             map,
-  //           });
-  //           activeInfoWindow = infoWindow;
-  //         });
-  //       }
-  //     });
-
-  //   let activeInfoWindow;
-  //   function closeAllInfoWindows() {
-  //     if (activeInfoWindow) {
-  //       activeInfoWindow.close();
-  //     }
-  //   }
-  // }
-  geocoder = new google.maps.Geocoder();
 
   const inputText = document.createElement("input");
 
@@ -135,6 +99,26 @@ async function initMap() {
     clear();
   });
   clear();
+
+  let button = document.querySelector(".lookup-address");
+
+  // Add an event listener to the button
+  button.addEventListener("click", function () {
+    // console.log("Button clicked");
+    let center = map.getCenter();
+
+    geocoder.geocode({ location: center }, function (results, status) {
+      if (status === "OK") {
+        if (results[0]) {
+          alert("Address: " + results[0].formatted_address);
+        } else {
+          window.alert("No results found");
+        }
+      } else {
+        window.alert("Geocoder failed due to: " + status);
+      }
+    });
+  });
 }
 
 function clear() {
@@ -212,39 +196,6 @@ function checkTime(i) {
 
 // list of 10 stations
 startTime();
-
-// fetch("/api/stations/all")
-//   .then((response) => response.json())
-//   .then((stations) => {
-//     const stationsList = document.querySelector(".stationsList"); // Select the .stationsList class
-
-//     stations.slice(0, 10).forEach((station) => {
-//       const stationElement = document.createElement("div");
-//       stationElement.className = "nearest-station-item";
-//       stationElement.innerHTML = `
-//         <img src="/images/${
-//           stationIcons[station.owner] || "fuel_icon.png"
-//         }" alt="${station.name}">
-//         <div>
-//           <p>${station.name}</p>
-//           <p>${station.address}</p>
-//         </div>
-//       `;
-//       stationsList.appendChild(stationElement);
-//     });
-//   });
-
-// function getLocation() {
-//   navigator.geolocation.getCurrentPosition((position) => {
-//     const lat = position.coords.latitude;
-//     const lng = position.coords.longitude;
-//     return {
-//       lat,
-//       lng,
-//     };
-//   });
-// }
-// console.log(getLocation());
 
 // Latest Oil Prices
 async function fetchData(symbol) {
