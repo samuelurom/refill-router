@@ -13,14 +13,26 @@ function loadNearestStations(stations) {
               stationIcons[station.owner] || "fuel_icon.png"
             }" alt="${station.name}">
             <div>
-            <p>${station.name} <strong>${station.distance.toFixed(
-      2
-    )} km's</strong></p>
+            <p><a href="" class="${station.lat} ${station.lng}">${
+      station.name
+    }</a> <strong>${station.distance.toFixed(2)} km</strong></p>
   
               <p>${station.address}</p>
              
             </div>
           `;
+
     stationsList.appendChild(stationElement);
   });
+
+  const nearestTitles = document.querySelectorAll(".nearest-station-item a");
+
+  nearestTitles.forEach((stationTitle) => {
+    stationTitle.addEventListener("click", handleChangeNearestCenter);
+  });
+
+  function handleChangeNearestCenter(e) {
+    e.preventDefault();
+    initMap(Number(e.target.classList[0]), Number(e.target.classList[1]));
+  }
 }
