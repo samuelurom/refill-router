@@ -6,13 +6,16 @@
     <title>RefillRouter</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <link rel="stylesheet" href="/css/style.css" />
+    <link rel="icon" href="./images/favicon.png" type="image/png" />
   </head>
 
   <body onload="startTime()">
     <div class="container">
       <aside class="col-left" id="left-sidebar">
+        <section class="logo-section">
+          <img class="logo-img" src="./images/RefillRouter-logos.png" alt="" />
+        </section>
         <section>
-          Time
           <div id="clockdate">
             <div class="clockdate-wrapper">
               <div id="clock"></div>
@@ -23,8 +26,8 @@
         <section class="spotlight-section">Spotlight</section>
         <section class="map-location">
           Map Location
-          <p class="map-latitude"></p>
-          <p class="map-longitude"></p>
+          <p class="map-latitude gray"></p>
+          <p class="map-longitude gray"></p>
           <button class="lookup-address">Lookup Address</button>
         </section>
         <section class="stationsList"></section>
@@ -40,8 +43,8 @@
 
       <aside class="col-right" id="right-sidebar">
         <section class="stats-section"></section>
-        <section>
-          Latest Prices
+        <section class="latest-prices">
+          <p>Latest Prices</p>
           <p class="last-crude-price"></p>
           <p class="last-brent-price"></p>
           <p class="last-naturalgas-price"></p>
