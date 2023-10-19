@@ -1,5 +1,3 @@
-const { head } = require("../../routes/stats_router");
-
 function fetchStationsByBounds(swLat, neLat, swLng, neLng) {
   fetch(
     `/api/stations/bounds?neLat=${neLat}&neLng=${neLng}&swLat=${swLat}&swLng=${swLng}`
