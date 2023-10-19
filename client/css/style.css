@@ -50,6 +50,7 @@ ul {
 .refresh-icon {
   width: 25px;
 }
+
 .map-location > p,
 .latest-prices > p {
   font-size: 14px;
@@ -208,4 +209,13 @@ input[type="button"].button-secondary:hover {
   overflow: hidden;
   padding: 1rem;
   font-size: medium;
+}
+
+.about-section > ul {
+  font-size: 18px;
+}
+
+.github-icon {
+  width: 28px;
+  height: 28px;
 }
