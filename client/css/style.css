@@ -16,13 +16,15 @@ h3 {
 }
 
 section {
-  border-bottom: 2px solid black;
-  padding: 10px;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 10px;
+  background-color: #fff;
 }
 
 main {
-  border-left: 2px solid black;
-  border-right: 2px solid black;
+  border-left: 2px solid rgb(184, 184, 184);
+  border-right: 2px solid rgb(184, 184, 184);
   height: 100vh;
 }
 ul {
@@ -34,6 +36,33 @@ ul {
 .container {
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
+}
+.col-left,
+.col-right {
+  background-color: #f1f1f1;
+  max-width: 400px;
+}
+
+.spotlight-section {
+  background-image: url("../images/blurr-bg-blue.png");
+  background-size: cover;
+  color: rgb(255, 255, 255);
+}
+.refresh-icon {
+  width: 25px;
+}
+.map-location > p,
+.latest-prices > p {
+  font-size: 14px;
+}
+.gray {
+  color: gray;
+}
+.logo-section {
+  background-color: #f1f1f1;
+}
+.logo-img {
+  width: 150px;
 }
 
 @media (max-width: 768px) {
@@ -53,13 +82,14 @@ ul {
 }
 
 /* CLOCK */
-.clockdate-wrapper {
-}
+
 #clock {
+  font-size: 20px;
 }
-#clock span {
-}
+
 #date {
+  font-size: 12px;
+  color: rgb(91, 91, 91);
 }
 
 .nearest-station-item {

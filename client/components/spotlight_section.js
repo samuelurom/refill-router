@@ -1,9 +1,18 @@
 const spotlightSection = document.querySelector(".spotlight-section");
+let currentBgIndex = 0;
+
+const bgImages = [
+  "blurr-bg-green.png",
+  "blurr-bg-orange.png",
+  "blurr-bg-blue.png",
+  "blurr-bg-red.png",
+];
 
 spotlightSection.innerHTML = `
   <div class="spotlight-header col-2-full">
     <h2>Spotlight</h2>
-    <a href="">refresh</a>
+    <a href=""><img class="refresh-icon" src="./images/refresh.png" />
+    </a>
   </div>
   <div class="spotlight-body col-2-full">
   </div>
@@ -15,6 +24,12 @@ refreshBtn.addEventListener("click", handleRefresh);
 function handleRefresh(e) {
   e.preventDefault();
   loadRandomStation();
+  switchBackgroundImage();
+}
+
+function switchBackgroundImage() {
+  currentBgIndex = (currentBgIndex + 1) % bgImages.length;
+  spotlightSection.style.backgroundImage = `url('./images/${bgImages[currentBgIndex]}')`;
 }
 
 function renderSpotight(title, address, image) {
